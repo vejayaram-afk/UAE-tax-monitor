@@ -1,0 +1,5 @@
+requests>=2.31
+beautifulsoup4>=4.12
+feedparser>=6.0
+PyYAML>=6.0
+openpyxl>=3.1

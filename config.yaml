@@ -1,0 +1,202 @@
+# =============================================================================
+#  UAE TAX & REPORTING UPDATE MONITOR — SOURCE CONFIGURATION
+# =============================================================================
+#  Edit this file to add, remove or change sources. You do not need to touch
+#  any Python code to do that.
+#
+#  Three source types are supported:
+#
+#    google_news  Searches Google News and returns matching articles. The most
+#                 reliable type, because it never breaks when a website is
+#                 redesigned. Use this as your safety net for every topic.
+#
+#    rss          Reads a site's RSS or Atom feed directly. Cleanest results
+#                 where a feed exists.
+#
+#    html         Scrapes a web page for links. Use where there is no feed.
+#                 Needs a CSS selector. WILL break if the site is redesigned,
+#                 which is why every topic also has a google_news source.
+#
+#  IMPORTANT: government websites are restructured periodically. Run
+#  `python monitor.py --check` after setup, and again if a source stops
+#  returning results, to confirm each URL still resolves.
+# =============================================================================
+
+settings:
+  # How many days an item stays flagged as NEW on the dashboard
+  new_for_days: 7
+  # Discard items older than this many days (keeps the dashboard current)
+  max_age_days: 400
+  # Seconds to wait for a slow website before giving up
+  timeout: 25
+  # Polite delay between requests, in seconds
+  delay: 1.5
+  # Dashboard title
+  site_title: "UAE Tax & Reporting Update Monitor"
+  site_subtitle: "Federal Tax Authority · Ministry of Finance · IFRS Foundation"
+
+# -----------------------------------------------------------------------------
+#  KEYWORDS
+#  An item is tagged with a category if its title contains any of these terms.
+#  Items matching no category are still captured, under "Other".
+# -----------------------------------------------------------------------------
+categories:
+  Corporate Tax:
+    - corporate tax
+    - corporate income tax
+    - taxable person
+    - small business relief
+    - free zone
+    - qualifying income
+    - tax group
+    - emaratax
+    - domestic minimum top-up
+    - pillar two
+    - participation exemption
+  VAT:
+    - vat
+    - value added tax
+    - input tax
+    - output tax
+    - reverse charge
+    - zero-rated
+    - tax invoice
+    - designated zone
+    - excise
+  Transfer Pricing:
+    - transfer pricing
+    - arm's length
+    - arms length
+    - related party
+    - connected person
+    - master file
+    - local file
+    - advance pricing
+    - country-by-country
+  E-Invoicing:
+    - e-invoic
+    - einvoic
+    - electronic invoic
+    - accredited service provider
+    - peppol
+  IFRS / Reporting:
+    - ifrs
+    - ias
+    - international financial reporting
+    - accounting standard
+    - iasb
+    - disclosure
+    - exposure draft
+
+# -----------------------------------------------------------------------------
+#  SOURCES
+# -----------------------------------------------------------------------------
+sources:
+
+  # === OFFICIAL — FEDERAL TAX AUTHORITY ======================================
+  - name: "FTA — Public Clarifications"
+    type: html
+    url: "https://tax.gov.ae/en/legislation/public.clarifications.aspx"
+    selector: "a[href$='.pdf'], .listing a, .accordion a"
+    authority: official
+    enabled: true
+
+  - name: "FTA — Legislation"
+    type: html
+    url: "https://tax.gov.ae/en/legislation/"
+    selector: "a[href$='.pdf'], .listing a"
+    authority: official
+    enabled: true
+
+  - name: "FTA — Guides, References & Publications"
+    type: html
+    url: "https://tax.gov.ae/en/guides.references/"
+    selector: "a[href$='.pdf'], .listing a"
+    authority: official
+    enabled: true
+
+  - name: "FTA — Media Centre / News"
+    type: html
+    url: "https://tax.gov.ae/en/media.centre/news/"
+    selector: ".news-item a, article a, .card a"
+    authority: official
+    enabled: true
+
+  # === OFFICIAL — MINISTRY OF FINANCE ========================================
+  - name: "Ministry of Finance — News"
+    type: html
+    url: "https://mof.gov.ae/en/news/"
+    selector: "article a, .news-card a, .post a, h3 a, h2 a"
+    authority: official
+    enabled: true
+
+  - name: "Ministry of Finance — Corporate Tax"
+    type: html
+    url: "https://mof.gov.ae/corporate-tax/"
+    selector: "a[href$='.pdf'], article a, .accordion a"
+    authority: official
+    enabled: true
+
+  # === OFFICIAL — IFRS FOUNDATION ============================================
+  - name: "IFRS Foundation — News"
+    type: html
+    url: "https://www.ifrs.org/news-and-events/news/"
+    selector: ".news-listing a, article a, h3 a, .card a"
+    authority: official
+    enabled: true
+
+  - name: "IFRS Foundation — IASB Updates"
+    type: html
+    url: "https://www.ifrs.org/news-and-events/updates/iasb/"
+    selector: "article a, h3 a, .card a, .listing a"
+    authority: official
+    enabled: true
+
+  # === SAFETY NET — GOOGLE NEWS ==============================================
+  # These keep working even when the scrapers above break. Do not disable them.
+
+  - name: "News — UAE Corporate Tax"
+    type: google_news
+    query: '"corporate tax" UAE (FTA OR "Ministry of Finance" OR "ministerial decision")'
+    authority: news
+    enabled: true
+
+  - name: "News — UAE VAT"
+    type: google_news
+    query: 'UAE VAT ("Federal Tax Authority" OR "public clarification" OR "decree-law" OR amendment)'
+    authority: news
+    enabled: true
+
+  - name: "News — UAE Transfer Pricing"
+    type: google_news
+    query: 'UAE "transfer pricing" OR "related party" corporate tax disclosure'
+    authority: news
+    enabled: true
+
+  - name: "News — UAE E-Invoicing"
+    type: google_news
+    query: 'UAE e-invoicing "accredited service provider" OR mandate OR "Ministry of Finance"'
+    authority: news
+    enabled: true
+
+  - name: "News — IFRS Standards"
+    type: google_news
+    query: '"IFRS 18" OR "IFRS 19" OR IASB "new standard" OR "exposure draft"'
+    authority: news
+    enabled: true
+
+  - name: "News — FTA Announcements"
+    type: google_news
+    query: '"Federal Tax Authority" UAE announcement OR deadline OR penalty OR guide'
+    authority: news
+    enabled: true
+
+  # === PROFESSIONAL COMMENTARY ===============================================
+  # Interpretation, which is often more useful than the primary text.
+  # Add or remove firms to taste.
+
+  - name: "News — Big 4 UAE Tax Commentary"
+    type: google_news
+    query: '(PwC OR Deloitte OR KPMG OR EY) UAE tax alert OR "corporate tax" OR VAT'
+    authority: commentary
+    enabled: true
