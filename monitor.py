@@ -111,13 +111,29 @@ def categorise(title, categories):
     return hits or ["Other"]
 
 
+EXTRA_NOISE = {
+    "international accounting standards board", "ifrs foundation",
+    "federal tax authority", "ministry of finance", "home builders",
+    "our strategy", "federal budget", "director general", "open data",
+    "media centre", "e-services", "annual report", "organisation chart",
+}
+
+
 def looks_like_content(text, href):
     if not href or href.startswith(("javascript:", "mailto:", "tel:", "#")):
         return False
     text = clean(text)
-    if len(text) < 18:
+    text = re.sub(r"\s*\(current\)\s*$", "", text, flags=re.I)
+    if len(text) < 25 or len(text.split()) < 4:
         return False
-    if NOISE.match(text):
+    if NOISE.match(text) or text.lower() in EXTRA_NOISE:
+        return False
+    letters = [c for c in text if c.isalpha()]
+    if letters and sum(1 for c in letters if "\u0600" <= c <= "\u06ff") / len(letters) > 0.4:
+        return False
+    words = text.lower().split()
+    half = len(words) // 2
+    if half and words[:half] == words[half:half * 2]:
         return False
     return True
 
