@@ -31,6 +31,9 @@ settings:
   timeout: 25
   # Polite delay between requests, in seconds
   delay: 1.5
+  # Skip items whose titles are mostly Arabic script. The FTA and MoF sites
+  # carry the same content in both languages; set to false to keep both.
+  english_only: true
   # Dashboard title
   site_title: "UAE Tax & Reporting Update Monitor"
   site_subtitle: "Federal Tax Authority · Ministry of Finance · IFRS Foundation"
@@ -97,21 +100,21 @@ sources:
   - name: "FTA — Public Clarifications"
     type: html
     url: "https://tax.gov.ae/en/legislation/public.clarifications.aspx"
-    selector: "a[href$='.pdf'], .listing a, .accordion a"
+    selector: "a[href$='.pdf'], .listing a, .accordion a, article a, td a"
     authority: official
     enabled: true
 
   - name: "FTA — Legislation"
     type: html
     url: "https://tax.gov.ae/en/legislation/"
-    selector: "a[href$='.pdf'], .listing a"
+    selector: "a[href$='.pdf'], .listing a, .accordion a, article a, td a"
     authority: official
     enabled: true
 
   - name: "FTA — Guides, References & Publications"
     type: html
     url: "https://tax.gov.ae/en/guides.references/"
-    selector: "a[href$='.pdf'], .listing a"
+    selector: "a[href$='.pdf'], .listing a, .accordion a, article a, td a"
     authority: official
     enabled: true
 
@@ -133,7 +136,7 @@ sources:
   - name: "Ministry of Finance — Corporate Tax"
     type: html
     url: "https://mof.gov.ae/corporate-tax/"
-    selector: "a[href$='.pdf'], article a, .accordion a"
+    selector: "a[href$='.pdf'], article a, .accordion a, .card a"
     authority: official
     enabled: true
 
@@ -141,14 +144,14 @@ sources:
   - name: "IFRS Foundation — News"
     type: html
     url: "https://www.ifrs.org/news-and-events/news/"
-    selector: ".news-listing a, article a, h3 a, .card a"
+    selector: "article a, h2 a, h3 a, .news-listing a, .card a"
     authority: official
     enabled: true
 
   - name: "IFRS Foundation — IASB Updates"
     type: html
     url: "https://www.ifrs.org/news-and-events/updates/iasb/"
-    selector: "article a, h3 a, .card a, .listing a"
+    selector: "article a, h2 a, h3 a, .listing a, .card a"
     authority: official
     enabled: true
 
@@ -157,37 +160,37 @@ sources:
 
   - name: "News — UAE Corporate Tax"
     type: google_news
-    query: '"corporate tax" UAE (FTA OR "Ministry of Finance" OR "ministerial decision")'
+    query: '"corporate tax" UAE (FTA OR "Ministry of Finance" OR "ministerial decision") when:7d'
     authority: news
     enabled: true
 
   - name: "News — UAE VAT"
     type: google_news
-    query: 'UAE VAT ("Federal Tax Authority" OR "public clarification" OR "decree-law" OR amendment)'
+    query: 'UAE VAT ("Federal Tax Authority" OR "public clarification" OR "decree-law" OR amendment) when:7d'
     authority: news
     enabled: true
 
   - name: "News — UAE Transfer Pricing"
     type: google_news
-    query: 'UAE "transfer pricing" OR "related party" corporate tax disclosure'
+    query: 'UAE "transfer pricing" OR "related party" corporate tax disclosure when:7d'
     authority: news
     enabled: true
 
   - name: "News — UAE E-Invoicing"
     type: google_news
-    query: 'UAE e-invoicing "accredited service provider" OR mandate OR "Ministry of Finance"'
+    query: 'UAE e-invoicing "accredited service provider" OR mandate OR "Ministry of Finance" when:7d'
     authority: news
     enabled: true
 
   - name: "News — IFRS Standards"
     type: google_news
-    query: '"IFRS 18" OR "IFRS 19" OR IASB "new standard" OR "exposure draft"'
+    query: '"IFRS 18" OR "IFRS 19" OR IASB "new standard" OR "exposure draft" when:7d'
     authority: news
     enabled: true
 
   - name: "News — FTA Announcements"
     type: google_news
-    query: '"Federal Tax Authority" UAE announcement OR deadline OR penalty OR guide'
+    query: '"Federal Tax Authority" UAE ("public clarification" OR "new guide" OR deadline OR penalty OR decision) when:7d'
     authority: news
     enabled: true
 
@@ -197,6 +200,6 @@ sources:
 
   - name: "News — Big 4 UAE Tax Commentary"
     type: google_news
-    query: '(PwC OR Deloitte OR KPMG OR EY) UAE tax alert OR "corporate tax" OR VAT'
+    query: '(PwC OR Deloitte OR KPMG OR EY) UAE ("tax alert" OR "corporate tax" OR "transfer pricing") when:7d'
     authority: commentary
     enabled: true
