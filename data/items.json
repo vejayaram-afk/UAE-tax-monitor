@@ -12,7 +12,7 @@
     ],
     "published": null,
     "first_seen": "2026-08-09T05:06:46.551057+00:00",
-    "last_seen": "2026-08-09T05:06:46.551077+00:00",
+    "last_seen": "2026-08-09T05:16:56.457255+00:00",
     "domain": "mof.gov.ae",
     "read": false,
     "actioned": false
@@ -30,7 +30,7 @@
     ],
     "published": null,
     "first_seen": "2026-08-09T05:06:46.551131+00:00",
-    "last_seen": "2026-08-09T05:06:46.551134+00:00",
+    "last_seen": "2026-08-09T05:16:56.457280+00:00",
     "domain": "mof.gov.ae",
     "read": false,
     "actioned": false
@@ -48,7 +48,7 @@
     ],
     "published": null,
     "first_seen": "2026-08-09T05:06:46.551179+00:00",
-    "last_seen": "2026-08-09T05:06:46.551181+00:00",
+    "last_seen": "2026-08-09T05:16:56.457286+00:00",
     "domain": "mof.gov.ae",
     "read": false,
     "actioned": false
@@ -84,7 +84,7 @@
     ],
     "published": "2026-08-03T16:26:50+00:00",
     "first_seen": "2026-08-09T05:06:59.311662+00:00",
-    "last_seen": "2026-08-09T05:06:59.311665+00:00",
+    "last_seen": "2026-08-09T05:17:08.745147+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -120,7 +120,7 @@
     ],
     "published": "2026-08-07T13:47:09+00:00",
     "first_seen": "2026-08-09T05:06:59.311726+00:00",
-    "last_seen": "2026-08-09T05:06:59.311728+00:00",
+    "last_seen": "2026-08-09T05:17:08.745169+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -138,7 +138,7 @@
     ],
     "published": "2026-08-07T17:15:12+00:00",
     "first_seen": "2026-08-09T05:06:59.311760+00:00",
-    "last_seen": "2026-08-09T05:06:59.311763+00:00",
+    "last_seen": "2026-08-09T05:17:08.745184+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -192,7 +192,7 @@
     ],
     "published": "2026-08-03T09:55:25+00:00",
     "first_seen": "2026-08-09T05:06:59.311845+00:00",
-    "last_seen": "2026-08-09T05:06:59.311847+00:00",
+    "last_seen": "2026-08-09T05:17:17.481300+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -210,7 +210,7 @@
     ],
     "published": "2026-08-07T08:16:00+00:00",
     "first_seen": "2026-08-09T05:06:59.311873+00:00",
-    "last_seen": "2026-08-09T05:06:59.311875+00:00",
+    "last_seen": "2026-08-09T05:17:08.745180+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -228,7 +228,7 @@
     ],
     "published": "2026-08-03T16:47:42+00:00",
     "first_seen": "2026-08-09T05:06:59.311896+00:00",
-    "last_seen": "2026-08-09T05:06:59.311898+00:00",
+    "last_seen": "2026-08-09T05:17:08.745175+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -336,7 +336,7 @@
     ],
     "published": "2026-08-03T18:32:58+00:00",
     "first_seen": "2026-08-09T05:06:59.312071+00:00",
-    "last_seen": "2026-08-09T05:07:09.109446+00:00",
+    "last_seen": "2026-08-09T05:17:17.481294+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -354,7 +354,7 @@
     ],
     "published": "2026-08-07T08:17:45+00:00",
     "first_seen": "2026-08-09T05:06:59.312097+00:00",
-    "last_seen": "2026-08-09T05:06:59.312099+00:00",
+    "last_seen": "2026-08-09T05:17:08.745193+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -444,7 +444,7 @@
     ],
     "published": "2026-08-03T12:52:00+00:00",
     "first_seen": "2026-08-09T05:06:59.312221+00:00",
-    "last_seen": "2026-08-09T05:07:09.109521+00:00",
+    "last_seen": "2026-08-09T05:17:17.481304+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -661,7 +661,7 @@
     ],
     "published": "2026-08-07T12:10:00+00:00",
     "first_seen": "2026-08-09T05:06:59.312555+00:00",
-    "last_seen": "2026-08-09T05:06:59.312557+00:00",
+    "last_seen": "2026-08-09T05:17:17.481348+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -697,7 +697,7 @@
     ],
     "published": "2026-08-02T09:39:27+00:00",
     "first_seen": "2026-08-09T05:06:59.312613+00:00",
-    "last_seen": "2026-08-09T05:06:59.312614+00:00",
+    "last_seen": "2026-08-09T05:17:10.536319+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -3712,7 +3712,7 @@
     ],
     "published": "2026-08-07T05:56:59+00:00",
     "first_seen": "2026-08-09T05:07:05.157423+00:00",
-    "last_seen": "2026-08-09T05:07:05.157429+00:00",
+    "last_seen": "2026-08-09T05:17:14.045862+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -6276,7 +6276,7 @@
     ],
     "published": "2026-08-03T12:05:00+00:00",
     "first_seen": "2026-08-09T05:07:09.109591+00:00",
-    "last_seen": "2026-08-09T05:07:09.109593+00:00",
+    "last_seen": "2026-08-09T05:17:17.481309+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -7358,7 +7358,7 @@
     ],
     "published": "2026-08-05T12:19:55+00:00",
     "first_seen": "2026-08-09T05:07:11.101099+00:00",
-    "last_seen": "2026-08-09T05:07:11.101105+00:00",
+    "last_seen": "2026-08-09T05:17:10.536200+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -8695,6 +8695,385 @@
     "published": "2024-11-13T08:00:00+00:00",
     "first_seen": "2026-08-09T05:07:11.103041+00:00",
     "last_seen": "2026-08-09T05:07:11.103043+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "7f401a1af3c896e8": {
+    "id": "7f401a1af3c896e8",
+    "title_key": "e97d9426ede7d44b",
+    "title": "UAE extends Corporate Tax Small Business Relief until end of 2029 - travelsdubai.com",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYzFrN28yN3RDREhxYV9CVHl3UGU1NlpvSFJqaHJGWVpraVhEOEtqTnZVQk1OTjVjX1djWENocHdtYy1WY1dBSHZncjg3aGxWOXlwcFktaVVxYzBmZllLbzBaLUUxSEpyNW1HX3V5MG9YMWhTcjNfcnZxQ1JKRHZkMjlYSjlmUHk1SGFEYy0tYmlqWE96ajBqUnNSS19TUQ?oc=5",
+    "summary": "UAE extends Corporate Tax Small Business Relief until end of 2029 travelsdubai.com",
+    "source": "News — UAE Corporate Tax",
+    "authority": "news",
+    "categories": [
+      "Corporate Tax"
+    ],
+    "published": "2026-08-07T11:14:00+00:00",
+    "first_seen": "2026-08-09T05:17:08.745435+00:00",
+    "last_seen": "2026-08-09T05:17:08.745439+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "86cbecd6088ed715": {
+    "id": "86cbecd6088ed715",
+    "title_key": "f7a83210d98bda9f",
+    "title": "UAE tourists can now claim VAT refunds on eligible Noon online shopping purchases - Arabian Business",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSk0xOTlEQk5DQm4tczlCUE1jZ1dmamdsaUQ2TUYwWnlNd2JHMjhhVXZVUF8wNGpSVUFRNXhvU01pY01FMlUwWEt0anFyS3Q3QS0wa3BjZE1YLWtkWkpYeUJxVmlaSUhQM0Z3Mk9odUFYenhNRnBZeUkyQ0doNWJ2VGUySGY2dG9kMnlJaWhuWEMzb25aWjA1VXZkLWRwelk1MXJjbjBrV2F1Z29KZTJ3?oc=5",
+    "summary": "UAE tourists can now claim VAT refunds on eligible Noon online shopping purchases Arabian Business",
+    "source": "News — UAE VAT",
+    "authority": "news",
+    "categories": [
+      "VAT"
+    ],
+    "published": "2026-08-05T21:36:25+00:00",
+    "first_seen": "2026-08-09T05:17:10.536265+00:00",
+    "last_seen": "2026-08-09T05:17:10.536269+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "bc629c3e62479c50": {
+    "id": "bc629c3e62479c50",
+    "title_key": "aaf41e5f4151470d",
+    "title": "Tourists can now claim VAT refunds at 19,300 retail outlets across the UAE - Gulf Business",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV2tyUkVhVzNVUlZ0QW9LdW5PWV9OTEVSN1FHU2c0Um9qbTRDNXFIdmZUaERGcDFPUkkyTVpzWXBQblJHb1VzVERybTh5WkIzcnRoRFo1ZVBicVRMQXpFZXB3VVJRQVZ6UDNNZDItT1RuTXcxYWxtSU1PaGlPNTFNUnpzLXBGX2QxSy1WVjU4alg4Q0dEWmY4WFZ6cEt1a1FZQXpRODFFN0xRT3VwSWFfNw?oc=5",
+    "summary": "Tourists can now claim VAT refunds at 19,300 retail outlets across the UAE Gulf Business",
+    "source": "News — UAE VAT",
+    "authority": "news",
+    "categories": [
+      "VAT"
+    ],
+    "published": "2026-08-06T06:55:40+00:00",
+    "first_seen": "2026-08-09T05:17:10.536307+00:00",
+    "last_seen": "2026-08-09T05:17:17.481353+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "cca9d0b2016495bb": {
+    "id": "cca9d0b2016495bb",
+    "title_key": "a7e25db2ef3cd8c1",
+    "title": "Indians, Russians, Turks top list of tourists claiming the most VAT refunds in UAE - Khaleej Times",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPek9sY1dJUkpRblhiYnJDdDExOW1yREdXd1oyZ1Yxb0FnZlBYNTd3SUxGWnVMenlZVGlqRlIxLUszNk1Jd3BpcF9rVE9XLVF1OWdhY01fd0gteTJFRkVJLVREMjl4ZVRGZHJacUxJREpRN3UxdHFncGhITEQ0MnUzTkhKY2FSZnBnaFUzZDEyRnZOdG1hOWVFX2FLNG9Ca1lGekQzcllxd0FqTUhvTTRZM3MxcElQV0JaMWfSAcIBQVVfeXFMT2FPTEx4WGUzNUNhZWdBa1MzVU5GN1p3SkRwM0o5TWlqenhqVTNhR1Z0bThyN0laMS1tOUhfaG1qMmZpQi1pT3lTNEhKT2l3SklKZ1E3MXkyYVBrMnUwOTh1Y2RxSkFISUdlT1B6Qm1tTV9CUV9YM0xwcTJ2NzVmWUcxaFJ2YzhYeVBjZG1WSG9vcVc2N2tqRzNreHFwWVpaaUdncndzVEVLaE8zeHczU0Jvdl9FazU2NE1CNWZqQmZmekE?oc=5",
+    "summary": "Indians, Russians, Turks top list of tourists claiming the most VAT refunds in UAE Khaleej Times",
+    "source": "News — UAE VAT",
+    "authority": "news",
+    "categories": [
+      "VAT"
+    ],
+    "published": "2026-08-05T14:40:46+00:00",
+    "first_seen": "2026-08-09T05:17:10.536348+00:00",
+    "last_seen": "2026-08-09T05:17:10.536350+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "e36bbe47d8531b33": {
+    "id": "e36bbe47d8531b33",
+    "title_key": "33a214f46b834f4b",
+    "title": "Retail outlets linked to UAE's Digital Tourist VAT Refund System exceed 19,300 - Emirates 24|7",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXRBMGsxX1Q5SkJXcEFwWnV3c0VVc19jUnRkWU5yMVlPelltaEhvOWNLcEJxYi1KUExWMVlmZE1FOExZYklsRHU4N3lQZGppMDRnYUFaRU1OWHdwaVpiWWowOENidVJjbDFPeTQyQklzOGM5bXhQbDJrRFg2TkR6bUplTzJNZzl2M3dJT2FEeHVTTVNtTml6UEdoZUFDcVRCZWFHMGg1ejZoSWI1UWFCLV9zREotcmF3V0HSAdQBQVVfeXFMT3Q0RFN0V3FRSlNWV20tMm5hY1N5VHBVWmxzdnZGVXIwZU92VTZVRDVUVkRZM0Q1U1ZNZzFRcFlEWTc2ckk0UjZhcEN4YmZIZndTd284ZDQ3Z2Z4OS1mVGFUX2RwRzgyMWViTjEyQ19wdUxucXEtZWtFRm5tOWpId1VYYlRmd1Rkc2tlb3Q3THR0THZxZWt3Q1ZyTGVvZ2hUUzZPeTBPSzlER3FXR0ZvUnJiWk5vdlpwYlYxdmZjZnNTVEQxM3hSY1pyTGV5Qkk2d2lrejQ?oc=5",
+    "summary": "Retail outlets linked to UAE's Digital Tourist VAT Refund System exceed 19,300 Emirates 24|7",
+    "source": "News — UAE VAT",
+    "authority": "news",
+    "categories": [
+      "VAT"
+    ],
+    "published": "2026-08-05T11:07:00+00:00",
+    "first_seen": "2026-08-09T05:17:10.536379+00:00",
+    "last_seen": "2026-08-09T05:17:10.536381+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "dfc0774f932d8ab4": {
+    "id": "dfc0774f932d8ab4",
+    "title_key": "f33ac9527920331a",
+    "title": "UAE tourists can claim VAT refunds at 19,340 stores and on Noon purchases - Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeDRPcDE4QjJaSFU3Qm1wRGVaWXl6cjY2c3YyVDF3TmtqN1RYMkh0WDdoSm56QmlXU21xSllRQWt4WHNFU09vUWZpTEd3dVVMb0UxNy0yZG1ucUF6aXhIZ2dWVXpkVjVqa2hHUGN3VHNZWEticFZMXzNfb2NzaVpwOFFkOVAtNDhBY0xjSUo3bkh0WUg2ZEJ4Q0JDU05Td0FTLWlUWXNfN2JKeGJsTEg3NGFDMzNwT21JZTFGT0V30gHQAUFVX3lxTE9wdElvSG52YzNWWUt6WGJaRkp0LXpmVHpQTFV4WHczVkQtOUhOMWpqRzd2UjgyQjNOSWdMT3QwM1luZzdtNWhXdU91R2lqS0FKcG1hUGExZ1QxWG1SSUo2cWZSWll0bjdpQ2pBOXFjTUMxcjJma0RraGlVbjNjajZRM0h4OVZfM0FUQXNERTQzQm1TS29QVjdiQzM2T19naktoTXhfQ1pvNmx4U2IxVkkxUWF5QmZ4QUxmMXB2bFVvR2RVWm10bjE2SlNaRzJ2VEU?oc=5",
+    "summary": "UAE tourists can claim VAT refunds at 19,340 stores and on Noon purchases Gulf News",
+    "source": "News — UAE VAT",
+    "authority": "news",
+    "categories": [
+      "VAT"
+    ],
+    "published": "2026-08-05T10:18:08+00:00",
+    "first_seen": "2026-08-09T05:17:10.536409+00:00",
+    "last_seen": "2026-08-09T05:17:10.536411+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "d037a9824e386512": {
+    "id": "d037a9824e386512",
+    "title_key": "058ed6372df5734d",
+    "title": "Number of retail outlets connected to Digital Tourist VAT Refund System reaches more than 19,300 - Big News Network.com",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUjRVVzdLOXJQTXpUZDhqeWlQNDAwVDV2ZmJqd3h4cW5ZbXc0cHEzZGJBSWlLOTk0ZlFFbXlVSThCUEtxcGFqUHYzSlRmeXF0bC1XQ1J3VVhKUUkzeVBfNTc4cmQwNmlRYldwUU01YXpmc0pxT0daNWRpRUwtM0N3MlBBR09rRldZZlA5bXVJOXVTcVZSeE5ldWRHSWhna0ZfTTNwZWEwODlFTXRRYnRhOVJVcHJ3dDRuSnZtQlBhc0NMa2dhSzk4b1lBWEx5Uk5Ld2RMaFdmNUY?oc=5",
+    "summary": "Number of retail outlets connected to Digital Tourist VAT Refund System reaches more than 19,300 Big News Network.com",
+    "source": "News — UAE VAT",
+    "authority": "news",
+    "categories": [
+      "VAT"
+    ],
+    "published": "2026-08-05T09:25:00+00:00",
+    "first_seen": "2026-08-09T05:17:10.536439+00:00",
+    "last_seen": "2026-08-09T05:17:10.536441+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "d095cdb98bcb9a17": {
+    "id": "d095cdb98bcb9a17",
+    "title_key": "9b82cf592ebb976b",
+    "title": "Shopping online in the UAE? Tourists can now claim tax refunds on Noon orders - The Global Filipino Magazine",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa1BKRVpJRVZCZm5VNVp2d3h4Rl92ejg0aml0Qy1pTUotYTZ4ZHlaeURMcnRacE9Zc0J2TWt4VktTQWdFV3BlNXBzWmlfMXFEZFRiYWRIMmV3X3ItaWc0T3pzOG52THI4c1RQaDY1RWdNbXItTTUtdlFTS1d6SUpZTVlXM2lOTWtLWXF6TGNSRE9OWkJQSUs3UXFoSEtOa2NpNEJLeTFOektldFVUVHk4cFJCSE5Qdw?oc=5",
+    "summary": "Shopping online in the UAE? Tourists can now claim tax refunds on Noon orders The Global Filipino Magazine",
+    "source": "News — UAE VAT",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-08-06T04:35:50+00:00",
+    "first_seen": "2026-08-09T05:17:10.536472+00:00",
+    "last_seen": "2026-08-09T05:17:10.536474+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "813a98da1e599278": {
+    "id": "813a98da1e599278",
+    "title_key": "5ebfc2a5d380d1cd",
+    "title": "Corporate Governance in the UAE - Crowe",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4weWRYb0VETFpvMjdhUG9BbU5Wb2JXbzNkLVpxSC1VZHhwYjMwT0F2OFNvQkJNQTFkOG1OamVFZWU0NWpVN3hHb0lldkJWLV9GeThwSjdzNlpnQXp0VDdQbkpnSWFFU3lacVJOeXl3?oc=5",
+    "summary": "Corporate Governance in the UAE Crowe",
+    "source": "News — UAE Transfer Pricing",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-08-06T16:19:40+00:00",
+    "first_seen": "2026-08-09T05:17:12.279948+00:00",
+    "last_seen": "2026-08-09T05:17:12.279954+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "cc3a7026effeff23": {
+    "id": "cc3a7026effeff23",
+    "title_key": "e33040f8b623691f",
+    "title": "Congo Republic e-invoicing launched - vatcalc.com",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLTlBQUhqTDJya1ZpUmx5Y0lPRlRHb0VpWW5GYWVBc1JkTGRFbFl0b3N5UGJSdEdXRmwxdld1RlhqSWVremtIU1pWSHNXb2ROejA2TzJYcF9RX29TQVN1akJ5d0cxWFplcmJPYUJTRDgzU2FzenRzMzJldUsyaE9rbzlVUmJMSEc5M1pzSGtR?oc=5",
+    "summary": "Congo Republic e-invoicing launched vatcalc.com",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "VAT",
+      "E-Invoicing"
+    ],
+    "published": "2026-08-04T23:00:29+00:00",
+    "first_seen": "2026-08-09T05:17:14.045844+00:00",
+    "last_seen": "2026-08-09T05:17:14.045850+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "9af7c078d8f03e6e": {
+    "id": "9af7c078d8f03e6e",
+    "title_key": "4db25975be6f5507",
+    "title": "Sovos Announces 2026 Partner of the Year Award Winners, Recognizing Excellence in Strategic Collaboration and Innovation - Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQRzJIdmQ3VjZqenlUTldPal9HNXdxdTJibTJHWFBhMVBMTWcxbm0yeUhJYzVLd0Z3Yl9pdE1LQzREWm13dXE4ZG1abDFuRkZIdHhIcm4zYXVoOXZIS01KNW5xRU04SUVwMlRnZlBxb3BYQkJMQ01CeXhabEI5U1VfSlpad0ROaVNnTUVnUll2WFhwMkxUa2tidGRxTDlMRm93SlAxVkNoWW84Zk1oeFFoNVdnOWRBZERIZzNSdnVDMGpHZ0MzSXlxZ1JXc2hodEY0aXNoRkNBRldSOGdxSkowdmFoTEplTjBtOUVfeWFtNmpzeDZtR3J2bVk4UWthWFR5VjJRbEM2NA?oc=5",
+    "summary": "Sovos Announces 2026 Partner of the Year Award Winners, Recognizing Excellence in Strategic Collaboration and Innovation Business Wire",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "VAT"
+    ],
+    "published": "2026-08-06T13:00:00+00:00",
+    "first_seen": "2026-08-09T05:17:14.045894+00:00",
+    "last_seen": "2026-08-09T05:17:14.045896+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "4c1e77dd33c00934": {
+    "id": "4c1e77dd33c00934",
+    "title_key": "10d3ea7380bd2ad2",
+    "title": "UAE extends small business tax relief until 2029 - theaccountant-online.com",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMTA1XzlxbnpmYjNMcU01VXV1RjdMOHFuMi1CSVNMYXlaNW9kb2ZMSXZXOEZ1dDlqbmRLR2hXQjNrMDdlaU4teDVRTG1CMmJsY0lDU3V0SWxRZE4tWXZXbV9pR2o5THFMREVyZ3VpY1pTYVhFeUJza1MwOWtVYXB1ckwxQlBRdVF6eURUUHlkblhUNnNoQ3c?oc=5",
+    "summary": "UAE extends small business tax relief until 2029 theaccountant-online.com",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-08-07T14:30:43+00:00",
+    "first_seen": "2026-08-09T05:17:14.045924+00:00",
+    "last_seen": "2026-08-09T05:17:17.481289+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "7e161bec59620a70": {
+    "id": "7e161bec59620a70",
+    "title_key": "90910177491ecb70",
+    "title": "ClearTax urges UAE businesses to prioritise execution assurance as e-invoicing decisions gather pace - Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTG13TFpCRmpaaWU3ZGxsVEtqakxUUXhSc0ltWUZfOEUyWTcxWGhOZ2doazNZY1V2LWFnSlp0NHpHTXN4emN6TzFWbGlXT09xU0Q3X25BTmpBVVl0Nl9XMFdRUE9HMy1BU3BMRDFIZ1RITkw4d3BSanluZGFHal9CM3h5dDNtTlBtUG9LYXZZWkhILVZhdUpKTHhUd2lMWmVOdVJrREx4UUF4WjNvTW5hSmtBVjVyQVBpblVKa1hKbjhxRTNUVmpUMVpXOFFJSWx1NUZWUWFMYlY2ZjA2Nml6OGV6X2ZGcVhkQkQ00gH-AUFVX3lxTE12b1Q4Qjd0Rks3U1hqOC1GVTZ5RXRUOXB6eVdVd3RMTEV5Q1pRYVRrc19GaG1qY3FXRGhqMkN3N3c2emJyeTFWbEU2QkRSMHR5aWFzNlctUi1mdi1vamRHMHZoWFZlQlRCbEhrT3BLSXlsTXRfYjY4QjVHblFRU0JnZVhlam4xNEF6d0hQVUtmTHFoYnktSW5LS3dqU2VleEh4azlObnoyUTNPd2E0RWc4U0ZhMkRoc1J1c2R6VGJhc1lSYTF0cjhzdnY0Q0tvYk81YnY5UE5CdnBXZTVNQXE4UlZwMkFjbUREaEtRNlF2MWJYVFhaOTFJNTZRUlJn?oc=5",
+    "summary": "ClearTax urges UAE businesses to prioritise execution assurance as e-invoicing decisions gather pace Gulf News",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "E-Invoicing"
+    ],
+    "published": "2026-08-04T06:32:38+00:00",
+    "first_seen": "2026-08-09T05:17:14.045955+00:00",
+    "last_seen": "2026-08-09T05:17:14.045957+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "e5ad65ba45b49759": {
+    "id": "e5ad65ba45b49759",
+    "title_key": "f1f6d2c7bd7f0e10",
+    "title": "Northern Emirates’ property markets cool off + Sidara locks in USD 1.35 bn in firepower - EnterpriseAM",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMDUxZXd1MElSNXdaNDByLW9jbHFIenJCY21PRnhPMUx4YkdyZ1FMREVxenNWZWZUY2p3MHQ5V2xUQmswZ1RuV1g3Q3RHUzdvOFhvOGpST2diQWIwOXFBeXdzc1lYRl9FRDIxdjBjUVR3Y2VEcUdIWXB0amg4YW5qbklORzFMS3J4VUZGelkybDVZcXc0VHlNck4zTXdjR1N1UzZmSk9vSFFoMDJMVENKMFVlWEdvUTEwZFhiZmdn?oc=5",
+    "summary": "Northern Emirates’ property markets cool off + Sidara locks in USD 1.35 bn in firepower EnterpriseAM",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-08-07T05:57:26+00:00",
+    "first_seen": "2026-08-09T05:17:14.045991+00:00",
+    "last_seen": "2026-08-09T05:17:14.045993+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "93b55460477446b4": {
+    "id": "93b55460477446b4",
+    "title_key": "49ad3fe80e1d7974",
+    "title": "MoF extends Small Business Relief for corporate tax until end-2029 - Sharjah24",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4N01YTUZ2UGRGVWdDQ3JDM3JLYWJDanVuckdCLVhuQUdqUFo3clA1cGRoTUtubWNpQ0dTOUFSQk5jYzdGcVFYNkNpQjF4ckFVZ2pBc0FXM1Ffa0k?oc=5",
+    "summary": "MoF extends Small Business Relief for corporate tax until end-2029 Sharjah24",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "Corporate Tax"
+    ],
+    "published": "2026-08-07T15:30:05+00:00",
+    "first_seen": "2026-08-09T05:17:14.046017+00:00",
+    "last_seen": "2026-08-09T05:17:14.046019+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "b54e8d9e93a74687": {
+    "id": "b54e8d9e93a74687",
+    "title_key": "19c2b21d8a075f1f",
+    "title": "A jumpy July - EnterpriseAM",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCcFdtSjE1bW5pMlREMHVqWTYwcW1xajViLWZvTmU1MUk0MUZiX2pPay12Nm5RS0tzdmJjYU9VY2hjUi10enNsYk1qcEZqc3FQc3dEZE1CaTJRYTJvVWc?oc=5",
+    "summary": "A jumpy July EnterpriseAM",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-08-05T08:10:18+00:00",
+    "first_seen": "2026-08-09T05:17:14.046039+00:00",
+    "last_seen": "2026-08-09T05:17:14.046040+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "006ffc3de93a276e": {
+    "id": "006ffc3de93a276e",
+    "title_key": "c4d2093413a63e2e",
+    "title": "The Taxation Society partners with Tally Solutions to strengthen UAE's finance and tax professional community - Khaleej Times",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMXRpRGhpQXJvUkZhQU1IcTF6Z0JtLW16cTQ1d24zZWlwQTlPMHNCeG8tY0NLc1JGcXdjT2g5V01YM3hOVmtZYzBJeThiR3hhSDRpdGdwaDhsVC1WMDFTSWN0SWdhc3hiWTRSQmV0blZEZkowYWdoSU1BaUJ6Y01ZZ2ZrWlNRc2JtUllnc0huTF92aWdmbEp4bTRvRV9fN2xTU2dmMjdLSk43ZlFlcEtuWTBKQXdFTU5pMlRnWE55VFBwcTc0STRtcFluS3Ffek1oM2NRQ1dYemVkTktESkJRSVJ30gHqAUFVX3lxTE85ZnVhMjFKMWdhenV1YlFiRGtpVTBIdjRvLVNLRFBjTHBPUnVfeG5sUGxIcWVlSlhUTEVibFV2UXdWbEg5TGNmS3hBYnczSEctV3BBT2pZT3dpcDJUeGczWE9xQ1dweV9hc1hwQnhHQkFWUDRrb0FzV0tVdmZhZ0pLZC14YlVJZjBYQmcwbUZWeG55dnhpOFliT0wxYkQ0bzl1VEhiVUpQNjQ4TVN0bFhPRERROXB5NUZZQ0VRS08tY0VmSDdLRFQzMHZ0dEZtamJ5dmp1OGZ6SmNxQjZrck8wRWs2U1A0TFJZdw?oc=5",
+    "summary": "The Taxation Society partners with Tally Solutions to strengthen UAE's finance and tax professional community Khaleej Times",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-08-06T07:26:29+00:00",
+    "first_seen": "2026-08-09T05:17:14.046068+00:00",
+    "last_seen": "2026-08-09T05:17:14.046071+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "190c2326df01d64d": {
+    "id": "190c2326df01d64d",
+    "title_key": "fe2720f58680a9fa",
+    "title": "Ministry of Finance sets e-cigarette liquid excise price - Sharjah24",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGY1BCNkVheXBxM3RBdWlPNXVULWVaaWdWM3RWWU9JSWI2T3JVMGlMdl94Ync5ekFqdGU1SzAxeEMwaUhJR1hTejhVTFo4blI2Y1d5QzZUaVgwUQ?oc=5",
+    "summary": "Ministry of Finance sets e-cigarette liquid excise price Sharjah24",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "VAT"
+    ],
+    "published": "2026-08-07T02:24:37+00:00",
+    "first_seen": "2026-08-09T05:17:14.046093+00:00",
+    "last_seen": "2026-08-09T05:17:14.046095+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "f3d2eb869331f2e4": {
+    "id": "f3d2eb869331f2e4",
+    "title_key": "1e85cc265386f5b5",
+    "title": "CBUAE injects more liquidity into the banking system - EnterpriseAM",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRVF2amFoSUlsRENGenUxcUlxRU9NeU9QWlJhUkExb1k0cExublF1YUdrM2dJc0FySm9zQmgyQUtKU092bkpYT1I1bUhaMkxGR2o2SFVnckhIR2d4RGQzOUJnb19tZERINThyZ0NrQ1A0WUttandLcmN0QUlUaTFVZ1djMnUxdEp4SmNGMjM1Zl9HX1k?oc=5",
+    "summary": "CBUAE injects more liquidity into the banking system EnterpriseAM",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-08-04T03:44:39+00:00",
+    "first_seen": "2026-08-09T05:17:14.046116+00:00",
+    "last_seen": "2026-08-09T05:17:14.046118+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "3152ce6df8b14d41": {
+    "id": "3152ce6df8b14d41",
+    "title_key": "3c77a1b10a1a30e9",
+    "title": "UAE releases registration requirements for domestic minimum top-up tax - kpmg.com",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaGJWUy1MU0VZdmd3LTVPTmw0bDYtWlF5a3JCVkFwVnhJRUkxVkdEWUE4X1VZLXg0Tkg4YTlLWHhoOUJYVzJqR3lzUE5Pa1RpSWtjdkRDQ09UeDBoQ3Y2bGlLbkhzTXZ2WlNJeGFSLXNqRUZyRnBfNV9Mbk5UY25hdVZ6VWM2cWRYOEt4bUlnWV9QYkQtOWZudGJaV0ZJZDRVY2JGbTY1T1JTYVhyTGhEdlVuQzlzZkN6ZC1VRQ?oc=5",
+    "summary": "UAE releases registration requirements for domestic minimum top-up tax kpmg.com",
+    "source": "News — FTA Announcements",
+    "authority": "news",
+    "categories": [
+      "Corporate Tax"
+    ],
+    "published": "2026-08-06T12:18:29+00:00",
+    "first_seen": "2026-08-09T05:17:17.481269+00:00",
+    "last_seen": "2026-08-09T05:17:19.248370+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "aada70e3ccb09b2e": {
+    "id": "aada70e3ccb09b2e",
+    "title_key": "e023e5026e8d5af8",
+    "title": "September 1 change: UAE announces new excise price rule for electronic smoking products - Gulf Business",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMXNESjR5VDVIQ0Qwb0xKUk1xRlhaTmV2RjNfdVpGaDZZYk0wcjdSbC1RRHBUNkRRaGpNOS1mSjR1blVVRHJ6MzdLeUZXM1lMWURyX21CS25DZFN3engwRWZCOFFLUDJydEEwX0pSa1lLSlNqbVlhdk9pNmtvLUh1QzFubU9RVENUNEl3QVdLc2FkRUV6TGFjZmJwLUtiUVd5dlhjVW1SLU43WFI4eGNfZkJCTXBNaEQySVR3QjZuazA?oc=5",
+    "summary": "September 1 change: UAE announces new excise price rule for electronic smoking products Gulf Business",
+    "source": "News — FTA Announcements",
+    "authority": "news",
+    "categories": [
+      "VAT"
+    ],
+    "published": "2026-08-06T13:06:38+00:00",
+    "first_seen": "2026-08-09T05:17:17.481338+00:00",
+    "last_seen": "2026-08-09T05:17:17.481340+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
