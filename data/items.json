@@ -12,7 +12,7 @@
     ],
     "published": null,
     "first_seen": "2026-08-09T05:21:00.671605+00:00",
-    "last_seen": "2026-08-10T10:40:42.223191+00:00",
+    "last_seen": "2026-08-11T09:34:54.284690+00:00",
     "domain": "mof.gov.ae",
     "read": false,
     "actioned": false
@@ -30,7 +30,7 @@
     ],
     "published": null,
     "first_seen": "2026-08-09T05:21:00.671684+00:00",
-    "last_seen": "2026-08-10T10:40:42.223222+00:00",
+    "last_seen": "2026-08-11T09:34:54.284732+00:00",
     "domain": "mof.gov.ae",
     "read": false,
     "actioned": false
@@ -48,7 +48,7 @@
     ],
     "published": null,
     "first_seen": "2026-08-09T05:21:00.671731+00:00",
-    "last_seen": "2026-08-10T10:40:42.223229+00:00",
+    "last_seen": "2026-08-11T09:34:54.284738+00:00",
     "domain": "mof.gov.ae",
     "read": false,
     "actioned": false
@@ -156,7 +156,7 @@
     ],
     "published": "2026-08-07T08:16:00+00:00",
     "first_seen": "2026-08-09T05:21:13.104232+00:00",
-    "last_seen": "2026-08-09T05:21:13.104234+00:00",
+    "last_seen": "2026-08-11T09:35:06.945243+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -174,7 +174,7 @@
     ],
     "published": "2026-08-07T17:15:12+00:00",
     "first_seen": "2026-08-09T05:21:13.104260+00:00",
-    "last_seen": "2026-08-09T05:21:13.104262+00:00",
+    "last_seen": "2026-08-11T09:35:06.944977+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -210,7 +210,7 @@
     ],
     "published": "2026-08-07T08:17:45+00:00",
     "first_seen": "2026-08-09T05:21:13.104313+00:00",
-    "last_seen": "2026-08-09T05:21:13.104315+00:00",
+    "last_seen": "2026-08-11T09:35:06.945236+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -228,7 +228,7 @@
     ],
     "published": "2026-08-07T12:10:00+00:00",
     "first_seen": "2026-08-09T05:21:13.104336+00:00",
-    "last_seen": "2026-08-09T05:21:22.258989+00:00",
+    "last_seen": "2026-08-11T09:35:15.717442+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -264,7 +264,7 @@
     ],
     "published": "2026-08-07T11:14:00+00:00",
     "first_seen": "2026-08-09T05:21:13.104382+00:00",
-    "last_seen": "2026-08-09T05:21:13.104384+00:00",
+    "last_seen": "2026-08-11T09:35:06.945314+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -282,7 +282,7 @@
     ],
     "published": "2026-08-05T12:19:55+00:00",
     "first_seen": "2026-08-09T05:21:14.935661+00:00",
-    "last_seen": "2026-08-09T05:21:14.935666+00:00",
+    "last_seen": "2026-08-11T09:35:08.719655+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -300,7 +300,7 @@
     ],
     "published": "2026-08-05T21:36:25+00:00",
     "first_seen": "2026-08-09T05:21:14.935700+00:00",
-    "last_seen": "2026-08-09T05:21:14.935703+00:00",
+    "last_seen": "2026-08-11T09:35:08.719697+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -336,7 +336,7 @@
     ],
     "published": "2026-08-05T14:40:46+00:00",
     "first_seen": "2026-08-09T05:21:14.935767+00:00",
-    "last_seen": "2026-08-09T05:21:14.935770+00:00",
+    "last_seen": "2026-08-11T09:35:08.719705+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -354,7 +354,7 @@
     ],
     "published": "2026-08-05T11:07:00+00:00",
     "first_seen": "2026-08-09T05:21:14.935810+00:00",
-    "last_seen": "2026-08-09T05:21:14.935812+00:00",
+    "last_seen": "2026-08-11T09:35:08.719692+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -372,7 +372,7 @@
     ],
     "published": "2026-08-05T10:18:08+00:00",
     "first_seen": "2026-08-09T05:21:14.935837+00:00",
-    "last_seen": "2026-08-09T05:21:14.935839+00:00",
+    "last_seen": "2026-08-11T09:35:08.719701+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -390,7 +390,7 @@
     ],
     "published": "2026-08-05T09:25:00+00:00",
     "first_seen": "2026-08-09T05:21:14.935867+00:00",
-    "last_seen": "2026-08-09T05:21:14.935868+00:00",
+    "last_seen": "2026-08-11T09:35:08.719731+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -408,7 +408,7 @@
     ],
     "published": "2026-08-06T04:35:50+00:00",
     "first_seen": "2026-08-09T05:21:14.935897+00:00",
-    "last_seen": "2026-08-09T05:21:14.935898+00:00",
+    "last_seen": "2026-08-11T09:35:08.719735+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -426,7 +426,7 @@
     ],
     "published": "2026-08-06T16:19:40+00:00",
     "first_seen": "2026-08-09T05:21:16.737763+00:00",
-    "last_seen": "2026-08-09T05:21:16.737770+00:00",
+    "last_seen": "2026-08-11T09:35:10.457885+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -445,7 +445,7 @@
     ],
     "published": "2026-08-04T23:00:29+00:00",
     "first_seen": "2026-08-09T05:21:18.565489+00:00",
-    "last_seen": "2026-08-09T05:21:18.565497+00:00",
+    "last_seen": "2026-08-11T09:35:12.216828+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -463,7 +463,7 @@
     ],
     "published": "2026-08-07T05:56:59+00:00",
     "first_seen": "2026-08-09T05:21:18.565546+00:00",
-    "last_seen": "2026-08-09T05:21:18.565549+00:00",
+    "last_seen": "2026-08-11T09:35:12.216839+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -481,7 +481,7 @@
     ],
     "published": "2026-08-06T13:00:00+00:00",
     "first_seen": "2026-08-09T05:21:18.565595+00:00",
-    "last_seen": "2026-08-09T05:21:18.565598+00:00",
+    "last_seen": "2026-08-11T09:35:12.216844+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -499,7 +499,7 @@
     ],
     "published": "2026-08-07T14:30:43+00:00",
     "first_seen": "2026-08-09T05:21:18.565632+00:00",
-    "last_seen": "2026-08-09T05:21:22.258910+00:00",
+    "last_seen": "2026-08-11T09:35:15.717408+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -571,7 +571,7 @@
     ],
     "published": "2026-08-06T07:26:29+00:00",
     "first_seen": "2026-08-09T05:21:18.565776+00:00",
-    "last_seen": "2026-08-09T05:21:18.565777+00:00",
+    "last_seen": "2026-08-11T09:35:12.216998+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -607,7 +607,7 @@
     ],
     "published": "2026-08-07T02:24:37+00:00",
     "first_seen": "2026-08-09T05:21:18.565837+00:00",
-    "last_seen": "2026-08-09T05:21:18.565838+00:00",
+    "last_seen": "2026-08-11T09:35:12.216969+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -643,7 +643,7 @@
     ],
     "published": "2026-08-06T12:18:29+00:00",
     "first_seen": "2026-08-09T05:21:22.258893+00:00",
-    "last_seen": "2026-08-09T05:21:24.101774+00:00",
+    "last_seen": "2026-08-11T09:35:17.440126+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -679,7 +679,295 @@
     ],
     "published": "2026-08-06T13:06:38+00:00",
     "first_seen": "2026-08-09T05:21:22.258980+00:00",
-    "last_seen": "2026-08-09T05:21:22.258982+00:00",
+    "last_seen": "2026-08-11T09:35:15.717446+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "937c5a7958a18c86": {
+    "id": "937c5a7958a18c86",
+    "title_key": "abdb822b9e353ea4",
+    "title": "UAE extends corporate tax relief for small businesses until 2029 - thenationalnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOFMwcEtFYkFkbWxMRnBqX3Y1M2ZOcnJ4Q1FzTHg2b1NDYnU3dzVWMmMycVdhNzJSbTZhaTZ1bjRpN3RYcm9Gb3VIOUxydjN6anFTMU12SHNNcmt1YkhwSk1RVTV6Yk1yS0wtNm9PbVZLNkxmTVRNd3hEOW1xbXdnTlBiX0VJWWhINEw5MHc1eEk4UHhFZHFOZ04zcnZERDZhLXZJQ0VGWS15N080ZXBQYVhDMFU2al9wN1NlNXN2RnFaZEU?oc=5",
+    "summary": "UAE extends corporate tax relief for small businesses until 2029 thenationalnews.com",
+    "source": "News — UAE Corporate Tax",
+    "authority": "news",
+    "categories": [
+      "Corporate Tax"
+    ],
+    "published": "2026-08-07T10:52:45+00:00",
+    "first_seen": "2026-08-11T09:35:06.945183+00:00",
+    "last_seen": "2026-08-11T09:35:06.945187+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "354f7b47500038da": {
+    "id": "354f7b47500038da",
+    "title_key": "45e6cce7c2f8fa61",
+    "title": "UAE extends corporate tax relief for small businesses until 2029 - Khaleej Times",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMDNwUlhpclFxaFJkdkkzR0s5MVh4WHZOUDdfZzZtNTBFb2RIcklxMF91Tkp2NGRxRlZMM3BubEZGc0g5LXpsQUhHQy01eGcxTllzc1k1S1NqeFMtYXM4YlBmREttNlhsS0hmd2JXN0l2UjFEQ3B5M1pfRTVpOGw0Z1pPMTNHd0tHQ25ZNjNGZmVaZnhzZUJueE9sQ2dNNGVaUDVjTdIBrAFBVV95cUxNbWJjeHFtRU9DbExyNHRRY1NEUXB2WnZRZ1V2TlFhQ010T3RhSmptR2ItaDhxVnEta0NITUJyS3ppaGgyQ2FkclQwRFhCaWNnLUhNb21YaDVGLWZZNThic2hpN0MzNTI4cXI3RjYtLVUzN3VHanJUUHdYaEFRWUlvS2w5UVdja3pwd1Q4c2pXWHVPZ0xZVmFCcE43eWl1bG10N0s4UXdpVUhpU0tH?oc=5",
+    "summary": "UAE extends corporate tax relief for small businesses until 2029 Khaleej Times",
+    "source": "News — UAE Corporate Tax",
+    "authority": "news",
+    "categories": [
+      "Corporate Tax"
+    ],
+    "published": "2026-08-07T08:55:38+00:00",
+    "first_seen": "2026-08-11T09:35:06.945223+00:00",
+    "last_seen": "2026-08-11T09:35:06.945226+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "3af9a3015dbc79a6": {
+    "id": "3af9a3015dbc79a6",
+    "title_key": "ff35c3839ef1f0be",
+    "title": "UAE Business: UAE extends small business relief for corporate tax until December 2029 - Gulf Daily News",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVm43RXV5MWlfOTE5TjdqQjhtd3pzUnRIdmJycExNbXV6REpoRjQ5MlNiRENNemM5SG5VbUhJbnVXenhQXzFhRGgtNXE3QjRWWHhCcTJsZ0lfUW5ZTWNWcjdZQnZSSDM0VVdvVDY0ejBPMklPTUkzdTdXX090b1RQY21nbmdUQUtuZG42RHBxRWdCb05xNkdBT2xUVk1SNWN0cG1NbnhKNlBxSl96T3BzOU91cw?oc=5",
+    "summary": "UAE Business: UAE extends small business relief for corporate tax until December 2029 Gulf Daily News",
+    "source": "News — UAE Corporate Tax",
+    "authority": "news",
+    "categories": [
+      "Corporate Tax"
+    ],
+    "published": "2026-08-07T13:48:02+00:00",
+    "first_seen": "2026-08-11T09:35:06.945270+00:00",
+    "last_seen": "2026-08-11T09:35:06.945272+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "fc9267d1cef4e140": {
+    "id": "fc9267d1cef4e140",
+    "title_key": "60d3ad000685bf00",
+    "title": "Air India turbulence injures passengers on Phuket-Delhi flight - Gulf Business",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUk92b3hCQVZybGNndXNJOF9ZX0Z3TGl5NnRuXzE5NlBRb3czZXM2SkxXb3ZQSGNOdGo2a2U2b040ZVFDcFBqbzdvaFFZaVdBbFgwQkJOOEhDNzF6VXY1OU9Ca2t2Z1ZnQlhscXNXTVhDaWY3b2lvMUlEWFhkXzVxaDR3b191OUx2aTVKcEttYkFGTjRzRVpnbFJvLUZhYmNLTFJJNg?oc=5",
+    "summary": "Air India turbulence injures passengers on Phuket-Delhi flight Gulf Business",
+    "source": "News — UAE Corporate Tax",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-08-04T16:37:53+00:00",
+    "first_seen": "2026-08-11T09:35:06.945302+00:00",
+    "last_seen": "2026-08-11T09:35:06.945304+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "47c6150a6ea86f48": {
+    "id": "47c6150a6ea86f48",
+    "title_key": "7948153e30af7b78",
+    "title": "Digital currency and VAT: New UAE rules for businesses to consider - thenationalnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQamI1MElzOEtNS1ZjVWR3VGpjZjNUZjBXbjQwZkJIZ3AwOFVqckl0WWFQN2JpaEg5XzRTUTBVMDFOeVhMaUZxYW9GUnBFNW55WnhKd2ZKOVZoekRBWUNqQkp3dGFPZ2JQcWY5SjVlRUJuTURfcVN5aUNXVmthdUh4cHlJbFNHN3lyT1VTU2l2Nk92U09JZFh3eXp0c29jTlJNZW1VLTZBR2h5WmdBTjFuNGczZkZwdDY1QWc?oc=5",
+    "summary": "Digital currency and VAT: New UAE rules for businesses to consider thenationalnews.com",
+    "source": "News — UAE VAT",
+    "authority": "news",
+    "categories": [
+      "VAT"
+    ],
+    "published": "2026-08-11T03:21:02+00:00",
+    "first_seen": "2026-08-11T09:35:08.719636+00:00",
+    "last_seen": "2026-08-11T09:35:08.719642+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "de699d05cb54d4bd": {
+    "id": "de699d05cb54d4bd",
+    "title_key": "3458e6dfcdc4c451",
+    "title": "FTA Directive No. 5 of 2026 - Crowe",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40S0RnRzF2d1dBSmNHdkNNQXZQQmlOYWNOSk5OWnlVNUN3ZDB5UHBUV29RXzNvaF9pVFNQZ2FwTUdocGhxMXp1T3gxMUFycGNESFA1bXNR?oc=5",
+    "summary": "FTA Directive No. 5 of 2026 Crowe",
+    "source": "News — UAE VAT",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-08-10T08:08:44+00:00",
+    "first_seen": "2026-08-11T09:35:08.719681+00:00",
+    "last_seen": "2026-08-11T09:35:08.719683+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "78aa6854602b1afb": {
+    "id": "78aa6854602b1afb",
+    "title_key": "20a5b24720dade18",
+    "title": "More investments in Adnoc’s fleet, Indian IPOs, and Egypt’s North Coast - EnterpriseAM",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RdV9pa3ZIMmpRWnFlcXRaeTRnSy1zZUp0enVScm1nc0hMX3UwTEdEOG9oQy00UUJiSUR4WENleElGQVVmLXh3ZE10b09nQWphT0IzNHNJb0h3Q0E?oc=5",
+    "summary": "More investments in Adnoc’s fleet, Indian IPOs, and Egypt’s North Coast EnterpriseAM",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-08-10T02:42:42+00:00",
+    "first_seen": "2026-08-11T09:35:12.216894+00:00",
+    "last_seen": "2026-08-11T09:35:12.216896+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "b39a252d86928b45": {
+    "id": "b39a252d86928b45",
+    "title_key": "149b6b6173682379",
+    "title": "UAE e-invoicing: How digital invoices will transform business - Khaleej Times",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMjFwZTd6MkpqcXZKaEwxZV9fUlZWSEtSeVdIQXN6YXFPMURFMWZhOHc0NWFuWlRfd1ZNX2doQVBpbXBqRFBTOVNNcjVTYVpOcEozYmtoaWxDUHVoUFFNT1RBWEI3RzJybmFWejFNcEcxYXpybDBiUzRLUk85ajBkOHIydnBjOUV6NEVJUjZkQTNOQ0Fud1BjdGtUNVpwTmlTazdyNWZmaXRwTkthY1Nac1RPWU90T3lMemJJNHp5VdIBvwFBVV95cUxQMjFwZTd6MkpqcXZKaEwxZV9fUlZWSEtSeVdIQXN6YXFPMURFMWZhOHc0NWFuWlRfd1ZNX2doQVBpbXBqRFBTOVNNcjVTYVpOcEozYmtoaWxDUHVoUFFNT1RBWEI3RzJybmFWejFNcEcxYXpybDBiUzRLUk85ajBkOHIydnBjOUV6NEVJUjZkQTNOQ0Fud1BjdGtUNVpwTmlTazdyNWZmaXRwTkthY1Nac1RPWU90T3lMemJJNHp5VQ?oc=5",
+    "summary": "UAE e-invoicing: How digital invoices will transform business Khaleej Times",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "E-Invoicing"
+    ],
+    "published": "2026-08-11T05:00:00+00:00",
+    "first_seen": "2026-08-11T09:35:12.216933+00:00",
+    "last_seen": "2026-08-11T09:35:12.216935+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "a5b71df64dcf563c": {
+    "id": "a5b71df64dcf563c",
+    "title_key": "3976c90a2d94e995",
+    "title": "Another Hormuz workaround - EnterpriseAM",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5iUjRXRTlrdVBXOHUyRWlYc2ttOXdYaVktOE5ZU1YxMnRLcnlHeWRPdl9CQmRkR3Bqc21aeFlWMmdFcGdjanc3d2RNTnRGcWdKVGdxQTZmeC02clJoSXJJaGJlUUM5TW5pQjRORkVpRQ?oc=5",
+    "summary": "Another Hormuz workaround EnterpriseAM",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-08-11T05:48:45+00:00",
+    "first_seen": "2026-08-11T09:35:12.216961+00:00",
+    "last_seen": "2026-08-11T09:35:12.216963+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "b54e8d9e93a74687": {
+    "id": "b54e8d9e93a74687",
+    "title_key": "19c2b21d8a075f1f",
+    "title": "A jumpy July - EnterpriseAM",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCcFdtSjE1bW5pMlREMHVqWTYwcW1xajViLWZvTmU1MUk0MUZiX2pPay12Nm5RS0tzdmJjYU9VY2hjUi10enNsYk1qcEZqc3FQc3dEZE1CaTJRYTJvVWc?oc=5",
+    "summary": "A jumpy July EnterpriseAM",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-08-05T08:10:18+00:00",
+    "first_seen": "2026-08-11T09:35:12.216989+00:00",
+    "last_seen": "2026-08-11T09:35:12.216991+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "13d06bf03fe5b212": {
+    "id": "13d06bf03fe5b212",
+    "title_key": "beb341fd35e047c8",
+    "title": "E-Invoicing Readiness Checklist: How UAE Businesses Can Prepare Before the Deadline - NewsBreak: Local News & Alerts",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQmFubHpKbnIzS2N1cVJkbFA5bDRWcUhzQ0lYazZ3Z0ZBazZKQzVoTjRxZXBrMFNNSGNXTGp4ZG1EZ0xTTGFwanZQZkxvbjA5UFQxYkNBLWF6bEtDSlB5UlcyNU9fc2E1VTRNMWtTYnRyOFRlTUxjRlVlcEVwRVdDb05OQlo4VC1GcUpqUkpmVzhsUmc0RGJrZlJWN0tCMXVQc0d5dTEtT055TFRDT3c5R2pUN1hpaEF3R21TOHo2d1pNZldNcUE?oc=5",
+    "summary": "E-Invoicing Readiness Checklist: How UAE Businesses Can Prepare Before the Deadline NewsBreak: Local News & Alerts",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "E-Invoicing"
+    ],
+    "published": "2026-08-09T03:36:00+00:00",
+    "first_seen": "2026-08-11T09:35:12.217026+00:00",
+    "last_seen": "2026-08-11T09:35:15.717477+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "81a5be9f32a783d5": {
+    "id": "81a5be9f32a783d5",
+    "title_key": "9c0fb9f7c03c45ec",
+    "title": "UAE Sets Minimum Excise Price for E-Liquids - Vaping360",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HS2ZoOFFrdlRtX3N4ZXM5UlpzLTFKc21Pdi1CVkhNYW1PNGozMDBVYVZ0VjlrUDNCMFRQRG1hOGpPNllSd0dpX0dhNm02a3drdmZneHpQOUhtUkxXWlFBcDlETkt0dF9xalFRMldrVWZMSXh5NHc?oc=5",
+    "summary": "UAE Sets Minimum Excise Price for E-Liquids Vaping360",
+    "source": "News — FTA Announcements",
+    "authority": "news",
+    "categories": [
+      "VAT"
+    ],
+    "published": "2026-08-10T14:06:11+00:00",
+    "first_seen": "2026-08-11T09:35:15.717394+00:00",
+    "last_seen": "2026-08-11T09:35:15.717397+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "8702d19cadca2353": {
+    "id": "8702d19cadca2353",
+    "title_key": "70d3ca7d4f8e7a4e",
+    "title": "Spotify forecasts slower growth despite AI investment - Gulf Business",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQUhDU0xPaGxHNTZZdDNmRFRsTndvQThIUkRVV0hyTkpVbWhFNXdsZ2hjUXFrNzByWEc1ZUdITm1FYkM2N3k5MW5paDBud1RfNGF4MXNIdlluaVktTVRfd0RlZzJpUmc0UlZ2WUlKU1VDTUdELXpoelU0Z2kteENFZjVfcWx5YmhLc21jS3J5VXVkeEZ3UXRV?oc=5",
+    "summary": "Spotify forecasts slower growth despite AI investment Gulf Business",
+    "source": "News — FTA Announcements",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-08-04T12:35:42+00:00",
+    "first_seen": "2026-08-11T09:35:15.717432+00:00",
+    "last_seen": "2026-08-11T09:35:15.717434+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "1c96b9f25d7a665d": {
+    "id": "1c96b9f25d7a665d",
+    "title_key": "c5695cfed4e5c70a",
+    "title": "UAE extends Small Business Relief for corporate tax - Absolute Geeks",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWU10OExoZmlXRjdCamp5VHROMnNDb1dKN1I3NE85dTI4aU84VjVvczlyanRyWEw4OVBuOWpVa1NJZm9qQ2hSZl9YYlhxOGNEYXBCeDlGQVF1RUV1TWJlSGVmdnpHRktyS2ktV2IwQ0s3T3hZMzV4Ni03aGdvVTNHZFhEYThmRE5uclJqR1BKUF90MXktS2xEaXctR0RsLXphM0g0REdvWHY?oc=5",
+    "summary": "UAE extends Small Business Relief for corporate tax Absolute Geeks",
+    "source": "News — FTA Announcements",
+    "authority": "news",
+    "categories": [
+      "Corporate Tax"
+    ],
+    "published": "2026-08-07T21:59:25+00:00",
+    "first_seen": "2026-08-11T09:35:15.717468+00:00",
+    "last_seen": "2026-08-11T09:35:15.717470+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "66de2784e7ab299e": {
+    "id": "66de2784e7ab299e",
+    "title_key": "cdd67a05dc303640",
+    "title": "Canada launches public consultations on steel imports and imposes surtax on wood cabinets and vanities - EY",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMy1qdEVRaXhDVUZ4c3FTNUlCS0F0SEhoRnQtRk5BTnB1d2VFSmZSUk95RmRSdEw4LUFBV1FwYTIwbTVLZHdqOEdkcDhRb29fWDc1cGN0ZFA3a0habW9iY0NWam9LZmtfa3c2NDlLZ3N1MVJYWWRwejlhM1ViSndzZg?oc=5",
+    "summary": "Canada launches public consultations on steel imports and imposes surtax on wood cabinets and vanities EY",
+    "source": "News — Big 4 UAE Tax Commentary",
+    "authority": "commentary",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-08-11T05:14:39+00:00",
+    "first_seen": "2026-08-11T09:35:17.440077+00:00",
+    "last_seen": "2026-08-11T09:35:17.440083+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "3ba6ed6919a74a03": {
+    "id": "3ba6ed6919a74a03",
+    "title_key": "67ce0971c92f88f9",
+    "title": "Tax Insights: Canada introduces a simplified transfer pricing documentation regime - PwC",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVm8yXzZQUVY4R2djbXBUdHQ0aFUyQnFaSHNxSkFCbTNxNmxSVTZVUHRxa1lvVnF2Nlk2bmhTQ2w4ejJaTVR2NUY4S3VsajBFTEV2dkRwbk9BbEh1MWtwczNVNHgtQm1yaFJwc2NlZldqM053NGhwbE1TLWR3eDNIQ3V2ZzhTQ2JmbVJlNlliMkRoalBfYzQ3WHdVaXR2R2MzNEw1dGRQNzFfRWxTWklzYkJNYVZKVjFMclFQQjIzMUU?oc=5",
+    "summary": "Tax Insights: Canada introduces a simplified transfer pricing documentation regime PwC",
+    "source": "News — Big 4 UAE Tax Commentary",
+    "authority": "commentary",
+    "categories": [
+      "Transfer Pricing"
+    ],
+    "published": "2026-08-11T00:51:55+00:00",
+    "first_seen": "2026-08-11T09:35:17.440116+00:00",
+    "last_seen": "2026-08-11T09:35:17.440118+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
