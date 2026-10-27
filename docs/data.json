@@ -1,6 +1,690 @@
 {
-  "generated": "2026-08-12T04:40:57.381454+00:00",
+  "generated": "2026-10-27T17:07:24.854910+00:00",
   "items": [
+    {
+      "id": "8337814d097d9e3c",
+      "title_key": "edcf7ff8d90dc01c",
+      "title": "Ministry of Finance Amends Electronic Invoicing Regulations to Ease the Burden on Businesses",
+      "url": "https://mof.gov.ae/en/news/ministry-of-finance-amends-electronic-invoicing-regulations-to-ease-the-burden-on-businesses/",
+      "summary": "",
+      "source": "Ministry of Finance — News",
+      "authority": "official",
+      "categories": [
+        "E-Invoicing"
+      ],
+      "published": null,
+      "first_seen": "2026-10-27T17:07:01.556920+00:00",
+      "last_seen": "2026-10-27T17:07:01.556922+00:00",
+      "domain": "mof.gov.ae",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "db9365b7cb4c1ee9",
+      "title_key": "e3fdd15e14a5cc35",
+      "title": "UAE Breaks into Global Top 10 in IMD’s 2026 Government Support Index",
+      "url": "https://mof.gov.ae/en/news/uae-breaks-into-global-top-10-in-imds-2026-government-support-index/",
+      "summary": "",
+      "source": "Ministry of Finance — News",
+      "authority": "official",
+      "categories": [
+        "Other"
+      ],
+      "published": null,
+      "first_seen": "2026-10-27T17:07:01.556890+00:00",
+      "last_seen": "2026-10-27T17:07:01.556892+00:00",
+      "domain": "mof.gov.ae",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "fa4691eb7985e18b",
+      "title_key": "d68b3bd8cfb41224",
+      "title": "Ministry of Finance convenes Financial Data Forum 2026 to boost efficiency in final account and financial statement preparation and reinforce the application of international accounting standards",
+      "url": "https://mof.gov.ae/en/news/ministry-of-finance-convenes-financial-data-forum-2026-to-boost-efficiency-in-final-account-and-financial-statement-preparation-and-reinforce-the-application-of-international-accounting-standards/",
+      "summary": "",
+      "source": "Ministry of Finance — News",
+      "authority": "official",
+      "categories": [
+        "IFRS / Reporting"
+      ],
+      "published": null,
+      "first_seen": "2026-10-27T17:07:01.556823+00:00",
+      "last_seen": "2026-10-27T17:07:01.556843+00:00",
+      "domain": "mof.gov.ae",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "c4b2659839e92129",
+      "title_key": "df6265be3b98c3df",
+      "title": "Ezat Alnajm on Preparing Crypto Wealth for Greater Tax Transparency - Hubbis",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRkVXSUFZWnYwTXRYTG5GZUtmN0pZLWx2anJoNTM1VERGZUVha1JZc01kMWxHek92SEVEbkgzeDgyZWh0RXY3VFhuYVJKcTlNeklhQlJvUVB1WXNnMVZ5WUFmY2pxYzNqblZRYkRBemxhdzktaWhwLVNBZFNqOE9RVGlsRm4zazVuVExuUGZtQ19JM2xFRHFldFdxbmN1Sjg?oc=5",
+      "summary": "Ezat Alnajm on Preparing Crypto Wealth for Greater Tax Transparency Hubbis",
+      "source": "News — UAE Corporate Tax",
+      "authority": "news",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-10-27T16:05:27+00:00",
+      "first_seen": "2026-10-27T17:07:12.469391+00:00",
+      "last_seen": "2026-10-27T17:07:12.469392+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "967546ca12bbef6d",
+      "title_key": "733beb21b71830ce",
+      "title": "UAE Publishes Version 2.0 of E-Invoicing Guidelines - sharedserviceslink",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV1NkTHUycS0tOFh6TF9HVW4yU051Zk1zTExPWTVONTcxemN0WTVBajl3QkxVY3Bocno5N1BVbDFkUlZjQ214VEZQc1Y0eURfMHZzdTNyV0RuRmU0OXA4dU9MMTZhN19POUdvMXJRSld6UDZkbU9YbWNkaTVzeW9DNDNwX25zRGFKMGgwQlBfR3JzQQ?oc=5",
+      "summary": "UAE Publishes Version 2.0 of E-Invoicing Guidelines sharedserviceslink",
+      "source": "News — UAE VAT",
+      "authority": "news",
+      "categories": [
+        "E-Invoicing"
+      ],
+      "published": "2026-10-27T12:38:55+00:00",
+      "first_seen": "2026-10-27T17:07:14.344730+00:00",
+      "last_seen": "2026-10-27T17:07:21.553397+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "efc66b84c16eacde",
+      "title_key": "28411e2ba4e2913c",
+      "title": "UAE e-invoicing: Oct 30 provider deadline looms for firms with Dhs50m+ revenue - Gulf Business",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd1M0bzNJcTEybmx2M29pY01HRWxvUURNZmxjemd1WDByOGUzSDVmUW4xUnljZnRlQXZBYW1FdW5ubnd0N01wWTVpNjRDR2xzY0lWcGlDd2ZhLV9BNjZsOTJBME5jbTVoUkJUWjdYbVZjaGhoUktjWUYzNkdvRDNyMldoQXN0V3R2WGFOT0wwbkpSX1ZnTVE1YV8xdklwMlROQ2xiR01EU0xaNUlCYXV1TWFYT1FYUQ?oc=5",
+      "summary": "UAE e-invoicing: Oct 30 provider deadline looms for firms with Dhs50m+ revenue Gulf Business",
+      "source": "News — UAE E-Invoicing",
+      "authority": "news",
+      "categories": [
+        "E-Invoicing"
+      ],
+      "published": "2026-10-26T19:31:18+00:00",
+      "first_seen": "2026-10-27T17:07:17.970085+00:00",
+      "last_seen": "2026-10-27T17:07:21.553401+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "9d03bcd9737a8330",
+      "title_key": "2268f59db302d4ea",
+      "title": "UAE Publishes Monthly Fine for Businesses that Miss e-Invoicing Deadline - Legit News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcmtkbU5IdUxaZFVXUXVJWno3dERSaEJ2X0xKbGlCSi1rVUt1TDNNQUdiTkcwdEN6YlR6Y1FpeU10WWY2aGhWQ3gycGFOcGRQTUdUbE5BTWxfOGtHcXRRejN6WWktN2FmbjZTTmpsUENidjNEaTktTkVSbVQxRDNBZHNoM3ltLVVjTnUtWC1MdTBXX0EtWWM4NnJwQQ?oc=5",
+      "summary": "UAE Publishes Monthly Fine for Businesses that Miss e-Invoicing Deadline Legit News",
+      "source": "News — UAE E-Invoicing",
+      "authority": "news",
+      "categories": [
+        "E-Invoicing"
+      ],
+      "published": "2026-10-26T12:10:54+00:00",
+      "first_seen": "2026-10-27T17:07:17.970183+00:00",
+      "last_seen": "2026-10-27T17:07:17.970184+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "61dd56568def8105",
+      "title_key": "6f08d66c4424af7e",
+      "title": "UAE cuts tourist VAT refund time to one business day with new AI platform - Gulf Business",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZURXSjRhbWwwMzRkaWYyWlJSWkpSUl9nYllHVFJ0RnpDTHR4dGZJY2tlZzVGbEJuYWRjeFlXSm9fMDhDWTJwS2ViMTd2M1dKc2I1aUZmMTVGclB1eUhnRGV4SnlRZzJRWHhGYW80SFM0cWpCTjR5T29PMUNfU2l6MUN2RWlmdXVKTE5fVHkwNDZxVzdJSmdiUngtTlRzZHRqNHpNTkVSYy1Bb0JN?oc=5",
+      "summary": "UAE cuts tourist VAT refund time to one business day with new AI platform Gulf Business",
+      "source": "News — UAE VAT",
+      "authority": "news",
+      "categories": [
+        "VAT"
+      ],
+      "published": "2026-10-26T12:03:00+00:00",
+      "first_seen": "2026-10-27T17:07:14.344777+00:00",
+      "last_seen": "2026-10-27T17:07:14.344778+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "43283338e83d876d",
+      "title_key": "52a5400b2563779e",
+      "title": "UAE e-invoicing deadline in 4 days: Who must comply to avoid Dh5,000 fines - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWxHNTZNMkNZUTRHY3hWSFRld05JZm9FRzh3TlZsQzNCS2NqX3kwQjBvbFpjUXBCSG8xRmRLUFBhM25YYTVVNXNyQWFmYjdUTk9ndTZCRmY3dDVObUpsLW85bC1pZzUtWGM5UmR3d2hEckZDUDEzdXN2MEN3MXpFa1JaZWRDVGU5aGE3Ul9nVlZPN0FhVGRjSlctX2lnSHNyeDQ3Z2RFTEN6UmRZRXVuMkNBbGRrbFJfaGpZazZQT07SAdMBQVVfeXFMUEhrM2xRZk5Uc2Z2ZkRUV1p3bGpQSkEzaGpaQkdhZ1lrYld2LUMxd3ozdTh6WmxJVkJYNkJCeGxGOURPY2dsbU9RdmphOXpncm03bjZvSWRDeUp0Ykg5NmpOQjUyZ1MwS08xcTdzOXhnSFZGNklnbGxpTk44aldNOFJrNVNuS2trMkphb0xpOXN3ZU13Y0JmN0Q1ZlQtWTZscmNwa0RTbGg4M1M0cHd2R2NXTV9fRFZwQk5aNjMyUF90VXUwX2prR09OaklId0VYSFlHaw?oc=5",
+      "summary": "UAE e-invoicing deadline in 4 days: Who must comply to avoid Dh5,000 fines Gulf News",
+      "source": "News — UAE Corporate Tax",
+      "authority": "news",
+      "categories": [
+        "E-Invoicing"
+      ],
+      "published": "2026-10-26T08:26:45+00:00",
+      "first_seen": "2026-10-27T17:07:12.469414+00:00",
+      "last_seen": "2026-10-27T17:07:21.553408+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "a61a4f478a027ef4",
+      "title_key": "74922d82d791a503",
+      "title": "UAE e-invoicing rules: Key deadlines for businesses in 2026 and 2027 - Arabian Business",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMXU4Vm5ScFJWd2tINmI3WEI1X1pwRFU0R2NyYXFra1d1bXFFTWhiVExCdS16SVRNelZOSlB5SG5GaHZTZzhzendZZHV4aDc4WHMyZ2kzcTEwekZDNG0yenlUaWwzUEs4blp6bHlPYXRZMFZLQzZRbG5idHB0a3F0Sw?oc=5",
+      "summary": "UAE e-invoicing rules: Key deadlines for businesses in 2026 and 2027 Arabian Business",
+      "source": "News — UAE E-Invoicing",
+      "authority": "news",
+      "categories": [
+        "E-Invoicing"
+      ],
+      "published": "2026-10-26T08:22:06+00:00",
+      "first_seen": "2026-10-27T17:07:17.970058+00:00",
+      "last_seen": "2026-10-27T17:07:17.970060+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "6937d21cc814301f",
+      "title_key": "1e2ce6f5343184b1",
+      "title": "How tourists can claim UAE VAT refunds in one business day - Travels Dubai",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUWpQaFlPcE8tQ3ZpWVhKZHBmTGlzVWRtcmdXOWdxcDlGcjZnSWsxa193SXhyQ3duMFphOGt5a1lFRFhveGRpVmlUQ1I4cjhmQTN1aXh5Nks1anFfV0Zua0JBaG44T1lNTWZlRGhtWFRJZkRVV2F3MGJ0RnloVDMtQWlnZGdrQTRBUEVnQUEwYkU0dlhoT2Fn?oc=5",
+      "summary": "How tourists can claim UAE VAT refunds in one business day Travels Dubai",
+      "source": "News — UAE VAT",
+      "authority": "news",
+      "categories": [
+        "VAT"
+      ],
+      "published": "2026-10-26T05:20:00+00:00",
+      "first_seen": "2026-10-27T17:07:14.344892+00:00",
+      "last_seen": "2026-10-27T17:07:14.344893+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "02f3777a178ab9ae",
+      "title_key": "8b861d588f9ca5b1",
+      "title": "Ind AS 118: Big Changes to Financial Reporting Soon - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa3pEaDB3Q21YU3FhSFQ0ekVZc1pwT00zQXFTbGE1MXkzX3NjazJ5TGZXelg4WnZocTlUZzVDMWp1aFlzNk4yMHIwMGR2d3dBUldzem5pY2xtLUVZckJJa1Rfc0c4MnJxX0YxckZIZWNNY09LVnh5RFVGMko0VEdrSXh2ZWlTdjdsQVlHTWotcGs2X0w0ZVRPbmNyVDdEc085SVNsYjJCR1NkR3M?oc=5",
+      "summary": "Ind AS 118: Big Changes to Financial Reporting Soon TradingView",
+      "source": "News — IFRS Standards",
+      "authority": "news",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-10-26T04:26:00+00:00",
+      "first_seen": "2026-10-27T17:07:19.754302+00:00",
+      "last_seen": "2026-10-27T17:07:19.754307+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "015f7b5303944687",
+      "title_key": "e76040fc8e1faaa4",
+      "title": "UAE FTA urges e-Invoicing compliance as AED5,000 monthly penalty applies - Emirates 24|7",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNFV2ZnJIZjdaTm1YS1RtRVN5UzZCZXNZcE9WOWlBV2U4d1BtQUg1SUNhcWJxWWRBRmZLVDl1SGNCbjhTdW1rRGFJUzhlX1dvQ2NkeldjNmdyNHNFLXAydHpUVG4yXzREQk1EN3l0cWpJZlo2RVBLQW5RZEFVMlQ5bXJ4eTBvSS1SVEtxd3RYUnppOUctcktBbTl3T2lOenVFcy1nN0VpaHk3QnQtZldlYzlIS3QxeTJCcDhwMW9xclRRVEtWNVZfZFdveF93UdIBzgFBVV95cUxQNFV2ZnJIZjdaTm1YS1RtRVN5UzZCZXNZcE9WOWlBV2U4d1BtQUg1SUNhcWJxWWRBRmZLVDl1SGNCbjhTdW1rRGFJUzhlX1dvQ2NkeldjNmdyNHNFLXAydHpUVG4yXzREQk1EN3l0cWpJZlo2RVBLQW5RZEFVMlQ5bXJ4eTBvSS1SVEtxd3RYUnppOUctcktBbTl3T2lOenVFcy1nN0VpaHk3QnQtZldlYzlIS3QxeTJCcDhwMW9xclRRVEtWNVZfZFdveF93UQ?oc=5",
+      "summary": "UAE FTA urges e-Invoicing compliance as AED5,000 monthly penalty applies Emirates 24|7",
+      "source": "News — UAE E-Invoicing",
+      "authority": "news",
+      "categories": [
+        "E-Invoicing"
+      ],
+      "published": "2026-10-25T11:46:00+00:00",
+      "first_seen": "2026-10-27T17:07:17.970139+00:00",
+      "last_seen": "2026-10-27T17:07:21.553404+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "a922d0eaa718db16",
+      "title_key": "37464badbc9ff2d0",
+      "title": "Dh5,000 fine a month: UAE firms have 5 days to appoint e-invoicing provider - Khaleej Times",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTGtGYXoyUURCNlQzTzZldFhpUGJIb25mYjVQOXdsNXdDNVRQV1dZVW9EdFJ2aVNsRnQ4c1JsYjgzcWszU2JlbGNYa2p5SUl2UVptQnYyZ0hnQk9KM3BBS0VxNmY2d043bWEzb0ZPM3M1bks5RDFSQjlhNnNYMDRVMmU0SWFCQmZCU18wOWc4bG5yeVNIOE5Fazl4UU9sMjkxclROLVFvQ1l0ckFRaWhMRNIBuAFBVV95cUxNQjIyZmFMNm13T2dZMUpyOVplTWlrVTBEX3N2TS1iaGVQV2hSNFZXbkI4VW1DdDQ2ckcxSEtmRjA3YTA1Unc0dHY4WTBVRGNiRnlCN1RsRzFwQXl2bTJaaFhaYmptVDlQc0lkQ1RvNzViOW9nTGlxZUhnN21WcDBteXlHVm9mdXBqSXcyajhFdmYtZWt1MGlmamQwOEJkTUp6VDZsRkh5YnEyVjVGOHlmenRrb1psT1Vv?oc=5",
+      "summary": "Dh5,000 fine a month: UAE firms have 5 days to appoint e-invoicing provider Khaleej Times",
+      "source": "News — UAE E-Invoicing",
+      "authority": "news",
+      "categories": [
+        "E-Invoicing"
+      ],
+      "published": "2026-10-25T09:08:35+00:00",
+      "first_seen": "2026-10-27T17:07:17.970161+00:00",
+      "last_seen": "2026-10-27T17:07:21.553411+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "d6854a8f2f09f410",
+      "title_key": "ec9f3f3fbbc6498e",
+      "title": "UAE e-invoicing deadline: Businesses face Dh5,000 monthly fines for delays - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWWVSUnR0QVRxaG1QTlhqa3NxcFNNQkdlNi1lYWVKRjFuOFRQMWNoNnY5Ni1CVWVNYWJjSEc3MVU0Q3h3eC0yQ0lJV2NRQTk1TWF3eThpcHFETEQ0OFg1SmJuYUVaZTVvZ3FHc3VpdW8zcEVtbTJJb1FHSFY5dWFOMk5SU3M5ZUpJNEk1OHQ3X1dxeFhLQ0tEbFRtcDR4dG04NS1aY2huV3BJVzlzeDFReDBKdmJmRjVnV3BkOWNQZ3bSAdMBQVVfeXFMTVFtR1VkanA4NWlBaDVrR1V2bDhlak5IUy16ODQtV24xTUVKdG5Sa0ZoeE42MlFWYjJuSmszT3JTSnd5ajJ1ZG1XQmd0M3hUWW5jczlsQ1hWQ3dNRFNxQUsxRkpfTm00WnBybTRpV3F6WXE4NXJmR3MzZDNOZzNqZzU3NmJKWjRVYzdoLXVGNFU2Tmh5Z3AtcVNUMTh0S0M4YThYVllGdW15MVdsZGM5cDFrS2hsV0JERUxzOXJhWkNEMnlydHhfazRucFhEMkUwVmUwOA?oc=5",
+      "summary": "UAE e-invoicing deadline: Businesses face Dh5,000 monthly fines for delays Gulf News",
+      "source": "News — UAE Corporate Tax",
+      "authority": "news",
+      "categories": [
+        "E-Invoicing"
+      ],
+      "published": "2026-10-25T08:42:27+00:00",
+      "first_seen": "2026-10-27T17:07:12.469460+00:00",
+      "last_seen": "2026-10-27T17:07:17.970167+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "e65ce4de26483ceb",
+      "title_key": "83d70686787b40ff",
+      "title": "UAE Launches AI-Powered Tax Refund App For Tourists At Three Major Airports - Travel and Leisure Asia",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeXpZdm5uSHczcUh4UGJ1LU1kWUpJaVBKTFVrcVBBWlVrSlI4aWJzbGRTWHp0bkVQNWlMQ3dWUU44LUpqOTloZjZoN1JEeWwwSHg2YXk3Wm5xOEJTNklQb05UZHBUeUdETWxWWHlvT0dtVEVwODNwZWpFN1RPRzVkWFlYWk9BNExmU0pibXlJY1FFalQzbXVrUk9IMGZ1clhCSEdrTU55YkZ3dXBob2VzcXBsbC1qTm9OQS05d0ZTOWFySjjSAcMBQVVfeXFMTXl6WXZubkh3M3FIeFBidS1NZFlKSWlQSkxVa3FQQVpVa0pSOGlic2xkU1h6dG5FUDVpTEN3VlFOOC1Kajk5aGY2aDdSRHlsMEh4NmF5N1pucThCUzZJUG9OVGRwVHlHRE1sVlh5b09HbVRFcDgzcGVqRTdUT0c1ZFhZWFpPQTRMZlNKYm15SWNRRWpUM211a1JPSDBmdXJYQkhHa01OeWJGd3VwaG9lc3FwbGwtak5vTkEtOXdGUzlhcko4?oc=5",
+      "summary": "UAE Launches AI-Powered Tax Refund App For Tourists At Three Major Airports Travel and Leisure Asia",
+      "source": "News — UAE VAT",
+      "authority": "news",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-10-25T05:40:22+00:00",
+      "first_seen": "2026-10-27T17:07:14.344838+00:00",
+      "last_seen": "2026-10-27T17:07:14.344839+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "b2bcbd9bce7ca95b",
+      "title_key": "f427e89474bee78a",
+      "title": "Federal Tax Authority issues new guide on scope and registration for Top-Up Tax on multinational enterprises - برق الإمارات",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaFhsTDBvVWFWcHJNaWQxdFZoWnpxN0ExT0EtNENrZng3TTh4UFVleDhwOFd3Q05OY09UaXUxNS12YXljOUd3WXl6MWVUdlY5RXhWc3pEYVhBRDZPbjNhX2U4VjJLcUtncVFwMnBZUE55M1ZLLWxhMzFZQnNRYTFleGo3SDhFYWpmYTJ4dWg2dTEyNUkyT3JVQVZVa0JtcU5hdUNKZE52N25XdlNLckRWMThRQTRwQm5ZenFYUEFFYXVBeWhxMTlfNWFieFViR2FpSE84ZDVJcVR5VHhqbGVz?oc=5",
+      "summary": "Federal Tax Authority issues new guide on scope and registration for Top-Up Tax on multinational enterprises برق الإمارات",
+      "source": "News — FTA Announcements",
+      "authority": "news",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-10-24T07:00:00+00:00",
+      "first_seen": "2026-10-27T17:07:21.553383+00:00",
+      "last_seen": "2026-10-27T17:07:21.553388+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "b672d57c3bcf0578",
+      "title_key": "da3392aabccbe869",
+      "title": "XYRA unveils an intuitive AI platform to transform UAE business accounting - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeHRnSjFza2hMY1l3Q3p2dGtXYkRZRW5qTmFaZkJqTW1YZjU5Rzlva1pjTEJSMEg5MVlZd0pCdENvc2p4OXVGdWdBSEd6Q0gyWTFZS2JoUVVpaVVDa3hsYmNSaE1XWlZJWmZua3lOUVprakhMZFZmR1JsYjFTeDM5YWY2VGtLSmtCT3BOaS05aWRXV0k5NUJVanRpcFQ1MzJIdGVUcTd0cG55ZkpheGIxVjI3MlcwRHp0cmZOUEJPanVSUDNmWW1IUElMb1RYdExIOWFNd1lZcmU2X3hXSTYwVEhR0gH0AUFVX3lxTE9lZTBHQThBcUxrMHRBZkROUzQtaW9WMWVmaVhPdk9wYmtkZlYzVEJ0Z2FuWk1CVTFka0pZOTQxYlVMdzFXNVQxbWdIaURLWmY4RGNRM3FCaFRKbVF6akpqRmVabE9BX095Rk5tV0NZN3lRTm42bzNJR1dxUnJleklmd2E0bm9FUnVGTWxwUE05T2d4ZEVhUnBYVzNvazZHbWFWY29FSXVhU1NMTloweUlpdWZIYTl6b3BSaks4d2NrUFJQUzlqX2lzRFctMTF1ZnprRHZMMkNkRmFYbndEMl9YNHV0aXB0N0h1cU1YRHFPRE4zNWU?oc=5",
+      "summary": "XYRA unveils an intuitive AI platform to transform UAE business accounting Gulf News",
+      "source": "News — UAE Corporate Tax",
+      "authority": "news",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-10-23T08:20:23+00:00",
+      "first_seen": "2026-10-27T17:07:12.469500+00:00",
+      "last_seen": "2026-10-27T17:07:12.469501+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "b3a12bc345ca579c",
+      "title_key": "2738f29ad7435c38",
+      "title": "Cross-border Tax Talks - PwC",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNajMxUTZjZ2tOVUFvYThvdWY2RmE1UmFoV05XbTR1ak5FUXB5Z3FRV2RKdGtuVzZhR1Jva1lKQU5IUmVDMlo1dzNSQlc4TExYbkRudlZQT1haTXZWOGNmXzFPTF90c0luOFNrbWZxa0t5VElhM3NOY21CaS11UmFfVFdtVlRON1hRYjlDY2UxMFR2YVhBQno5Mk05NmJFel9DQXl2RXNsZWxhTTZxMmtycHJtNkdDWjNxX3Y2QU1TWTV5MEFTZFhJQw?oc=5",
+      "summary": "Cross-border Tax Talks PwC",
+      "source": "News — Big 4 UAE Tax Commentary",
+      "authority": "commentary",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-10-22T19:31:26+00:00",
+      "first_seen": "2026-10-27T17:07:23.349489+00:00",
+      "last_seen": "2026-10-27T17:07:23.349494+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "e19b871285d9e5de",
+      "title_key": "a8955ddf0cd6f7f8",
+      "title": "UAE: Claiming VAT Refunds For Tourists Just Got Simpler With New AI-Powered Digital Platform! - Curly Tales",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORDJuVlViQjVHZ3JEMUxXV2NqVjBhbXVSWk1WWm1CMUVqU0RLX0JMNjctNnE1Q1FmSEhVZnNUcFFrLVBGQjJSWHF6UDJlVTJObFNhcDFRcnh3WFZMTEVycjZ3S2NEZnpqT180dFpHZ0VCeXgzdVd5QW5Yd0w3QUdHOXI5WE9NUzFPYlVYY0RTZ3NhU2kzWWRramVROTRQdmsxNk1zblRXY1ZOTVVnQlFicXNFTnRsWlYwWnBNd2Y3WV9EbFJlYi1UN2Z1dzlpSnfSAdQBQVVfeXFMTVJyVkVYR05PQldudW1QSzJsS0V5aW0yZVNyRmQ1YmhBaDhMVmtoNTJfSnZTdUV0amhlQ2lTa1pxbnpWRTA5aG9DaDhEdExWTDRrVmszb1gyTkNLY1RUMThXNEM2eXhKa2ZmUDNxbGM1YlVLQXl6c0MyaW5KQ2tQMGxMQ0dmM25iN3U3MUZKazN3X0lNeU83ZXJwTkE5REViLVZJZzJqcGVaLTJXWV9nWE9EVmJqSVJHV05XaXMtTkRjbTkzZml3bkNTdjFnYWVjU1E4SzY?oc=5",
+      "summary": "UAE: Claiming VAT Refunds For Tourists Just Got Simpler With New AI-Powered Digital Platform! Curly Tales",
+      "source": "News — UAE VAT",
+      "authority": "news",
+      "categories": [
+        "VAT"
+      ],
+      "published": "2026-10-22T11:06:44+00:00",
+      "first_seen": "2026-10-27T17:07:14.344817+00:00",
+      "last_seen": "2026-10-27T17:07:14.344818+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "00a9e15f84281ab0",
+      "title_key": "9892ec0fb8fc8281",
+      "title": "\"Smarter and simpler\": UAE speeds up VAT refunds for tourists shopping in Dubai - Tuko News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR0ZWZkx0b2hxUzJfSlEwNEl4YWlSOEVreHVFZmEwMWxia2xYX1BxNThjczJ4bEk3S1lkRy1ZREZTV1FXNDZ2N29tcUxYVWxIZ3lZWkl4VHgtdUZ0QXYwcmFwMlVId19pX0lxWFpMT1hVVkxDZHIxR1NYemlyZ3Y2dG9Iczg3Q0tVcEtfVDlTVm9IQkxwMlQ1eEpRaUdBQmx5R0xQNXZ4QnotSHpYWnZYTlJYX3o?oc=5",
+      "summary": "\"Smarter and simpler\": UAE speeds up VAT refunds for tourists shopping in Dubai Tuko News",
+      "source": "News — UAE VAT",
+      "authority": "news",
+      "categories": [
+        "VAT"
+      ],
+      "published": "2026-10-22T08:15:03+00:00",
+      "first_seen": "2026-10-27T17:07:14.344875+00:00",
+      "last_seen": "2026-10-27T17:07:14.344876+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "0076eeecddfb4427",
+      "title_key": "f46c793b76d4fc3b",
+      "title": "Amendments to the UAE electronic invoicing system decision - Simmons & Simmons",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUzJMUUdnR2Z0TjQ2eEMteTVMNHpOZndFbEh3T1hJaVQ5Z29HdXRlS3lTcXdRbkFFMnVRdFI5a0QzMzlQM2EzZnBDY1VDLXJUeFI5T1VtQnJ5UEFHTmU1bVA0bWJiMTZwTmhFR21sZzE0WEZReGRwMWRDalVDbm9kVWpVM0VfTmJHeThySXRwYjY0UzZXS1NhT0J2T0tGLVczYjk3Mno2TDZPeU5BbGM3VGR6SDJYR0wydkkxNUtYSzM1a19ocnhlNWQ3VS0?oc=5",
+      "summary": "Amendments to the UAE electronic invoicing system decision Simmons & Simmons",
+      "source": "News — UAE Corporate Tax",
+      "authority": "news",
+      "categories": [
+        "E-Invoicing"
+      ],
+      "published": "2026-10-22T07:00:00+00:00",
+      "first_seen": "2026-10-27T17:07:12.469336+00:00",
+      "last_seen": "2026-10-27T17:07:12.469341+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "98d0c1d7a1a6f625",
+      "title_key": "fb2b8cd320157d9a",
+      "title": "Cyprus tax alerts - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR3dMcm02YVpKS2NHZC1YZlJaV2VXZHJMYjNzVzRNa0NfSDNXaFhJcUNseDFYaUVRNVNpdmd5Rm1jbE04d2psTWRBMjZrOUxQQ19fOXdSeXF5cXpPN3NYRWxqMEJ0aFNGcWl4OTJfSU9mSnNxRXRXZHFxY3ZfaHJrNA?oc=5",
+      "summary": "Cyprus tax alerts Deloitte",
+      "source": "News — Big 4 UAE Tax Commentary",
+      "authority": "commentary",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-10-22T07:00:00+00:00",
+      "first_seen": "2026-10-27T17:07:23.349540+00:00",
+      "last_seen": "2026-10-27T17:07:23.349541+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "1d3773c49a0fd0ef",
+      "title_key": "ddc5e7dde5275242",
+      "title": "World Tax Rankings Middle East 2027 released: challenger firms surge in UAE - International Tax Review",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUWp5dVloOUQ4anZfTkR4NnJUYkZYdk1ZU2xDb1h6ZE5Wb3pzRzVxQklBNi1tTC1KWndLRlhpdVBaQmJzZ0FaRFVsNUQ3VXFDOWlRSGRMY3FHM0djMk9TRVQweThXS0lsSmxGN0xOT3V4ckZVNjRuTzVMOGJBSjN0Q1lwOTEtSXBwcm9zTTZUc1MxbVRpd2tRMlFjTE41b0EwTFRxSUg0TjlDTm93RU9WUDJFYm9sS3UtVm5XdWhmTVhndTF1dDdNZHUtWDB6Y2RpeFd5bnk3UzV4VHdwckNra1BoRWk3OVQxMjM5TWFaVkRlSjQ?oc=5",
+      "summary": "World Tax Rankings Middle East 2027 released: challenger firms surge in UAE International Tax Review",
+      "source": "News — Big 4 UAE Tax Commentary",
+      "authority": "commentary",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-10-22T06:23:56+00:00",
+      "first_seen": "2026-10-27T17:07:23.349521+00:00",
+      "last_seen": "2026-10-27T17:07:23.349523+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "e48f4e7ea5eb5486",
+      "title_key": "e42c1a3d15a4fedc",
+      "title": "UAE launches AI platform to cut tourist VAT refunds to one business day — The National - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYXdJZkJvX3ByM0lXS2ZtYjlHR0poREtsemlTaHdPWGExcVBhQzdNR3kyWmJMNHJsTnVYemRldHg2aG1jdlNidk5sV1JjcldzRF85dzh6ckpHeHdWVHp0SVdzeFZGNFlzdW04Q1dockJ1ajU2bnRFcmdwLUZfbE9iVm0tRE9jQklXM1Qzc2ppV2lDM19vUGUxLU9uc1ZJNm9TcTNlYnFnTzh2RVZyZUFEM0VVdHZWRFNKQmJsX1ZtQlc?oc=5",
+      "summary": "UAE launches AI platform to cut tourist VAT refunds to one business day — The National UA.NEWS",
+      "source": "News — UAE VAT",
+      "authority": "news",
+      "categories": [
+        "VAT"
+      ],
+      "published": "2026-10-22T01:50:42+00:00",
+      "first_seen": "2026-10-27T17:07:14.344662+00:00",
+      "last_seen": "2026-10-27T17:07:14.344664+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "e4b608070694dadf",
+      "title_key": "98b4a0ea49d9a9c4",
+      "title": "UAE's new AI platform to slash VAT refund time for tourists to one day - The National",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZVpMLWZ4cmVQdDlnSlZRRERKN0tJbVR5eGVfblhRam5IUGwtXzdIaWJqeWlSNEVNVGozWGpvMm5LSGQ0YXdlVl92YjRPNHhtZDFIQ2swNlRtdzRQeUtTVmE1d1ZfVF9vdXR3N1RvV3ZoLXlZdWFyTENheUtIa0lOTjZTcjUza3VWVmFLaXpEVm1kTkpVandrTE80a0dadG9IMlJsWUhyZHU4U0tMS3I0cVQ0RVM1aTUzWGF4U2pvQQ?oc=5",
+      "summary": "UAE's new AI platform to slash VAT refund time for tourists to one day The National",
+      "source": "News — UAE VAT",
+      "authority": "news",
+      "categories": [
+        "VAT"
+      ],
+      "published": "2026-10-21T23:05:04+00:00",
+      "first_seen": "2026-10-27T17:07:14.344704+00:00",
+      "last_seen": "2026-10-27T17:07:14.344705+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "0643e43cb0674b79",
+      "title_key": "b06e9b8f1d00b2f1",
+      "title": "UAE Federal Tax Authority Launches Digital VAT Refund Platform for Tourists - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSm9HaWZSWEFFM3BNOW5acHZBT0luQWFnVEo3QUpJR1AwdUNMVjE0V3RXUXptLVVZR1VBN3doSnZlU1RNcU40UmJNVWpfQnVpY3NNRGRqNTM3WVFNRnB5X0g3SXFfbkl0Rk91MEtTWVBRejJDOElIcmxLSG1TcnNaRWdVbUdoS0QtMGVRX0NzSjJOSVJyV1luRVZsRW9ldl80c2VfUkNiempDdw?oc=5",
+      "summary": "UAE Federal Tax Authority Launches Digital VAT Refund Platform for Tourists - News and Statistics IndexBox",
+      "source": "News — UAE VAT",
+      "authority": "news",
+      "categories": [
+        "VAT"
+      ],
+      "published": "2026-10-21T13:53:16+00:00",
+      "first_seen": "2026-10-27T17:07:14.344626+00:00",
+      "last_seen": "2026-10-27T17:07:14.344631+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "bd6cc5208761a07a",
+      "title_key": "8ff695e1bac1d23e",
+      "title": "Ministerial Decision No. 197 of 2026 - Crowe",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMFZaS3RKdnpEdVpQcUtlN1JJWlBuZmxxRkpnZHB4WXFpUGg1cHpjcHdKUzJlM0VTVExnRExWRkowZm5iek1yUHpaY3ZWamZfS3ZpM0tkSW9MTjV0YmxHOFhpeDltbkxENmZLamJkV1ZKMklZUjAySU1aZGVZSnRMamIxejJBdw?oc=5",
+      "summary": "Ministerial Decision No. 197 of 2026 Crowe",
+      "source": "News — UAE Corporate Tax",
+      "authority": "news",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-10-21T12:34:04+00:00",
+      "first_seen": "2026-10-27T17:07:12.469367+00:00",
+      "last_seen": "2026-10-27T17:07:17.970022+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "592817827b5dbc89",
+      "title_key": "d781f88869a01267",
+      "title": "UAE launches paperless, AI-powered VAT refund app for tourists - Khaleej Times",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZWdmNWZuVEo5Uk9mUEQybHRrODZ4M1plWloxXy0wWDRtMlp0WDdlVzkzOEgzMHNxdm1kSXJZcWZSVklxX0pKV3dHSnhMOEs3aXFZYzUwSXdxa2JFcXphbnhmVG10cHJURUFaVkw0dHk5RHF3b0o0QklQQ1ZoNVE3UXRMNnhsbTJyUDdRbDBKTmlhVFdTSUVEN2RXc9IBowFBVV95cUxNbmFfQTNJbmpFSVhLcndEbHQxcGVqcnhzSEVnenJod09jelNLSHVSLVE4dVdtTHlHOFMtcmRjTVVnd2p5cU0ycEFEbWdHbVVoVWdGbVRvRUh5WGpGT0xQVWRaUklXdloySmd2QWRYNlV5UFlPYWhnRF9KM2tsWl9wek9RQ1ZuVVRWaXJkb3F4cHVCMkhfMDFOU0NGNTQtOFV4MGhv?oc=5",
+      "summary": "UAE launches paperless, AI-powered VAT refund app for tourists Khaleej Times",
+      "source": "News — UAE VAT",
+      "authority": "news",
+      "categories": [
+        "VAT"
+      ],
+      "published": "2026-10-21T08:42:24+00:00",
+      "first_seen": "2026-10-27T17:07:14.344856+00:00",
+      "last_seen": "2026-10-27T17:07:14.344857+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "b4f42e088264486c",
+      "title_key": "40ebcde206a5ea32",
+      "title": "UAE tourist VAT refunds cut to one business day with new AI platform - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTHpETlBMdE1Kb2FWR0ZBdG5jRldvV1ZOWFpJYnMyVWhlQ1hTUE43dkV5UTJIWVA3eVFER0pKNXZHYTVXc3h4eVJ2R09YYVh3dEpkb2k3cXlyYWQyU3pPS0dvSjZhSkNmS1hpM0UwU0VXbEx6d2hydlh3SUJ4amkzQ3RlVGRtRTlqdGdjdW9rMVJkUG5PazRPdkZuY25mdHVoakZIZWFfcWNaLThEeXNyazVhTnVPckJZbXg40gHOAUFVX3lxTFBpcjZEUUktS3kzU1JHZzctTGFPTWZ2WG5PTGc0N21xLWoyS3gybHEzY0hMYU9XeGh2QUE0Z1NRSURaV0xhUkV6Y2VmbkpCR0VBRjR5c2l4SVpPYnBCQ28zTHNVN0k2aWhXcnpMYjFCaFJyUzQ3OUVJM0Q5YVBOS0JZbUV2ZXJVcS1xX2dnUGlYZ3NBaDVmREZyV3QxeTk3VnVUNDJfbG9fekhjX25MOEVhSERXSTk1a0x5THRXT3V2RmRtbkRXd0dTXzEzNWlR?oc=5",
+      "summary": "UAE tourist VAT refunds cut to one business day with new AI platform Gulf News",
+      "source": "News — UAE Corporate Tax",
+      "authority": "news",
+      "categories": [
+        "VAT"
+      ],
+      "published": "2026-10-21T07:57:17+00:00",
+      "first_seen": "2026-10-27T17:07:12.469480+00:00",
+      "last_seen": "2026-10-27T17:07:12.469481+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "7fcfb4db543523f5",
+      "title_key": "13c941ccefd90a05",
+      "title": "UAE Launches AI-Powered Tourist VAT Refund Platform Across Three Airports - Konsulteer",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaTNXUlc5Yk5IdGN4RF9PeDN3Nkc3WnducVRwSEczbFlhb2dLXzlKNWFsdEh4VlQxZTRNRl9VQjhYZDgwWU51dmRjZVhYUFR1WFBKcWltSTZwcEp5N3ZYVkNRNWZVaTU3UXNBZzZqTVFrN2pMci1jZGhRemRGSnVRLTZsNW1Rc05Ic3NGd21nLU85VVJFLVR5MzZrOWI4Mkc2anZqb042c0xqUGc3?oc=5",
+      "summary": "UAE Launches AI-Powered Tourist VAT Refund Platform Across Three Airports Konsulteer",
+      "source": "News — UAE VAT",
+      "authority": "news",
+      "categories": [
+        "VAT"
+      ],
+      "published": "2026-10-21T06:54:37+00:00",
+      "first_seen": "2026-10-27T17:07:14.344796+00:00",
+      "last_seen": "2026-10-27T17:07:14.344798+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "548574c5bb80912e",
+      "title_key": "109516fd8fd1d206",
+      "title": "DigiTax partners with Supy to help UAE restaurants adopt e-invoicing - Caterer Middle East",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOU1EY2p6d1B0WW9WUFljUmF4dzdCVnVMNE50QjZ0QkJDeUFNYy1DLWl5bU5hdVphdmtOMmNuenVqVHNacTRTeFZqbUFvS3VFOGMzUlZ6VFFsZnJ4V0MxWGZLWkJiT295aWxaaUFjeS14LWlDeE5UYWliQW9nMFRBVWZkUEdHMlp1NWNTN3NadG9LNUwzck5Ja1F3LUlrN2Q3V2RZcEhKY05vejA?oc=5",
+      "summary": "DigiTax partners with Supy to help UAE restaurants adopt e-invoicing Caterer Middle East",
+      "source": "News — UAE E-Invoicing",
+      "authority": "news",
+      "categories": [
+        "E-Invoicing"
+      ],
+      "published": "2026-10-21T05:00:00+00:00",
+      "first_seen": "2026-10-27T17:07:17.970117+00:00",
+      "last_seen": "2026-10-27T17:07:17.970118+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "1d05c1b0687d8664",
+      "title_key": "e9df43c3dc6f4070",
+      "title": "Federal Tax Authority launches world’s first-of-its-kind AI-powered digital platform for tourist tax refunds - Zawya",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQV0NXYW5reU5Sb1FHRmNDT3dyaXphV2ZORlVZYXNhN1ZQV1FldnhlZGF4VTJpVVJ6c0k4MGRqZE13Rm95S0ZWWkpVQUdlNFpTdDA2cks5akhhZmNZNlFuVU8wVkVJMFhiRUVjNTg5d1dzb2htY05tM0xIb0RhS0dhZ1RaQzZrQ2Z6ZzJJTnlZd19vOTJsU09pamc1TWFqaGFiUFM3Z1JNSGlac0lFeDRrcFpIYWxLN3ZlVjdtc2drS01FRTl1eTdCM3FZdFd1ZU1jODNWYkZ2WHZzZk5USlNVcnlsTXRrcnhaUi1fbUhXWnR6U0FUc3lydXJwNDIyWWc?oc=5",
+      "summary": "Federal Tax Authority launches world’s first-of-its-kind AI-powered digital platform for tourist tax refunds Zawya",
+      "source": "News — UAE VAT",
+      "authority": "news",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-10-21T04:44:28+00:00",
+      "first_seen": "2026-10-27T17:07:14.344757+00:00",
+      "last_seen": "2026-10-27T17:07:14.344758+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "6dc6df269a66d570",
+      "title_key": "b44f859c23a5431a",
+      "title": "UAE VAT rules change staff expense claims: What businesses need to review - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNjVZSlVOR1Bab1VubGlRNjZGeDNPWmVNSnRSNDlCXzk3bFk0U2dQTUt6dFlMVmY1QkpvWU1XMlVoQTN2MzluUVNxY01BYWtVb3JuYjFNU1dfQjl2X0dDTnJrXzd3eFFpanBCNGk1QS05LVAyVlliZUgzRFJhaHFKaTlsOTBMOExqLWtBUGZDaXFSZmVfZkRPQk9YSzF2VlNiUlJtbU9RWndXLUxjMjhoN1ZwYWYySDZHZkJRNGdTak3SAdMBQVVfeXFMTUhINEdZNjQybDJ5TjhWUkMwNDBmcENESVUxc214S044NTBva0JGVWNJMFFidVczdFVuN0U5d3VIT1dCczVFLW00LUczN080X0xVWmZTbVd2dkxEaWJBZkxuVHFuWjBoeWpDczhpVVJ2ZTVaY0R1dVVtN24tV3R0bU9WVm52M0lBeDQ0T2c3cEdBUjRjRHFkQTdiUl9HTmw2dmNDTk5BRkpjdVN0NlJaRVR6emc1Q2lpQUxocWx3SFFtRDFRZkI4cmMwLW5BTVhwUWNQbw?oc=5",
+      "summary": "UAE VAT rules change staff expense claims: What businesses need to review Gulf News",
+      "source": "News — UAE Corporate Tax",
+      "authority": "news",
+      "categories": [
+        "VAT"
+      ],
+      "published": "2026-10-21T02:06:00+00:00",
+      "first_seen": "2026-10-27T17:07:12.469439+00:00",
+      "last_seen": "2026-10-27T17:07:21.553414+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "99f1e443abb61e1b",
+      "title_key": "6e61dee6699de669",
+      "title": "APR, Korea's leading beauty company, showed an 11.8 billion won increase in operating profit in the - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtVnRiOXljUWlKOUtMcC0tQjNycVJxaGJMUTBPZXFwYkFPeHM1Q1R4eXhmNzZGMzhnbVFrNFNZSFAtMjRiYVB2TzNRVXJ2dW8?oc=5",
+      "summary": "APR, Korea's leading beauty company, showed an 11.8 billion won increase in operating profit in the 매일경제",
+      "source": "News — IFRS Standards",
+      "authority": "news",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-10-20T20:59:41+00:00",
+      "first_seen": "2026-10-27T17:07:19.754338+00:00",
+      "last_seen": "2026-10-27T17:07:19.754340+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "d7963de0a0144f3a",
+      "title_key": "0cc473f3d7d6d727",
+      "title": "UAE announces major tax refund upgrade: Tourist VAT rules explained - Arabian Business",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOV9mdmlpRVVsSTdjRnA2bV9OSGUtNGlvNmgzTWVjSGJiZFkyYmpBQ1h1UE4zY2VGN3FFQ1M3N09ZQm4zc1lTNl8ybDNKTll4c1FweWZlNFBLMFI3aFRfSzAtaHJzVmxSajI4amM1OFBMRUlnWnBfbWZ2a0s1azBieWtybl9VRmVrRmd0VVI4T0tzNWZZbWdCNE5NR3BxZVR0TW1EZ3VCTlBHZw?oc=5",
+      "summary": "UAE announces major tax refund upgrade: Tourist VAT rules explained Arabian Business",
+      "source": "News — UAE VAT",
+      "authority": "news",
+      "categories": [
+        "VAT"
+      ],
+      "published": "2026-10-20T19:51:49+00:00",
+      "first_seen": "2026-10-27T17:07:14.344683+00:00",
+      "last_seen": "2026-10-27T17:07:14.344685+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
     {
       "id": "c200cc54f4ef44f7",
       "title_key": "5f5b8d286721bf63",
@@ -18,7 +702,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "c5df6b38550767cc",
@@ -37,7 +721,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8c8010f2b0535a49",
@@ -56,7 +740,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a5b71df64dcf563c",
@@ -75,7 +759,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "66de2784e7ab299e",
@@ -94,7 +778,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b39a252d86928b45",
@@ -113,7 +797,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "47c6150a6ea86f48",
@@ -132,7 +816,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3ba6ed6919a74a03",
@@ -151,7 +835,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "81a5be9f32a783d5",
@@ -170,7 +854,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "de699d05cb54d4bd",
@@ -189,7 +873,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "78aa6854602b1afb",
@@ -208,7 +892,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b5132cfcabb98281",
@@ -227,7 +911,7 @@
       "domain": "mof.gov.ae",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8bf325762f45d7d8",
@@ -246,7 +930,7 @@
       "domain": "mof.gov.ae",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b061ff922996ae41",
@@ -265,7 +949,7 @@
       "domain": "mof.gov.ae",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "13d06bf03fe5b212",
@@ -284,7 +968,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1c96b9f25d7a665d",
@@ -303,7 +987,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ee3f17b49e401220",
@@ -322,7 +1006,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "93b55460477446b4",
@@ -341,7 +1025,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "c11dafc02b6cc637",
@@ -360,7 +1044,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "4c1e77dd33c00934",
@@ -379,7 +1063,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3af9a3015dbc79a6",
@@ -398,7 +1082,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1fb7b196b7130e8c",
@@ -417,7 +1101,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8f319c38ccec1f00",
@@ -436,7 +1120,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "7f401a1af3c896e8",
@@ -455,7 +1139,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "937c5a7958a18c86",
@@ -474,7 +1158,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "354f7b47500038da",
@@ -493,7 +1177,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "849fa237fd7311b5",
@@ -512,7 +1196,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "fbc5d5041214d23b",
@@ -531,7 +1215,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "e5ad65ba45b49759",
@@ -550,7 +1234,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "73c5e4a79947b211",
@@ -569,7 +1253,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "190c2326df01d64d",
@@ -588,7 +1272,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "813a98da1e599278",
@@ -607,7 +1291,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "aada70e3ccb09b2e",
@@ -626,7 +1310,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "9af7c078d8f03e6e",
@@ -645,7 +1329,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3152ce6df8b14d41",
@@ -664,7 +1348,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "006ffc3de93a276e",
@@ -683,7 +1367,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "bc629c3e62479c50",
@@ -702,7 +1386,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "d095cdb98bcb9a17",
@@ -721,7 +1405,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "86cbecd6088ed715",
@@ -740,7 +1424,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "cca9d0b2016495bb",
@@ -759,7 +1443,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8150eb46e39e5bf1",
@@ -778,7 +1462,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "e36bbe47d8531b33",
@@ -797,7 +1481,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "dfc0774f932d8ab4",
@@ -816,7 +1500,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "d037a9824e386512",
@@ -835,7 +1519,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b54e8d9e93a74687",
@@ -854,7 +1538,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "cc3a7026effeff23",
@@ -874,7 +1558,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "fc9267d1cef4e140",
@@ -893,7 +1577,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8702d19cadca2353",
@@ -912,7 +1596,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "7e161bec59620a70",
@@ -931,7 +1615,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f3d2eb869331f2e4",
@@ -950,7 +1634,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "bc5607cd3ea527aa",
@@ -969,7 +1653,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "6d8bedabec68cde8",
@@ -988,7 +1672,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "427ecfdd19fd86ac",
@@ -1007,7 +1691,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b457bd0c98ceda44",
@@ -1026,7 +1710,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "27b15952b801190b",
@@ -1045,7 +1729,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "e7464d96cc705c8b",
@@ -1064,7 +1748,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ea955b4ff8932b23",
@@ -1083,7 +1767,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "7c737988cf210e41",
@@ -1102,7 +1786,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
