@@ -30,15 +30,15 @@ jobs:
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
-          EMAIL_TO:  ${{ secrets.EMAIL_TO }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
         run: python monitor.py
 
       - name: Build the Excel export
         run: python monitor.py --export
 
-     - name: Commit results
+      - name: Commit results
         run: |
-          git config user.name  "tax-monitor-bot"
+          git config user.name "tax-monitor-bot"
           git config user.email "actions@github.com"
           git fetch origin main
           git reset --soft origin/main
@@ -46,7 +46,10 @@ jobs:
           git diff --staged --quiet || git commit -m "Update: $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
 
-      - name: Publish dashboard to GitHub Pages
+      - name: Publish dashboard to GitHub Pagesuses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
