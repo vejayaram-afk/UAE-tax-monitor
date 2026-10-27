@@ -46,7 +46,8 @@ jobs:
           git diff --staged --quiet || git commit -m "Update: $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
 
-      - name: Publish dashboard to GitHub Pagesuses: peaceiris/actions-gh-pages@v4
+      - name: Publish dashboard to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./docs
