@@ -1,46 +1,34 @@
-UAE TAX & REPORTING UPDATES — 29 October 2026
+UAE TAX & REPORTING UPDATES — 30 October 2026
 ==============================================================
 
-7 new item(s) found.
+5 new item(s) found.
 
 VAT
 ---
-  UAE electronic invoicing deadlines announced - Global VAT Compliance
-     https://news.google.com/rss/articles/CBMijgFBVV95cUxPREZqVWFCZklDbHRZeXBpN29mbl9NSWQ2T2lfZjJqV3lzenV2WE1zWkFjOTRUMXJXRzdyRDNpSC12cDJoVUxSSHZWbG1EOEZUNVNHN1Y3czhCY0VOTzRDY3E2YWVZY3dVMFhUaHZNdnpUMG04YThMOVFJTGlRYW9RNGdKNThrOUVLRHJTbjRn?oc=5
-     Source: News — UAE VAT
-
-  A new era begins for VAT input tax due diligence in the UAE - Consultancy-me.com
-     https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnFTdmVUTW52ZWVOOHVISk5BaHJoMVVXZGd3cnpjZ1JySkJGRTRmWGxmU2FJX0pnSGNaeGJJREIxTGowWjhneDV2allRZ2dLU1dIVmdRWUd0X04tZ29Zc2JDUVJLUGNpZlU5X2JIUGNScXpyYmdMZURwWU1xa0VqMVNIbi1VQTh0RkJjZHFJdVI5T2ZZbzVJSTg0WHNWcUVpaURvWUF5T1jSAagBQVVfeXFMT2JxU3ZlVE1udmVlTjh1SEpOQWhyaDFVV2Rnd3J6Y2dSckpCRkU0ZlhsZlNhSV9KZ0hjWnhiSURCMUxqMFo4Z3g1dmpZUWdnS1NXSFZnUVlHdF9OLWdvWXNiQ1FSS1BjaWZVOV9iSFBjUnF6cmJnTGVEcFlNcWtFajFTSG4tVUE4dEZCY2RxSXVSOU9mWW81SUk4NFhzVnFFaWlEb1lBeU9Y?oc=5
-     Source: News — UAE VAT
-
-  Himachal Pradesh Makes Electronic Payment of VAT Mandatory for All Registered Dealers; Amends Rule 37A of HP VAT Rules, 2005 - A2Z Taxcorp LLP
-     https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMWFMSHc1dFk0SXhSd2FsQWEzZk5vc2w2US12cEtZUkdjTWlsdWw3N2ZwbGw0Y2kzMnNGcnJvWUJrbFgtV1lHaHZnczNpUThZd1FJeEMtay1QR2s2R21STnk2aG54cGs2RUhRZFJ2eml3TFMxWTRDVzdCSFJEMFAxOTRra0JfS3dNeTBRT2xtWTFCNWpHM0U2QWtIYVp0MFdqYXpOYXJrZTUxWHZWN21Nbkp2elNhbWdtekI0TkktZEhOT1hIaXkxT2hDbkZvcFIyUTlTcVlBLWVwY1dwVUJV?oc=5
+  UAE streamlines VAT refunds for citizens building new homes as satisfaction hits 93% - Arabian Business
+     https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWXYyQ1QtaHVtZXZZV205VDVQZTdGdUhZOUZOZE1STjVYdWdlMl9RNGV5ZUZtVFIyczQ4V0F0aEFCOTVGUXdKYU55amNBOWJmR2U2dnVRdnlydmdlZ1Z4TzF2TXJtOHJlMlFJaExFRzBLOWZ6SXpTczdudC10UkFxTzE1VC1oaDZEVFJmZ2dmdVdkMzk0T28zOGIxaExoN1g4b1lURGZiaGd0elNTVnZGbzVCazhKVEhhOURqdDdadng?oc=5
      Source: News — UAE VAT
 
 
 E-INVOICING
 -----------
-  UAE electronic invoicing deadlines announced - Global VAT Compliance
-     https://news.google.com/rss/articles/CBMijgFBVV95cUxPREZqVWFCZklDbHRZeXBpN29mbl9NSWQ2T2lfZjJqV3lzenV2WE1zWkFjOTRUMXJXRzdyRDNpSC12cDJoVUxSSHZWbG1EOEZUNVNHN1Y3czhCY0VOTzRDY3E2YWVZY3dVMFhUaHZNdnpUMG04YThMOVFJTGlRYW9RNGdKNThrOUVLRHJTbjRn?oc=5
-     Source: News — UAE VAT
-
-  UAE Passes 25,000 Peppol Participants - sharedserviceslink
-     https://news.google.com/rss/articles/CBMif0FVX3lxTE0ycm9haWtSX21lNk4yMkZESVBxVVFQTl96ajVERGZhUERTdS1faTZ5Ry02N3p0a0Znc0tnQVF5T2tHRjlYQzM5ZmZ4eVJDdWx1QzRDWFJTdzZubTdndlc0dmxtRkZQOEhoa19DWC05UjJMblZHTFNFVzR6WmhHSmc?oc=5
-     Source: News — UAE E-Invoicing
-
-  Dh5,000 fine for 1-day delay: UAE firms rush e-invoicing deadline - Khaleej Times
-     https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWhmSUVTODNEbHVMazVqOTdveVpnQVc1R0pTbzVlOFptck9OVlRzSXFjTmtnV2wzank2Mkw2NnM3dm5tRXVnSEpKVlpJeHBNejlmcHlza21QZlU3VDQtbFhFVHNUakg0NGhfRnJvVVBZdW9QZEhINUpZMy1qNVFuV0I1R29zS18xSTZIUzV0MnFPQnFQb3ozNmZSODFvUFpZX2RUR3d5UmFMZ1nSAasBQVVfeXFMUEFoZklFUzgzRGx1TGs1ajk3b3laZ0FXNUdKU281ZThabXJPTlZUc0lxY05rZ1dsM2p5NjJMNjZzN3ZubUV1Z0hKSlZaSXhwTXo5ZnB5c2ttUGZVN1Q0LWxYRVRzVGpINDRoX0Zyb1VQWXVvUGRISDVKWTMtajVRbldCNUdvc0tfMUk2SFM1dDJxT0JxUG96MzZmUjgxb1BaWV9kVEd3eVJhTGdZ?oc=5
+  MoF announces updated administrative penalties related to the UAE eInvoicing system to enhance clarity and support business compliance - Zawya
+     https://news.google.com/rss/articles/CBMiowJBVV95cUxQdVpPVGZGSlI3MDZ3VXJTTzcyaWt2S1hTVktic3VjQ2VMeng0dTNFcFNhdS05TjkxZXg5TzNXVTNibUUtTFZpQi1BcUcyZzNKYlJFX2ZuOEt1X2pDTDlWWEh1bjJfYnZkSUZoMTNCNnlmYVBmSWpIT3NXRmt1TWx0c1FaQ3liYlhDZHNxSGQyUzk1V1JWWnlLbXlTVlYwSlJsVnlEVGE1Q2R5SEFqRGpDc0RUaV9PdzU0NGh4dThSaGthQVc5c1hZRjZtU0hpOUtua0lmam9udmFTZ3NkSWdRb3FlaHFmOXc1cW40YnptdXBDWHNoQlk1Q1VUdTNhclI3SjRzLWVxRHlZek1oZFpWX0k0TWU2c21XWERfRk4xRXBEcUk?oc=5
      Source: News — UAE E-Invoicing
 
 
 OTHER
 -----
-  Why UK founders are moving their business to Dubai in 2026 - BusinessCloud
-     https://news.google.com/rss/articles/CBMilwFBVV95cUxNSk5QTTg0RVJHQ3Y3Y2h4d01nRW1QMF9iRGlZRnZkazR2LWszX0VkMHk1YlY0TkQ3bzNEX2pkazNROUZ1cTRNbWtXQ3FLbWZaV0xURTYwci1FTV9NaFF5RFY5WXRYY3kxeWRzTHlwZzRBZUNKMmI3bTBtV3dYblVGLUl0cmx6VnRweUxYT1Uxekk0SUk0eTZV?oc=5
+  The UAE’s foreign-ownership reform - The Arab Weekly
+     https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yZlA5ekZTR2g0VFBqdklkcHlpYWFtODd3QWZ1dEowY0tpbE42NDJ6Y2ZNRTFjMkpYUkhXWFVyck1YUnRnMkhsUFNObWtaaXc5Q3BDVVZzZTV4NFBWWlJOR1lHbGg3dw?oc=5
      Source: News — UAE Corporate Tax
 
-  Federal Tax Authority holds second session at Al Barsha Majlis as part of Emirates Majalis initiative “Closer to Each Other” - Zawya
-     https://news.google.com/rss/articles/CBMikwJBVV95cUxOMWRFWVpfczR3aDdSTi1MMktYZXJraU5qdTAzWE1BSFA1UnF2RnJ5WWJ1V1hVVGZ3eTduZTFEdVFvWGQ2NENIbVdTeVhZQklVTzlkZkFUZGQweTBxOWMtc0toOG9ITjhzWVAyd1JfalJCcDhaV0RXYklVU24tYUxMcGRhTkd2ZTlmazdjbEVMLUItZEVYTVFqU3N0MExMTGVHbE5FQmQ0MkZGbF9nSHZXaGlMQTdyVnRsRF8xaEFVMEZRVExYQUd5dTRLNHlPWDVuVHRIS3Fjak0zV0pEZ29Yd2pmenlWVXY3OWFsSjlLM09KZnM0bjd3VERDSlNmQVVhWEY0dmFCcTk2UjBYUk5FdmZ2MA?oc=5
+  UAE top-up tax deadline nears for multinationals with $800 million revenue - Arabian Business
+     https://news.google.com/rss/articles/CBMiswFBVV95cUxQTFZnWXNReHhfaFJQbkIxNlJHOHQxYlUzX3J4d0xaQ0lqWTc2Rk9MeUJodEF6eEtjMmRzcEJDcmtoTGUzanRyX0kwTE1ycWZ5ZS1Uc0lNeHphTjdXeXU3YnpWdGNIVEk1cEUzYkJLMUxESE9xdHpLa0RJUVpQTWNvZlVna1lUa29SUXFsUlQxRnZDdkF0WnJnQnZCeHExOURzWlpRMGVMVjJuN0JLUkpKNTRQZw?oc=5
+     Source: News — UAE Corporate Tax
+
+  Federal Tax Authority holds Customer Council session in Dubai - Zawya
+     https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdzRGRGJMMHQwUGtsN1lORlVoeGhnWjRXT2djTzNDWUpzOUNjaWpSa2c2YjBGVzhvZm1qSW9lYjNVZWQtdGMzYVMxTlNxQ1FPckdEV2ppREZhbWlzNGlJd0tqeEVyTXdHVkVmby1Yajd3REF1MkVkenoybDNwbC1KR1pURFhBTGdDRXpaM2RLYl9Fb25CSzlhS2FDZWdORUJGTWpQWDd3aTBSdHF1YTBUNDU3Um5Lc0VFZWhQRk1uSnNyQQ?oc=5
      Source: News — UAE VAT
 
 
