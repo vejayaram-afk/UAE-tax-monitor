@@ -1507,7 +1507,7 @@
     ],
     "published": "2026-10-26T19:31:18+00:00",
     "first_seen": "2026-10-27T17:07:17.970085+00:00",
-    "last_seen": "2026-10-30T12:12:35.182676+00:00",
+    "last_seen": "2026-11-02T14:51:58.134612+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -1687,7 +1687,7 @@
     ],
     "published": "2026-10-22T07:00:00+00:00",
     "first_seen": "2026-10-27T17:07:23.349540+00:00",
-    "last_seen": "2026-10-28T12:12:05.926997+00:00",
+    "last_seen": "2026-11-02T14:51:59.933909+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -1777,7 +1777,7 @@
     ],
     "published": "2026-10-28T08:00:00+00:00",
     "first_seen": "2026-10-28T12:12:00.549368+00:00",
-    "last_seen": "2026-10-30T12:12:31.640991+00:00",
+    "last_seen": "2026-11-02T14:51:54.593529+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -1795,7 +1795,7 @@
     ],
     "published": "2026-10-28T08:57:31+00:00",
     "first_seen": "2026-10-28T12:12:00.549390+00:00",
-    "last_seen": "2026-10-30T12:12:31.641003+00:00",
+    "last_seen": "2026-11-02T14:51:54.593545+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -1832,7 +1832,7 @@
     ],
     "published": "2026-10-29T06:02:09+00:00",
     "first_seen": "2026-10-29T12:22:05.102694+00:00",
-    "last_seen": "2026-10-30T12:12:31.640881+00:00",
+    "last_seen": "2026-11-02T14:51:54.593420+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -1904,7 +1904,7 @@
     ],
     "published": "2026-10-28T12:52:32+00:00",
     "first_seen": "2026-10-29T12:22:08.767124+00:00",
-    "last_seen": "2026-10-30T12:12:31.640924+00:00",
+    "last_seen": "2026-11-02T14:51:58.134631+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -1922,7 +1922,7 @@
     ],
     "published": "2026-10-29T09:14:30+00:00",
     "first_seen": "2026-10-29T12:22:08.767196+00:00",
-    "last_seen": "2026-10-30T12:12:35.182689+00:00",
+    "last_seen": "2026-11-02T14:51:58.134634+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -1940,7 +1940,7 @@
     ],
     "published": "2026-10-27T10:54:09+00:00",
     "first_seen": "2026-10-30T12:12:26.230645+00:00",
-    "last_seen": "2026-10-30T12:12:26.230652+00:00",
+    "last_seen": "2026-11-02T14:51:49.148835+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -1958,7 +1958,7 @@
     ],
     "published": "2026-10-30T08:29:28+00:00",
     "first_seen": "2026-10-30T12:12:26.230726+00:00",
-    "last_seen": "2026-10-30T12:12:35.182666+00:00",
+    "last_seen": "2026-11-02T14:51:58.134604+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -1994,7 +1994,7 @@
     ],
     "published": "2026-10-30T11:26:36+00:00",
     "first_seen": "2026-10-30T12:12:28.039277+00:00",
-    "last_seen": "2026-10-30T12:12:28.039280+00:00",
+    "last_seen": "2026-11-02T14:51:58.134638+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -2013,6 +2013,313 @@
     "published": "2026-10-30T11:16:00+00:00",
     "first_seen": "2026-10-30T12:12:31.640970+00:00",
     "last_seen": "2026-10-30T12:12:31.640973+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "1a2fbe6df8551830": {
+    "id": "1a2fbe6df8551830",
+    "title_key": "0d6b397d769d0320",
+    "title": "Ministry of Finance and Federal Authority for Government Human Resources partner to launch the digital transformation project for federal resource planning systems",
+    "url": "https://mof.gov.ae/en/news/ministry-of-finance-and-federal-authority-for-government-human-resources-partner-to-launch-the-digital-transformation-project-for-federal-resource-planning-systems/",
+    "summary": "",
+    "source": "Ministry of Finance — News",
+    "authority": "official",
+    "categories": [
+      "Other"
+    ],
+    "published": null,
+    "first_seen": "2026-11-02T14:51:37.767767+00:00",
+    "last_seen": "2026-11-02T14:51:37.767790+00:00",
+    "domain": "mof.gov.ae",
+    "read": false,
+    "actioned": false
+  },
+  "007f5c92d0b8e953": {
+    "id": "007f5c92d0b8e953",
+    "title_key": "5d40a95bc53e356b",
+    "title": "Treasury Sukuk & Bonds Auction for October 2026 Attracts Bids Worth AED 4.54 Billion",
+    "url": "https://mof.gov.ae/en/news/treasury-sukuk-bonds-auction-for-october-2026-attracts-bids-worth-aed-4-54-billion/",
+    "summary": "",
+    "source": "Ministry of Finance — News",
+    "authority": "official",
+    "categories": [
+      "Other"
+    ],
+    "published": null,
+    "first_seen": "2026-11-02T14:51:37.767823+00:00",
+    "last_seen": "2026-11-02T14:51:37.767825+00:00",
+    "domain": "mof.gov.ae",
+    "read": false,
+    "actioned": false
+  },
+  "0c3b1717e04c169d": {
+    "id": "0c3b1717e04c169d",
+    "title_key": "b5de5f8d76505e13",
+    "title": "MoF Announces Updated Administrative Penalties Related to the UAE eInvoicing System to Enhance Clarity and Support Business Compliance",
+    "url": "https://mof.gov.ae/en/news/mof-announces-updated-administrative-penalties-related-to-the-uae-einvoicing-system-to-enhance-clarity-and-support-business-compliance/",
+    "summary": "",
+    "source": "Ministry of Finance — News",
+    "authority": "official",
+    "categories": [
+      "E-Invoicing"
+    ],
+    "published": null,
+    "first_seen": "2026-11-02T14:51:37.767853+00:00",
+    "last_seen": "2026-11-02T14:51:37.767854+00:00",
+    "domain": "mof.gov.ae",
+    "read": false,
+    "actioned": false
+  },
+  "dba47041913ab4f1": {
+    "id": "dba47041913ab4f1",
+    "title_key": "ef61564f6967ad8e",
+    "title": "TAXP010 and Corporate Tax Designated Zones: has the FTA narrowed the concept? - International Tax Review",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTWFNODdUbUotVzlfSXk3Mkw2eExHUnZid2ZkUHJsQ0RjOVdyRjFnS09md3duNk43UTNHQmt5aHpUN0ZYdVZvU0Rha2k0X3hoNWNmVm5CUkR5bzNLX01DeXJ6cWpsc0Q4YmNJVXVJNEJTckNvRTZOR3R5RnBuN0xzblhIMVVMN0dDbHFrcjhJYjhWeW43Q0lGOGZvbWdSXzNvQTdpeHRpQ3BjWnBsTVlBV3luaWhmZ25XejFrWE9NeHJpdVptTTA5Y0U2d3Y1ZEhYWGNjcGs4LXR6S3Fo?oc=5",
+    "summary": "TAXP010 and Corporate Tax Designated Zones: has the FTA narrowed the concept? International Tax Review",
+    "source": "News — UAE Corporate Tax",
+    "authority": "news",
+    "categories": [
+      "Corporate Tax",
+      "VAT"
+    ],
+    "published": "2026-10-30T13:14:38+00:00",
+    "first_seen": "2026-11-02T14:51:49.148791+00:00",
+    "last_seen": "2026-11-02T14:51:49.148796+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "dea1fb617092bb71": {
+    "id": "dea1fb617092bb71",
+    "title_key": "93e5bc9d4a267f0d",
+    "title": "Avyanco Crosses 11,500 Businesses Supported as Indian Demand for Dubai Company Formation Rises - USA Today",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLVNXdVhQTjVFRnZyaGFHWVQ4UGtGcW51NFRqQWMwaEVYRC1SM3AyWFZTelY0ak1RSEhILWRTX2hGanp3SV9tSVFfRC1GQ0VNOXJZTVhaWkItWmgxLTVWd2ZzQUpNWXhBLUV0alBpWVZxTU8xWnZkcGFRbktOcm9hVktrWTVBZktfMEZlRG10dWliWkJLM1hJaTAyb055dDY2NEJEbEFWdVBTRi1sdkhCX0JRYjBFZTBhMHRLb0pkMDZVUS1YYkZSYkJKeWlPeXJZcmQ2dklPNko3MlFsclE?oc=5",
+    "summary": "Avyanco Crosses 11,500 Businesses Supported as Indian Demand for Dubai Company Formation Rises USA Today",
+    "source": "News — UAE Corporate Tax",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-10-30T15:44:22+00:00",
+    "first_seen": "2026-11-02T14:51:49.148827+00:00",
+    "last_seen": "2026-11-02T14:51:49.148829+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "0ae016f5a447053f": {
+    "id": "0ae016f5a447053f",
+    "title_key": "74f1f93907a07519",
+    "title": "Acquisory expands its UAE presence with a new office in Abu Dhabi - Consultancy-me.com",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNTRTOGVVU0N2cENKWHdmaE1fOUgwYzFHWVEzRzY1Z2VvN1UxS011UmhDNWFHUm9EQUdTTkZwUHNvNnVDLWRpU2lFdkpDZUNhZXZLWnNsX01ZYTlrVTRMa1pSNjFnaWxUV3VKSGh0LS0wWUNyYUR1MzJURE43bkRUeHdQcmpNMjI0NlFudlQtU1VEVkIwamJWOWh1MUo5c09lM1ZKOTRVOVd5ek3SAbABQVVfeXFMUHF0WHJ1RWVLelRaOWt4Y09hSDRSTFRFbW1IazJ1VGpXaFd5T19JTkdIUXpkMUlBVkFlblRDQlFveUJ2bnRlRDFXTmVwNjA0QUhGYmZPUm1Ta0V3X0JvVzhra05nc0VSMW1GVmkzelhFUVN5NnQzQnIyMUMtQnlNbkpuS1RWSlRhQVFZc2FoZDZiVU12c0lMa1hlNklPUnI2MFY0NnNaSGcxNWVOX1BTWUg?oc=5",
+    "summary": "Acquisory expands its UAE presence with a new office in Abu Dhabi Consultancy-me.com",
+    "source": "News — UAE Corporate Tax",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-10-29T05:09:06+00:00",
+    "first_seen": "2026-11-02T14:51:49.148869+00:00",
+    "last_seen": "2026-11-02T14:51:49.148871+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "db0f814b07ac9b62": {
+    "id": "db0f814b07ac9b62",
+    "title_key": "46b491d09c1f0285",
+    "title": "UAE updates e-invoicing penalty rules ahead of rollout - Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeVR4VExvNDJpWHNEZ2gwS2VfakEtb2FnVkVHbzZhNmxLb09BWG8xbjc4SU13elF0dTRWSUFXYjBXbTdxZEd1ajQ3UTRXaWdrRmVvMVZsOXBxQTBoVVRUVWF0LWVLMWNvaFV2SEptcFd3dXFicjFfaDFsazNuZVlDb2E5bnpkM0JfeEQ4N0ZSTENUSUQ1MTFNNWxoXzIyQVV3c1BlbmRn0gG4AUFVX3lxTE5pcmVESWNvU2ZTSU14YWMxcktCMG55REdCX0xweHlMbm0zaVpwMktnQmt3RVdZN0RCQUFmSllkcHJibnRHdWVTM1lITTVOWnZCWkJmbWtHOHNsQWIxWmd4cEhaUHlIM3hkX3NBVlZRTU5GZmUwZnI2bkY1SkZyM1JaN2VkazV1MWFDY2h5M25XMFZvWXVub1BiMlh0OWdacnpVTGFpbXVNSjNaV0ZWT183bzNDMUY3WkU?oc=5",
+    "summary": "UAE updates e-invoicing penalty rules ahead of rollout Gulf News",
+    "source": "News — UAE Corporate Tax",
+    "authority": "news",
+    "categories": [
+      "E-Invoicing"
+    ],
+    "published": "2026-10-30T13:01:05+00:00",
+    "first_seen": "2026-11-02T14:51:49.148890+00:00",
+    "last_seen": "2026-11-02T14:51:54.593533+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "feab75691ceb92ea": {
+    "id": "feab75691ceb92ea",
+    "title_key": "09378884d6e69e2c",
+    "title": "UAE limits e-invoicing fines at Dh50,000, removes Dh1,000 daily penalty—how it works now - Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNajE3TG03bDdTcEQ1ejV4MERDZW5KbmhEUGpvUW9EWUVtTWJrMDM4VUo5V0hrTDREVk00Zjd1c2lFWTdxQTZzNDFUbE1uSTNkSVdwZl9Ua0hwODU1aW5LTms2eGtRTTgyUkxya295cExLMmxKdVJKQlYzcHdTS1dmbDZmazhNOEFrdlF2R1BHemxvVTFXNS14RThJUHlXZnpyUVQwVGdBdnk3eExUci1iTkVtZi12cnhuUkdJbTE0R184MUc1R3V6V2xQYWxPX1NO0gHjAUFVX3lxTFBxeENsbkRyZHRmbFVVenJRLUtWSUhOQXlvcExkMlhUcHJpckNoMWw5dGt0MVB4WHhVMGhfMkFzX0h4RUdvdXcxcUhXelhUc3NXTVVydWljZlBKRzc1UVMyVG9kdlhydFd0NzJwanRXcUc2bE1YMzM5aHNhdEJKNUYxVlk4dGRqX3V2RURlY0h0MVFrc2dxU0YyWnVud1pnTXJrRkh2UFJPZjZlR29nYW9SYjRmblRsZXNGUXV1OFZhYkQ2VEVnaTNDRlFRbVB6SEVySkVQZHNhY08xNUduRllmREFN?oc=5",
+    "summary": "UAE limits e-invoicing fines at Dh50,000, removes Dh1,000 daily penalty—how it works now Gulf News",
+    "source": "News — UAE Corporate Tax",
+    "authority": "news",
+    "categories": [
+      "E-Invoicing"
+    ],
+    "published": "2026-10-31T02:06:00+00:00",
+    "first_seen": "2026-11-02T14:51:49.148915+00:00",
+    "last_seen": "2026-11-02T14:51:58.134641+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "6b4b83a3749b36b4": {
+    "id": "6b4b83a3749b36b4",
+    "title_key": "15adf181acbdabf8",
+    "title": "UAE revises eInvoicing fines after business feedback - Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX05Rd1BrSEtubUlEX3NRS3hUUHJvbGR4VFd0eEt4dFhiN1ZBOFJ6aG1DNGdWdExnTHBrWm5yMFpXYlZoT3E4VkI1b1lvcXdHY2g1RlVYa0VkRlhhSGpjajFXSHR2ZFlxZXN6TjBuQUVCenJZeEJNVGFMeGljZkpvdFFBa25oOTAtWEtuY3hhc0hPb2hxSTN3aksxbUVHcXJZUHVtZWJZOXVxR2NFQkE5dVlxV2JBU2fSAbcBQVVfeXFMTV9OUXdQa0hLbm1JRF9zUUt4VFByb2xkeFRXdHhLeHRYYjdWQThSemhtQzRnVnRMZ0xwa1pucjBaV2JWaE9xOFZCNW9Zb3F3R2NoNUZVWGtFZEZYYUhqY2oxV0h0dmRZcWVzek4wbkFFQnpyWXhCTVRhTHhpY2ZKb3RRQWtuaDkwLVhLbmN4YXNIT29ocUkzd2pLMW1FR3FyWVB1bWViWTl1cUdjRUJBOXVZcVdiQVNn?oc=5",
+    "summary": "UAE revises eInvoicing fines after business feedback Gulf News",
+    "source": "News — UAE Corporate Tax",
+    "authority": "news",
+    "categories": [
+      "E-Invoicing"
+    ],
+    "published": "2026-10-30T13:01:05+00:00",
+    "first_seen": "2026-11-02T14:51:49.148934+00:00",
+    "last_seen": "2026-11-02T14:51:54.593542+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "55aa49966f6db0f9": {
+    "id": "55aa49966f6db0f9",
+    "title_key": "9c7630cbdbece3fc",
+    "title": "Mawarid Finance launches UAE’s New Travel Platform in Collaboration with Flocash - intlbm",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkF1ajhvTlA2VW9zOWVxOUxwTGJTdmdPVlBsWlhLZWJqUlNPaWVpU2o5Vkt4MXJsczhOMVN3VFNIQUdLOUhTZW5qblJwQm15LVljRXEyd0hjTEdrNE1fZTFNZjJmZ1RDOXZEYUZ6QzVCb0VyNGs4aEFyU0FIc2dYOVNEaHFfdUFDcHdzRDhqOWNuUHg0ejF1OTFOMGNjcUJReUlVUjlqRG9HMi1zVDJr?oc=5",
+    "summary": "Mawarid Finance launches UAE’s New Travel Platform in Collaboration with Flocash intlbm",
+    "source": "News — UAE VAT",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-11-02T07:16:15+00:00",
+    "first_seen": "2026-11-02T14:51:50.941337+00:00",
+    "last_seen": "2026-11-02T14:51:58.134644+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "00aba9994db90160": {
+    "id": "00aba9994db90160",
+    "title_key": "8d996564a23c2200",
+    "title": "Reviewing The Development Of The VAT Refund Service For UAE Nationals Building New Residences As A Model For The Zero Bureaucracy Programme - Menafn",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQjlXUGRVUjF3emFyMjcwSDQyMXRGdmYtdEJaX3hfcHd4QTR3ME9tenJ1cTFZWjhoZHVnbjl6ekVWNU16ek5MelI4SW40RXdQYUkyVV82T2pWTGxubjlsc2pJaFdXNWt3bTNXU2lkRFJyaFQ0dVRDdmFCQW9EVERZTVJKV2R5U3pHT1A5aFBjZU5EWmlsSW1FZ0Y3WHlBRjVEcXM2Z0RMMTFzOFJDYm9kekJfcjd3WlowaWJEbjN3QzlXQmFENjZFcHR3cGdXQl9CT2owN3dfcWRHTUFzSlZja0k4LUJGdnc2enhmX3AxR2tLS0dZYmw2REhKUWNTUQ?oc=5",
+    "summary": "Reviewing The Development Of The VAT Refund Service For UAE Nationals Building New Residences As A Model For The Zero Bureaucracy Programme Menafn",
+    "source": "News — UAE VAT",
+    "authority": "news",
+    "categories": [
+      "VAT"
+    ],
+    "published": "2026-10-30T10:46:09+00:00",
+    "first_seen": "2026-11-02T14:51:50.941366+00:00",
+    "last_seen": "2026-11-02T14:51:50.941367+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "867231168950e9fd": {
+    "id": "867231168950e9fd",
+    "title_key": "867c75633974c046",
+    "title": "UAE updates e-invoicing penalties for businesses - The National",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaGxvSTNHRjN4Q1U1bkFsWnlTX2x3aWxYeDBPVUhyZ0xiSWJxZ2laaFQtU3ZQUTdSWUxBVDBFMFVLSVNQSGg4cHpPV1cwQnVNLUVFVXd5bDI1dk1YLWRwV1JGdlpLSnFQNzZ4dWF2Z0QweGUwWGR5N3MzcnNQTk1GSnBHdExDdnVwdlNYTzhYUERpRzlzdFA0R1hfMGZQWkM0ZVQ4?oc=5",
+    "summary": "UAE updates e-invoicing penalties for businesses The National",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "E-Invoicing"
+    ],
+    "published": "2026-11-01T08:09:40+00:00",
+    "first_seen": "2026-11-02T14:51:54.593458+00:00",
+    "last_seen": "2026-11-02T14:51:54.593459+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "16cb55610ab0d1d9": {
+    "id": "16cb55610ab0d1d9",
+    "title_key": "b9d40e324ed2d5ec",
+    "title": "UAE revises e-invoicing fines: What businesses need to know about the new Dhs50,000 cap - Gulf Business",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdTY2T2hUQVJCQTJTQ2hhcEFHbWFNT3EzOWxvWHlpcGw2MG9WYzBVd19nWEs1MUNZdkNmUG9sWXR3OFl0T05zUHlSS0lkUFR0ckpFYjA5NWFNZHlieVYwTU5DbkU3TS0yZWwtcUNfbmdxcjVDMV9EVmhkd3Znc1N0WFQybzd6WVpfT0tRcmZha2JVVFBka1BOaXU4d2VmcVZtV0l5TmdCYXhMaTJ6amROd3FSUWdZWkRtTUlCTWhaZDhLMFphZ2c?oc=5",
+    "summary": "UAE revises e-invoicing fines: What businesses need to know about the new Dhs50,000 cap Gulf Business",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "E-Invoicing"
+    ],
+    "published": "2026-10-30T14:05:06+00:00",
+    "first_seen": "2026-11-02T14:51:54.593496+00:00",
+    "last_seen": "2026-11-02T14:51:54.593497+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "01ac0208ed0bd5bc": {
+    "id": "01ac0208ed0bd5bc",
+    "title_key": "aa9e5da5fa762c08",
+    "title": "UAE e-invoicing update: Ministry reduces and refines fines for businesses ahead of mandatory rollout - Arabian Business",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdUp4ekhlUWN6WktuanNocThCa1FZaFZmRE5rbTNkdXVWT1FMaVE2eFVoenVCbGFReWlFVGZ4MVJLRE9ZVWlYQ1R0ZHMzaWJZdGx6OExDQ29JWWI0MTBLSmRyWlcwZ0pyQy1PZnBNNUEzdU0zYXc5S3o3Um43aGhVTlBmWF9IVGw3MENoSWFiOEY5UWlXWUsyT0JhelFHdllVaE1aN2JrMG5vbDRYeUJlQjlOT2NES0g4OFB5THQzN2Zqa1dmbUlralhGbzZXajJNTkJibjN3?oc=5",
+    "summary": "UAE e-invoicing update: Ministry reduces and refines fines for businesses ahead of mandatory rollout Arabian Business",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "E-Invoicing"
+    ],
+    "published": "2026-10-30T13:10:38+00:00",
+    "first_seen": "2026-11-02T14:51:54.593523+00:00",
+    "last_seen": "2026-11-02T14:51:54.593524+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "ebf96d22f5edf930": {
+    "id": "ebf96d22f5edf930",
+    "title_key": "1d086a64310485f0",
+    "title": "UAE scraps daily system-failure fine and caps e-invoicing delay penalties at AED 50,000 - The Global Filipino Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSDRMRVNPRHloUzFrMVNvbXRFdHFRVUxFbk5XQ0hqaURhM1pTUzlEc0M0X2lmcE1IZzJwTXlXdktfSy02UVRYOTRzX19kQzRnUGwzbzdXVUhfa0lORlQyU202Y1EwYjJ4enZHYkpBdkw5YzJWZTBhSi1Zb0wzMXFxRTdnNmMwbTRxUkk4TzBDNlE2TGgtcHVjdEl2d1IwZFJNOHBEYmRVdkJkdWRpQVM0MlJRU3BISTlTeFU5U3lUTGlEenM?oc=5",
+    "summary": "UAE scraps daily system-failure fine and caps e-invoicing delay penalties at AED 50,000 The Global Filipino Magazine",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "E-Invoicing"
+    ],
+    "published": "2026-10-31T06:24:10+00:00",
+    "first_seen": "2026-11-02T14:51:54.593565+00:00",
+    "last_seen": "2026-11-02T14:51:54.593566+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "06888e4d1729ffa2": {
+    "id": "06888e4d1729ffa2",
+    "title_key": "0daaea01cc939293",
+    "title": "This week: IFRS 18: the 2026 comparative needs work now, and 2 more articles - Buttondown",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd1UtQWk0U3ZLbkFOOXhDaXVfWnhKRFBqZ1JOZDBORXU2Rko3VlBSUXJwZFp3aUV4bW1KZHdtVjgwS1JIT1E1OGhYYTJDZlZXWFZEZ1RoVDRjOXZVeGhsZmtjSWhKTzY4eWZCakc3NUZvaldWcG9aN0t6cXdNcnNKLWdkTnhUTnR2dDJKWmJCbGZ3bm4tVGNEc1RGTQ?oc=5",
+    "summary": "This week: IFRS 18: the 2026 comparative needs work now, and 2 more articles Buttondown",
+    "source": "News — IFRS Standards",
+    "authority": "news",
+    "categories": [
+      "IFRS / Reporting"
+    ],
+    "published": "2026-10-29T07:00:00+00:00",
+    "first_seen": "2026-11-02T14:51:56.347331+00:00",
+    "last_seen": "2026-11-02T14:51:56.347336+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "e00d5479c96dc558": {
+    "id": "e00d5479c96dc558",
+    "title_key": "fc3748881266a887",
+    "title": "Insurance firms required to implement IFRS 18 from January 2027 - Times Kuwait",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdDM1bHdibkJIY3lBQVNaM1JBUG9MU3c5bzBZYUFDRktEZlZ0elRsbm1TcVk3VUdGZUZFMmNlMW1RSDBPNjd2ckZLSUpjU3hzWlFEUTRQZDRybTFqenVmUzlGSWJxTnZubndtTkhObjFNNFMzTXFtUXBHZGFsNDJfVHVsNkhFYWllZGE3YW1HU0l4Zw?oc=5",
+    "summary": "Insurance firms required to implement IFRS 18 from January 2027 Times Kuwait",
+    "source": "News — IFRS Standards",
+    "authority": "news",
+    "categories": [
+      "IFRS / Reporting"
+    ],
+    "published": "2026-11-02T10:40:38+00:00",
+    "first_seen": "2026-11-02T14:51:56.347359+00:00",
+    "last_seen": "2026-11-02T14:51:56.347361+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
