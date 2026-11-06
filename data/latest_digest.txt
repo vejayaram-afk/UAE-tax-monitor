@@ -1,32 +1,49 @@
-UAE TAX & REPORTING UPDATES — 05 November 2026
+UAE TAX & REPORTING UPDATES — 06 November 2026
 ==============================================================
 
-5 new item(s) found.
+6 new item(s) found.
+
+CORPORATE TAX
+-------------
+  Pillar Two Country Tracker - PwC
+     https://news.google.com/rss/articles/CBMihwFBVV95cUxPc1QtazVnNmR5UVdDNVpKUVJPVUNhZ3hJNzVoREk4YXVpMkF2NUFXaXpaaGJ2SHdEdXdsUFFvS3JhQVNRRXVqdmpqdjZYbm43aEpEd3hDajRPWDJWLXY1X2hKWFdCX21ROTgyY1QwdHVNdlV0WVZ6Mmw3RzEtdDFzVVcxUmp0R28?oc=5
+     Source: News — Big 4 UAE Tax Commentary
+
+
+VAT
+---
+  e-invoicing global tracker - vatcalc.com
+     https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTGV2aXVhazFRcllNWDJfbHdhUS15SUN1WE5FN0tXZTlPakVtcFkzY01PdEplUlQ4WEppaHRGSWlmcjJ0OTJaTnI4ejVBcUNMckV3ZzdiQWRLMjU3bE8xb1lPZUdKd2xJaWhleGlOZ21HajVsRmNobUQ5WUNzMTlGV0djUUFpSzRaZFNN?oc=5
+     Source: News — UAE E-Invoicing
+
 
 E-INVOICING
 -----------
-  How E-invoicing Can Help Multinationals Get Their House in Order - Bloomberg Tax
-     https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGFpWEhfTW9sc1lXS21uX054bFdoejFkQ3lpbHZZLVl3ajQtd1dYUXQ0MVg0TFNXcGVVYmZfYXUwVFVZV1V3dGExNWkzWFBzVTcyOHdSbms2TFV6WVdFYVBLWjhyamZBemtiT2h4Z0g4TXVxS3Q2NWltUFh5NlNhVFh4S1RCeXJiMWhXMGlYRFd6UGducU9QV0RMNlJXWl8wNzZHa0F6a29FSDdkcEh3SQ?oc=5
+  e-invoicing global tracker - vatcalc.com
+     https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTGV2aXVhazFRcllNWDJfbHdhUS15SUN1WE5FN0tXZTlPakVtcFkzY01PdEplUlQ4WEppaHRGSWlmcjJ0OTJaTnI4ejVBcUNMckV3ZzdiQWRLMjU3bE8xb1lPZUdKd2xJaWhleGlOZ21HajVsRmNobUQ5WUNzMTlGV0djUUFpSzRaZFNN?oc=5
      Source: News — UAE E-Invoicing
+
+
+IFRS / REPORTING
+----------------
+  Samsung Electronics VP joins 'global accounting standard-setting'... Korean companies' voices set to grow louder [fn Market Watch] - 파이낸셜뉴스
+     https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kcVJDSll5X3czUGxwcDJqVUZGZU8wdXlfRnhyOE5iQVpRX010MEFwcVNnOXdTZ201SktoSDFBcnBoRmxTRHNFakN2WHBUZmNtc0tHOHFTLUQ?oc=5
+     Source: News — IFRS Standards
 
 
 OTHER
 -----
-  [OFFICIAL] Ministry of Finance and IMF mission discuss UAE fiscal developments and outlook
-     https://mof.gov.ae/en/news/ministry-of-finance-and-imf-mission-discuss-uae-fiscal-developments-and-outlook/
+  [OFFICIAL] Mohamed bin Hadi Al Hussaini: Ministry of Finance’s success in securing the Leading Federal Entity in Sustaining Excellence reaffirms leadership of the federal financial system
+     https://mof.gov.ae/en/news/mohamed-bin-hadi-al-hussaini-ministry-of-finances-success-in-securing-the-leading-federal-entity-in-sustaining-excellence-reaffirms-leadership-of-the-federal-financial-system/
      Source: Ministry of Finance — News
 
-  Ministry of Finance, IMF mission discuss UAE fiscal developments and outlook - Big News Network.com
-     https://news.google.com/rss/articles/CBMivgFBVV95cUxNQkhzMlluSlBwZXAxSl92OW9OZ2xBUDhZQmF6cDYzcGxvd3cxS1Y1WGwydExUdDNzYTFaOS1sODA5ZDUxX1g5Wk50Z1lqMzZIQ3ZzcTVKcGVjMEc1b3BJeDZ2bHFWQlRoZmhLSEtkbUEwQndpSlVLTEtfd1ROd1AxNHVoUUlFWmFWdC1rSTd2NmoycWxGcVk0NU80U0h3TTlqczdkUURrTUQydmVyWExOMUtLY25yMGEtRUdyX3Jn?oc=5
+  Ministry of Finance, IMF mission discuss UAE fiscal developments and outlook - www.wam.ae
+     https://news.google.com/rss/articles/CBMijgFBVV95cUxOcVdPUTRSamQ3S0JMWkF5WDdMb1M1aGt3dmYzMGFTM20yUkVGbS1XbTY5d0lPUTBoQmVmcHVJMnlCTU5uVUpXZ2xMZHJoUkhlTDlkRmdWeXgtOUd1NGN6bWlDSFB1T2x2QnNGb3ZscDFRcnVuWm5SNTdxRDQzQ0lEVUU5dkNaLXYwUG1vNHdn?oc=5
      Source: News — UAE Corporate Tax
 
-  FTI Consulting grows Tax practice in UAE with senior hire Sandeep Kumar - Consultancy-me.com
-     https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUUo4cFRJdjRjSF9VbWRLYnZtdzZ6NUxyWWpoaVlkWFA2MnJiZTBuc2E2SmE5T2dFVllJLVpuS2c3MFNYdXBBNVdKMHB2VmtibWtzTFBtbEdKQ1dMalNIeS1NWFdxMy1qYU5TRXlJWkdhQW5qaXpGd0IzeUVwSEU5cmt2SkZlRVY2aW5uZ3V0dTZJNFVYeEhJV1MxdDZZZ1VXMkJIS0ZEN0NId3hQU2F5cDlvYTJJNExR0gG4AUFVX3lxTE1RSjhwVEl2NGNIX1VtZEtidm13Nno1THJZamhpWWRYUDYycmJlMG5zYTZKYTlPZ0VWWUktWm5LZzcwU1h1cEE1V0owcHZWa2Jta3NMUG1sR0pDV0xqU0h5LU1YV3EzLWphTlNFeUlaR2FBbmppekZ3QjN5RXBIRTlya3ZKRmVFVjZpbm5ndXR1Nkk0VVh4SElXUzF0NllnVVcyQkhLRkQ3Q0h3eFBTYXlwOW9hMkk0TFE?oc=5
-     Source: News — Big 4 UAE Tax Commentary
-
-  Oman amends the Top-Up Tax Law - kpmg.com
-     https://news.google.com/rss/articles/CBMigAFBVV95cUxQNU5WYTBqUWVJS1luVk1iemNOMVp0Vm1hYTFnVHNYSEpfOF9aX3YyX2hCTkpQMjRyU3VjdUJSYWdTbHMxd25IdUtYS18zVW9NM2plTmFlcUJoTXpHM3lRb0JCZ1oyUGZNbGFaVHBKUWJnYVVZRWoycU9xUmJWbDNTSg?oc=5
-     Source: News — Big 4 UAE Tax Commentary
+  Capital Gains Tax Relief for Foreign Investors? What SEBI Has Proposed Before the Budget - NiftyTrader
+     https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZdWZGNEdfOUdsZUNYSzFXanJ2TGlqTmM5Q0h2a0pWbGh0WDZVLTA3NEpmLXQxc1JMblJNcVRuNzFvR0FHRmJsVjM0VHA1YkF3cjV1QXkyRmxlQUFCY3Y4TGszU0NvSXJNX0lUZQ?oc=5
+     Source: News — FTA Announcements
 
 
 --------------------------------------------------------------
