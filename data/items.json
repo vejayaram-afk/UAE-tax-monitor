@@ -445,7 +445,7 @@
     ],
     "published": "2026-08-04T23:00:29+00:00",
     "first_seen": "2026-08-09T05:21:18.565489+00:00",
-    "last_seen": "2026-08-11T09:35:12.216828+00:00",
+    "last_seen": "2026-11-09T15:18:35.294510+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -2464,7 +2464,7 @@
     ],
     "published": "2026-11-04T02:24:44+00:00",
     "first_seen": "2026-11-04T13:50:26.247885+00:00",
-    "last_seen": "2026-11-06T13:48:29.946214+00:00",
+    "last_seen": "2026-11-09T15:18:40.655073+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -2482,7 +2482,7 @@
     ],
     "published": "2026-11-04T06:13:16+00:00",
     "first_seen": "2026-11-04T13:50:26.247942+00:00",
-    "last_seen": "2026-11-06T13:48:19.151283+00:00",
+    "last_seen": "2026-11-09T15:18:29.763890+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -2500,7 +2500,7 @@
     ],
     "published": "2026-11-04T00:52:04+00:00",
     "first_seen": "2026-11-04T13:50:26.247980+00:00",
-    "last_seen": "2026-11-06T13:48:28.163717+00:00",
+    "last_seen": "2026-11-09T15:18:38.856397+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -2518,7 +2518,7 @@
     ],
     "published": "2026-11-04T11:22:12+00:00",
     "first_seen": "2026-11-04T13:50:31.828417+00:00",
-    "last_seen": "2026-11-06T13:48:24.512913+00:00",
+    "last_seen": "2026-11-09T15:18:35.294534+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -2536,7 +2536,7 @@
     ],
     "published": "2026-11-04T05:58:32+00:00",
     "first_seen": "2026-11-04T13:50:31.828473+00:00",
-    "last_seen": "2026-11-06T13:48:28.163657+00:00",
+    "last_seen": "2026-11-09T15:18:38.856377+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -2554,7 +2554,7 @@
     ],
     "published": "2026-11-04T02:16:56+00:00",
     "first_seen": "2026-11-04T13:50:33.614211+00:00",
-    "last_seen": "2026-11-06T13:48:26.297133+00:00",
+    "last_seen": "2026-11-09T15:18:37.060803+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -2662,7 +2662,7 @@
     ],
     "published": null,
     "first_seen": "2026-11-06T13:48:07.171247+00:00",
-    "last_seen": "2026-11-06T13:48:07.171267+00:00",
+    "last_seen": "2026-11-09T15:18:17.358395+00:00",
     "domain": "mof.gov.ae",
     "read": false,
     "actioned": false
@@ -2680,7 +2680,7 @@
     ],
     "published": "2026-11-04T16:24:41+00:00",
     "first_seen": "2026-11-06T13:48:19.151325+00:00",
-    "last_seen": "2026-11-06T13:48:19.151328+00:00",
+    "last_seen": "2026-11-09T15:18:29.763894+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -2717,7 +2717,7 @@
     ],
     "published": "2026-11-06T01:57:39+00:00",
     "first_seen": "2026-11-06T13:48:26.297192+00:00",
-    "last_seen": "2026-11-06T13:48:26.297195+00:00",
+    "last_seen": "2026-11-09T15:18:37.060871+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -2753,7 +2753,241 @@
     ],
     "published": "2026-11-03T08:00:00+00:00",
     "first_seen": "2026-11-06T13:48:29.946194+00:00",
-    "last_seen": "2026-11-06T13:48:29.946200+00:00",
+    "last_seen": "2026-11-09T15:18:40.655064+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "e86140845849fcd8": {
+    "id": "e86140845849fcd8",
+    "title_key": "a932d6dd743bb72b",
+    "title": "Ministry of Finance wins ‘Leading Federal Entity in Sustaining Excellence’ at Mohammed bin Rashid Government Excellence Award",
+    "url": "https://mof.gov.ae/en/news/ministry-of-finance-wins-leading-federal-entity-in-sustaining-excellence-at-mohammed-bin-rashid-government-excellence-award/",
+    "summary": "",
+    "source": "Ministry of Finance — News",
+    "authority": "official",
+    "categories": [
+      "Other"
+    ],
+    "published": null,
+    "first_seen": "2026-11-09T15:18:17.358593+00:00",
+    "last_seen": "2026-11-09T15:18:17.358595+00:00",
+    "domain": "mof.gov.ae",
+    "read": false,
+    "actioned": false
+  },
+  "9f1a9b73c12b5273": {
+    "id": "9f1a9b73c12b5273",
+    "title_key": "f19dacf72df50c79",
+    "title": "MoF Organises PPP Workshop in Collaboration with World Bank Group",
+    "url": "https://mof.gov.ae/en/news/mof-organises-ppp-workshop-in-collaboration-with-world-bank-group/",
+    "summary": "",
+    "source": "Ministry of Finance — News",
+    "authority": "official",
+    "categories": [
+      "Other"
+    ],
+    "published": null,
+    "first_seen": "2026-11-09T15:18:17.358622+00:00",
+    "last_seen": "2026-11-09T15:18:17.358623+00:00",
+    "domain": "mof.gov.ae",
+    "read": false,
+    "actioned": false
+  },
+  "d538f1eb6381abef": {
+    "id": "d538f1eb6381abef",
+    "title_key": "7573da0bfbb2307d",
+    "title": "UAE VAT rules: Six employee expenses businesses can now claim tax back on - Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMWREU2dfRm1LbmZocXFaSU9LVDZqay10VUdPTE01R0JUdDRNVEp2a0p6dWQ1QmhsOXc5dGhjQjVBbFFfMF92MWNqaGRLOTIyM0NrZmJ1S3B2MTlTVWxUTDI3V3dJeHptOWlzMWxoRE4wY3B2LXhnM1RBMFM1QmJBZGpUZURuMFJEQVZsQ2NHS3hfaVdfaXdSRk9mWlBvMGU1SFl1WFJLemV5Q01pT28walhOdmZuWTdyeHJTZlRSSDDSAdMBQVVfeXFMTmNTYTdISnl0N3dIX2Qxc2FkYU5qV1A2ZlJoVWdIek41aUo0Q1N5NmtFVUZHTC1tdndrN056N2JsdzY5d1VYLTNjTmFJSC1nZUUxcWZxeWJNc3o5OTRIcEtUcmJYakowdTJJc2VKVjFjMjFDLVZ4NjdqWm9ORm1QWE5hZjU3WlgzR2tiMVNqclI0amRZcjBfR0Nncmg2Ukp1cTIwNHZGcEdmQTlodWZBd0todnU4TEp2TWFJYjRqT2xZTjNIYWo1S1JkVHQyUmNpUjRabw?oc=5",
+    "summary": "UAE VAT rules: Six employee expenses businesses can now claim tax back on Gulf News",
+    "source": "News — UAE Corporate Tax",
+    "authority": "news",
+    "categories": [
+      "VAT"
+    ],
+    "published": "2026-11-08T09:40:28+00:00",
+    "first_seen": "2026-11-09T15:18:29.763927+00:00",
+    "last_seen": "2026-11-09T15:18:31.657317+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "9909ab59e3edbd10": {
+    "id": "9909ab59e3edbd10",
+    "title_key": "d05aa392741b5eb8",
+    "title": "UAE companies can recover VAT on six employee expense categories under new FTA rules - Emirates 24|7",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX1NFM25MOExXbG5MUEZwR3BacTNvVXgzS1ZtNl9iOF9EMUhWdEkwRm1Rand6U1daY2JPYWl6RTZVS0diUEpleGVKS19pdDlGa291NURMSmhKb3FJY0ZJcUdjajlDVXhZX2J4MW14cE5iREhva1pKcG5IMnJVVVVGS3RvZFFzUmxMeTVZa3pFMjB4LS10aEctbVV3ZWxTZzk3Y25jUW9taFFtSzN4YkpyQnpkTnJZV001SlBLMUQzVUJHZHlm0gHfAUFVX3lxTE1LcjNZdUdGdG5HR2NwdUdHb0NRMEM4YlR6ZTBxUVk3U01tSEVDRkx3T0RmNTY5WVdPZm1fbUg1WXJkUVQyOGVFWG5Sb0FMTGtOeVItMlpYa1Bzck9WZEpLR1pSaHFKbFR3MThERkNReGJLLWNzUnpicF9MY1FDczFwQVhZa2tUam1UZE5NWmZQcHlSSlFCWjAzQzI5NnNyWXlnVmEwRThGcEYtdTh5OW5pUkJDa2pueEtLb0VmVGpiWE9KZVNSYm9xblRTaktBSmpjbFhoblpuRVlCY1VkcUU?oc=5",
+    "summary": "UAE companies can recover VAT on six employee expense categories under new FTA rules Emirates 24|7",
+    "source": "News — UAE VAT",
+    "authority": "news",
+    "categories": [
+      "VAT"
+    ],
+    "published": "2026-11-08T05:50:00+00:00",
+    "first_seen": "2026-11-09T15:18:31.657357+00:00",
+    "last_seen": "2026-11-09T15:18:38.856394+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "f7d5d1fb93bdb846": {
+    "id": "f7d5d1fb93bdb846",
+    "title_key": "adf24d890930d190",
+    "title": "How to Ship Jewelry Safely in 2026: Packaging, Insurance & Carriers - ClickPost",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yTFRrbWhIclptWEhQcUx1YlJTQzNSRXFyc01BTmVGMW1Ma0o5LTBXVVYtNUtfWEIwdmM4TEUzdnVFT1ZQUW9BZnNLakJ0eXBxOG9tRmJoNFQxV1VEdnRYNmdR?oc=5",
+    "summary": "How to Ship Jewelry Safely in 2026: Packaging, Insurance & Carriers ClickPost",
+    "source": "News — UAE VAT",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-11-04T08:00:00+00:00",
+    "first_seen": "2026-11-09T15:18:31.657381+00:00",
+    "last_seen": "2026-11-09T15:18:31.657382+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "b75c7aa184675371": {
+    "id": "b75c7aa184675371",
+    "title_key": "073afad1d4533702",
+    "title": "E-invoicing providers' deadline passes and systems test begins - EnterpriseAM",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNEFVTjFlLXZGT2lCaEpBc1lES3puVEVnVlNQSVZXeHlQYjRVaUg4Y1pETXRPZFNwcDBWNkVRdnJiajJuamhma0ZvcGlIVFdENDZ5OXphclQ1YTF5V0RNUHdjYWhwSXFLOVU0b0FLZVJBaUxPTkptOHFGQ25oOVppNDFTcUVNUWRVUnpBblhPdzhWNFlSeTNUQ1JjYWFFMWM?oc=5",
+    "summary": "E-invoicing providers' deadline passes and systems test begins EnterpriseAM",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "E-Invoicing"
+    ],
+    "published": "2026-11-05T03:11:34+00:00",
+    "first_seen": "2026-11-09T15:18:35.294562+00:00",
+    "last_seen": "2026-11-09T15:18:35.294564+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "a43cf6579709b329": {
+    "id": "a43cf6579709b329",
+    "title_key": "cf833fa568efae88",
+    "title": "UAE becomes first country outside Europe to implement eATA Carnet system - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRG5DM2Y0YUV5alB3Z0QwRnpfbndYQzVjQjVSRzM5azZEb1Njd0hxNl9hUmlzeVlrd1g5MU1lbXVYVktXZjhyd09DQU5YRDB4MFdUUWJHQTlKR1lyb2hiQ3JpWDVTNTFpaklFc2pWb0E1RWx2M0lCeS1JSHlnVUR4d2ZHVWpBUkRESXotU0VXNm50QmxCdmdnMkVxUUNMVkU?oc=5",
+    "summary": "UAE becomes first country outside Europe to implement eATA Carnet system Yahoo Finance",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-11-09T08:32:00+00:00",
+    "first_seen": "2026-11-09T15:18:35.294588+00:00",
+    "last_seen": "2026-11-09T15:18:35.294589+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "a25e017ff993a893": {
+    "id": "a25e017ff993a893",
+    "title_key": "4db8cf3e38a261f0",
+    "title": "French MPs Vote for SME E-Invoicing Exemption - sharedserviceslink",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc05vWWFBWkJiSkN4V0VHa09QSFpnMnp4RVd4RlhzaDdnQmJBTnhNMm9YMGUzSi1HUUd6ZVpWMlNvTlo0Z0VaeWZZcnlhcVllRm5Qa1JuTnBJbHN3akUwRGlqeTRjVTlCczdhVVlKX29LaFRCODVFem1sZlkwU05xU01RMmVrRHFXMEhR?oc=5",
+    "summary": "French MPs Vote for SME E-Invoicing Exemption sharedserviceslink",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "E-Invoicing"
+    ],
+    "published": "2026-11-05T16:06:01+00:00",
+    "first_seen": "2026-11-09T15:18:35.294608+00:00",
+    "last_seen": "2026-11-09T15:18:35.294609+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "011be706b8562619": {
+    "id": "011be706b8562619",
+    "title_key": "591b3a3dfdf22890",
+    "title": "UAE trade sets a nine-month record even as growth slows, and the GCC lays the legal tracks for its railway - EnterpriseAM",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQS3NlbU1xZEZQR3JULTVKa0Z1TlhtVHRvOEJpbGc5NXNqaWItcVN3N0s1MklfWkNVQ1YycXRWUlRfQjNJUkhLQURXM3ViUWEyRnJ6QVpmTjlZVFlhUkZfaGNOT3FzZGV0c2MtZWhmLVdMbHVTUW1BcUEzNi14QUhUcGhvcExta1U2bl82czBmWVo5WDkxa1I3eDNSQXNLRzVkay02T3FZa1lfTXpzX3hGbmFqdkpLcmlLZ0VnMElzV2I0N1hobmZsc3hHUnpPRGZ5ZldEVkc0OVhhQQ?oc=5",
+    "summary": "UAE trade sets a nine-month record even as growth slows, and the GCC lays the legal tracks for its railway EnterpriseAM",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-11-09T02:54:53+00:00",
+    "first_seen": "2026-11-09T15:18:35.294628+00:00",
+    "last_seen": "2026-11-09T15:18:35.294629+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "ae1e9785075e86a1": {
+    "id": "ae1e9785075e86a1",
+    "title_key": "81f81afb67947bc1",
+    "title": "Abu Dhabi home prices rise as Dubai’s fall - EnterpriseAM",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVTN2dWhxVzVud25LRjVUQWVQSWM4b0M5OEdpTllQZVdQa0hZZ0JYUl84d3pVN2dROVBkM2ZpQ2tzY0pfcHI1bVZIclhGUG1kazY5OFdvVlg2aTVRQUczWTFqOGFiMXptczRwZnhtNXNLUVRYREF1S3d6d1diTktPNWRHQ2E?oc=5",
+    "summary": "Abu Dhabi home prices rise as Dubai’s fall EnterpriseAM",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-11-06T02:57:17+00:00",
+    "first_seen": "2026-11-09T15:18:35.294648+00:00",
+    "last_seen": "2026-11-09T15:18:35.294649+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "9b3a32040c995ee4": {
+    "id": "9b3a32040c995ee4",
+    "title_key": "cff698c2a5717554",
+    "title": "Canadian Securities Administrators finalize amendments to National Instrument 52-112 to address IFRS 18 - Dentons",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYVc1VnZyUlN6bXZmYWZOZ1VNaDFBRVFudkp1ZDR2NGpuSHllUjZwYmdHRW81OXhVWmNuaW9oakhsM0xOSTF1cjdZZ1RKQ2I4RXRXSE5IYjNEVkttRnZyVUo5OUxiSjBKZV9TTkVuVTZlb3FLUzFkYlFrdkdmWTdoVW5SeTR0SEd1Zk5pb2hha3NDcGJtd0d5NWd2V1NRUWpob0RnTG56RFZNNFFILWFBNGJlTQ?oc=5",
+    "summary": "Canadian Securities Administrators finalize amendments to National Instrument 52-112 to address IFRS 18 Dentons",
+    "source": "News — IFRS Standards",
+    "authority": "news",
+    "categories": [
+      "IFRS / Reporting"
+    ],
+    "published": "2026-11-06T15:16:50+00:00",
+    "first_seen": "2026-11-09T15:18:37.060843+00:00",
+    "last_seen": "2026-11-09T15:18:37.060845+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "a50b80c6fdab2193": {
+    "id": "a50b80c6fdab2193",
+    "title_key": "8e5fcd6bb28f5085",
+    "title": "Samsung Executive Joins IASB Advisory Forum Ahead of IFRS 18 - Seoul Economic Daily",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdHgzQVkzc3lZamVvbVM4VGtuR3BfYXlDaEdQcFJMWVAzRDk1a2gyLUk5Xy15QmQ0Z3VZcktaSkxQc1ZnRFNLdDFjVEdWLVVjb25nNENDcHBoLUkwMkNVVE5nYUUzVjlKT0NEUGoxaXo5UldzM1EzUVkxQ01zZWxVLU5heGpaOFBnZUxFTWZtSG81Y1VUY1k2OFhqRGdLbmdzb29lbw?oc=5",
+    "summary": "Samsung Executive Joins IASB Advisory Forum Ahead of IFRS 18 Seoul Economic Daily",
+    "source": "News — IFRS Standards",
+    "authority": "news",
+    "categories": [
+      "IFRS / Reporting"
+    ],
+    "published": "2026-11-08T21:10:05+00:00",
+    "first_seen": "2026-11-09T15:18:37.060865+00:00",
+    "last_seen": "2026-11-09T15:18:37.060867+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "9bf84cfc7db7f000": {
+    "id": "9bf84cfc7db7f000",
+    "title_key": "8ed70ad653e59e3d",
+    "title": "EY survey finds business change is outpacing transfer pricing readiness | EY - Global - EY",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTWJwZW05ZjVKMDExWmFSZlJDSmpFZFlZUjRRa2xiZ1FxRUJKajdEem1hNzJiTllPYTEwaE4zNEJxRVNCeEJuWVE5dFQ0RnNON0FuLTVDQ2ZUMXhjaFJpSHpIMjNXT3Q5dmFKYnh4aF8zV3BYSTVrY191R1Z6RGhwRlN0TWdHeS1aRUNxN21XY2RwV0QyWFNJTWRWZWxUSWVELXM4b2JfUzBuZzFCcTB4RWtCaw?oc=5",
+    "summary": "EY survey finds business change is outpacing transfer pricing readiness | EY - Global EY",
+    "source": "News — Big 4 UAE Tax Commentary",
+    "authority": "commentary",
+    "categories": [
+      "Transfer Pricing"
+    ],
+    "published": "2026-11-04T08:00:00+00:00",
+    "first_seen": "2026-11-09T15:18:40.655114+00:00",
+    "last_seen": "2026-11-09T15:18:40.655116+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
