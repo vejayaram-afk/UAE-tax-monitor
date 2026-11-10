@@ -1,73 +1,17 @@
-UAE TAX & REPORTING UPDATES — 09 November 2026
+UAE TAX & REPORTING UPDATES — 10 November 2026
 ==============================================================
 
-13 new item(s) found.
+2 new item(s) found.
 
 VAT
 ---
-  UAE VAT rules: Six employee expenses businesses can now claim tax back on - Gulf News
-     https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMWREU2dfRm1LbmZocXFaSU9LVDZqay10VUdPTE01R0JUdDRNVEp2a0p6dWQ1QmhsOXc5dGhjQjVBbFFfMF92MWNqaGRLOTIyM0NrZmJ1S3B2MTlTVWxUTDI3V3dJeHptOWlzMWxoRE4wY3B2LXhnM1RBMFM1QmJBZGpUZURuMFJEQVZsQ2NHS3hfaVdfaXdSRk9mWlBvMGU1SFl1WFJLemV5Q01pT28walhOdmZuWTdyeHJTZlRSSDDSAdMBQVVfeXFMTmNTYTdISnl0N3dIX2Qxc2FkYU5qV1A2ZlJoVWdIek41aUo0Q1N5NmtFVUZHTC1tdndrN056N2JsdzY5d1VYLTNjTmFJSC1nZUUxcWZxeWJNc3o5OTRIcEtUcmJYakowdTJJc2VKVjFjMjFDLVZ4NjdqWm9ORm1QWE5hZjU3WlgzR2tiMVNqclI0amRZcjBfR0Nncmg2Ukp1cTIwNHZGcEdmQTlodWZBd0todnU4TEp2TWFJYjRqT2xZTjNIYWo1S1JkVHQyUmNpUjRabw?oc=5
-     Source: News — UAE Corporate Tax
-
-  UAE companies can recover VAT on six employee expense categories under new FTA rules - Emirates 24|7
-     https://news.google.com/rss/articles/CBMixAFBVV95cUxOX1NFM25MOExXbG5MUEZwR3BacTNvVXgzS1ZtNl9iOF9EMUhWdEkwRm1Rand6U1daY2JPYWl6RTZVS0diUEpleGVKS19pdDlGa291NURMSmhKb3FJY0ZJcUdjajlDVXhZX2J4MW14cE5iREhva1pKcG5IMnJVVVVGS3RvZFFzUmxMeTVZa3pFMjB4LS10aEctbVV3ZWxTZzk3Y25jUW9taFFtSzN4YkpyQnpkTnJZV001SlBLMUQzVUJHZHlm0gHfAUFVX3lxTE1LcjNZdUdGdG5HR2NwdUdHb0NRMEM4YlR6ZTBxUVk3U01tSEVDRkx3T0RmNTY5WVdPZm1fbUg1WXJkUVQyOGVFWG5Sb0FMTGtOeVItMlpYa1Bzck9WZEpLR1pSaHFKbFR3MThERkNReGJLLWNzUnpicF9MY1FDczFwQVhZa2tUam1UZE5NWmZQcHlSSlFCWjAzQzI5NnNyWXlnVmEwRThGcEYtdTh5OW5pUkJDa2pueEtLb0VmVGpiWE9KZVNSYm9xblRTaktBSmpjbFhoblpuRVlCY1VkcUU?oc=5
+  VAT on Staff Accommodation and Employee Benefits in the UAE: What Employers Need to Know - finchannel
+     https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOThSSlkza0U4TjFXUzFqTkNJaWhKNUREdUJRZXQxalBGWEpQM3BSZm5EOTlScTVYN0czLWYxZkpnbDhCaWdITUxtR2VoM1dtdmhsSEczQVI5bEw1eVB4MktoTHBFS0E4WTlTYVRKUlBwdWxNTHZjS185WFNuU0pLZDJ0UHh4OG1pcG5rZUk0SFY1dkxUak4wWlJORW80amhXZmRHNlNER1BzM3ZCd2dIaU83aHlibDExRjJzUGRfcV94dWVFeGY5enBZR040RnN0VTFnOGhBVU5PSzg?oc=5
      Source: News — UAE VAT
 
-
-TRANSFER PRICING
-----------------
-  EY survey finds business change is outpacing transfer pricing readiness | EY - Global - EY
-     https://news.google.com/rss/articles/CBMiswFBVV95cUxPTWJwZW05ZjVKMDExWmFSZlJDSmpFZFlZUjRRa2xiZ1FxRUJKajdEem1hNzJiTllPYTEwaE4zNEJxRVNCeEJuWVE5dFQ0RnNON0FuLTVDQ2ZUMXhjaFJpSHpIMjNXT3Q5dmFKYnh4aF8zV3BYSTVrY191R1Z6RGhwRlN0TWdHeS1aRUNxN21XY2RwV0QyWFNJTWRWZWxUSWVELXM4b2JfUzBuZzFCcTB4RWtCaw?oc=5
-     Source: News — Big 4 UAE Tax Commentary
-
-
-E-INVOICING
------------
-  E-invoicing providers' deadline passes and systems test begins - EnterpriseAM
-     https://news.google.com/rss/articles/CBMinwFBVV95cUxPNEFVTjFlLXZGT2lCaEpBc1lES3puVEVnVlNQSVZXeHlQYjRVaUg4Y1pETXRPZFNwcDBWNkVRdnJiajJuamhma0ZvcGlIVFdENDZ5OXphclQ1YTF5V0RNUHdjYWhwSXFLOVU0b0FLZVJBaUxPTkptOHFGQ25oOVppNDFTcUVNUWRVUnpBblhPdzhWNFlSeTNUQ1JjYWFFMWM?oc=5
-     Source: News — UAE E-Invoicing
-
-  French MPs Vote for SME E-Invoicing Exemption - sharedserviceslink
-     https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc05vWWFBWkJiSkN4V0VHa09QSFpnMnp4RVd4RlhzaDdnQmJBTnhNMm9YMGUzSi1HUUd6ZVpWMlNvTlo0Z0VaeWZZcnlhcVllRm5Qa1JuTnBJbHN3akUwRGlqeTRjVTlCczdhVVlKX29LaFRCODVFem1sZlkwU05xU01RMmVrRHFXMEhR?oc=5
-     Source: News — UAE E-Invoicing
-
-
-IFRS / REPORTING
-----------------
-  Canadian Securities Administrators finalize amendments to National Instrument 52-112 to address IFRS 18 - Dentons
-     https://news.google.com/rss/articles/CBMiswFBVV95cUxOYVc1VnZyUlN6bXZmYWZOZ1VNaDFBRVFudkp1ZDR2NGpuSHllUjZwYmdHRW81OXhVWmNuaW9oakhsM0xOSTF1cjdZZ1RKQ2I4RXRXSE5IYjNEVkttRnZyVUo5OUxiSjBKZV9TTkVuVTZlb3FLUzFkYlFrdkdmWTdoVW5SeTR0SEd1Zk5pb2hha3NDcGJtd0d5NWd2V1NRUWpob0RnTG56RFZNNFFILWFBNGJlTQ?oc=5
-     Source: News — IFRS Standards
-
-  Samsung Executive Joins IASB Advisory Forum Ahead of IFRS 18 - Seoul Economic Daily
-     https://news.google.com/rss/articles/CBMipAFBVV95cUxPdHgzQVkzc3lZamVvbVM4VGtuR3BfYXlDaEdQcFJMWVAzRDk1a2gyLUk5Xy15QmQ0Z3VZcktaSkxQc1ZnRFNLdDFjVEdWLVVjb25nNENDcHBoLUkwMkNVVE5nYUUzVjlKT0NEUGoxaXo5UldzM1EzUVkxQ01zZWxVLU5heGpaOFBnZUxFTWZtSG81Y1VUY1k2OFhqRGdLbmdzb29lbw?oc=5
-     Source: News — IFRS Standards
-
-
-OTHER
------
-  [OFFICIAL] Ministry of Finance wins ‘Leading Federal Entity in Sustaining Excellence’ at Mohammed bin Rashid Government Excellence Award
-     https://mof.gov.ae/en/news/ministry-of-finance-wins-leading-federal-entity-in-sustaining-excellence-at-mohammed-bin-rashid-government-excellence-award/
-     Source: Ministry of Finance — News
-
-  [OFFICIAL] MoF Organises PPP Workshop in Collaboration with World Bank Group
-     https://mof.gov.ae/en/news/mof-organises-ppp-workshop-in-collaboration-with-world-bank-group/
-     Source: Ministry of Finance — News
-
-  How to Ship Jewelry Safely in 2026: Packaging, Insurance & Carriers - ClickPost
-     https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yTFRrbWhIclptWEhQcUx1YlJTQzNSRXFyc01BTmVGMW1Ma0o5LTBXVVYtNUtfWEIwdmM4TEUzdnVFT1ZQUW9BZnNLakJ0eXBxOG9tRmJoNFQxV1VEdnRYNmdR?oc=5
+  UAE VAT rules unlock new claims across six staff cost areas - Arabian Business
+     https://news.google.com/rss/articles/CBMickFVX3lxTFBJMnVlemg0aDh3WFlyU1hDLWZTTkRZaUdwRHVaNlRjT2lZQ2t1LTJxYUtteTUtNm5JWmIwb1FTZDBCZk5rZHB2VFFESVFkY3BJUVFySHl2ZE9ZZHlFQlBBREZ6RFZCU2FBLVFnSlRSMHZiZw?oc=5
      Source: News — UAE VAT
-
-  UAE becomes first country outside Europe to implement eATA Carnet system - Yahoo Finance
-     https://news.google.com/rss/articles/CBMinwFBVV95cUxNRG5DM2Y0YUV5alB3Z0QwRnpfbndYQzVjQjVSRzM5azZEb1Njd0hxNl9hUmlzeVlrd1g5MU1lbXVYVktXZjhyd09DQU5YRDB4MFdUUWJHQTlKR1lyb2hiQ3JpWDVTNTFpaklFc2pWb0E1RWx2M0lCeS1JSHlnVUR4d2ZHVWpBUkRESXotU0VXNm50QmxCdmdnMkVxUUNMVkU?oc=5
-     Source: News — UAE E-Invoicing
-
-  UAE trade sets a nine-month record even as growth slows, and the GCC lays the legal tracks for its railway - EnterpriseAM
-     https://news.google.com/rss/articles/CBMi2gFBVV95cUxQS3NlbU1xZEZQR3JULTVKa0Z1TlhtVHRvOEJpbGc5NXNqaWItcVN3N0s1MklfWkNVQ1YycXRWUlRfQjNJUkhLQURXM3ViUWEyRnJ6QVpmTjlZVFlhUkZfaGNOT3FzZGV0c2MtZWhmLVdMbHVTUW1BcUEzNi14QUhUcGhvcExta1U2bl82czBmWVo5WDkxa1I3eDNSQXNLRzVkay02T3FZa1lfTXpzX3hGbmFqdkpLcmlLZ0VnMElzV2I0N1hobmZsc3hHUnpPRGZ5ZldEVkc0OVhhQQ?oc=5
-     Source: News — UAE E-Invoicing
-
-  Abu Dhabi home prices rise as Dubai’s fall - EnterpriseAM
-     https://news.google.com/rss/articles/CBMihAFBVV95cUxQVTN2dWhxVzVud25LRjVUQWVQSWM4b0M5OEdpTllQZVdQa0hZZ0JYUl84d3pVN2dROVBkM2ZpQ2tzY0pfcHI1bVZIclhGUG1kazY5OFdvVlg2aTVRQUczWTFqOGFiMXptczRwZnhtNXNLUVRYREF1S3d6d1diTktPNWRHQ2E?oc=5
-     Source: News — UAE E-Invoicing
 
 
 --------------------------------------------------------------
