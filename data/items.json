@@ -2662,7 +2662,7 @@
     ],
     "published": null,
     "first_seen": "2026-11-06T13:48:07.171247+00:00",
-    "last_seen": "2026-11-13T13:59:11.799773+00:00",
+    "last_seen": "2026-11-16T14:54:12.820844+00:00",
     "domain": "mof.gov.ae",
     "read": false,
     "actioned": false
@@ -3005,7 +3005,7 @@
     ],
     "published": "2026-11-09T21:53:23+00:00",
     "first_seen": "2026-11-10T14:24:43.127180+00:00",
-    "last_seen": "2026-11-13T13:59:34.554048+00:00",
+    "last_seen": "2026-11-16T14:54:33.833611+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -3023,7 +3023,7 @@
     ],
     "published": "2026-11-10T06:01:48+00:00",
     "first_seen": "2026-11-10T14:24:43.127213+00:00",
-    "last_seen": "2026-11-13T13:59:34.554070+00:00",
+    "last_seen": "2026-11-16T14:54:33.833630+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -3041,7 +3041,7 @@
     ],
     "published": "2026-11-11T11:38:48+00:00",
     "first_seen": "2026-11-11T13:38:15.110607+00:00",
-    "last_seen": "2026-11-13T13:59:34.554039+00:00",
+    "last_seen": "2026-11-16T14:54:33.833603+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -3059,7 +3059,7 @@
     ],
     "published": "2026-11-11T09:19:25+00:00",
     "first_seen": "2026-11-11T13:38:15.110652+00:00",
-    "last_seen": "2026-11-13T13:59:25.400404+00:00",
+    "last_seen": "2026-11-16T14:54:26.501310+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -3078,7 +3078,7 @@
     ],
     "published": "2026-11-11T12:49:00+00:00",
     "first_seen": "2026-11-11T13:38:15.110684+00:00",
-    "last_seen": "2026-11-13T13:59:25.400394+00:00",
+    "last_seen": "2026-11-16T14:54:26.501302+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -3096,7 +3096,7 @@
     ],
     "published": "2026-11-11T13:29:28+00:00",
     "first_seen": "2026-11-11T13:38:15.110716+00:00",
-    "last_seen": "2026-11-13T13:59:25.400408+00:00",
+    "last_seen": "2026-11-16T14:54:24.634301+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -3114,7 +3114,7 @@
     ],
     "published": "2026-11-11T12:22:21+00:00",
     "first_seen": "2026-11-11T13:38:15.110747+00:00",
-    "last_seen": "2026-11-13T13:59:27.211820+00:00",
+    "last_seen": "2026-11-16T14:54:26.501306+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -3132,7 +3132,7 @@
     ],
     "published": "2026-11-11T10:15:00+00:00",
     "first_seen": "2026-11-11T13:38:20.635200+00:00",
-    "last_seen": "2026-11-13T13:59:30.882491+00:00",
+    "last_seen": "2026-11-16T14:54:30.171941+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -3150,7 +3150,7 @@
     ],
     "published": "2026-11-11T07:56:51+00:00",
     "first_seen": "2026-11-11T13:38:20.635267+00:00",
-    "last_seen": "2026-11-13T13:59:30.882499+00:00",
+    "last_seen": "2026-11-16T14:54:30.171991+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -3168,7 +3168,7 @@
     ],
     "published": "2026-11-11T05:51:55+00:00",
     "first_seen": "2026-11-11T13:38:26.071323+00:00",
-    "last_seen": "2026-11-13T13:59:36.382404+00:00",
+    "last_seen": "2026-11-16T14:54:35.626652+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -3186,7 +3186,7 @@
     ],
     "published": "2026-11-11T20:02:32+00:00",
     "first_seen": "2026-11-12T14:42:04.806015+00:00",
-    "last_seen": "2026-11-13T13:59:27.211840+00:00",
+    "last_seen": "2026-11-16T14:54:26.501313+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -3258,8 +3258,207 @@
     ],
     "published": null,
     "first_seen": "2026-11-13T13:59:11.799738+00:00",
-    "last_seen": "2026-11-13T13:59:11.799758+00:00",
+    "last_seen": "2026-11-16T14:54:12.820839+00:00",
     "domain": "mof.gov.ae",
+    "read": false,
+    "actioned": false
+  },
+  "42bef1a1e209dbe2": {
+    "id": "42bef1a1e209dbe2",
+    "title_key": "416d42dbb5a2aab4",
+    "title": "Ministry of Finance honours partners for advancing institutional collaboration and UAE financial competitiveness",
+    "url": "https://mof.gov.ae/en/news/ministry-of-finance-honours-partners-for-advancing-institutional-collaboration-and-uae-financial-competitiveness/",
+    "summary": "",
+    "source": "Ministry of Finance — News",
+    "authority": "official",
+    "categories": [
+      "Other"
+    ],
+    "published": null,
+    "first_seen": "2026-11-16T14:54:12.820801+00:00",
+    "last_seen": "2026-11-16T14:54:12.820824+00:00",
+    "domain": "mof.gov.ae",
+    "read": false,
+    "actioned": false
+  },
+  "8c8a6a88aaaa0db0": {
+    "id": "8c8a6a88aaaa0db0",
+    "title_key": "10ad010e52500483",
+    "title": "FTA announces corporate tax, VAT, excise tax, tax compliance rate statistics - www.wam.ae",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQVlnOWdtWWVnRlZNUFRLUXZiOTh3VDA2NExZWDBtbHNlVFJheUQ0bVNzVVVqX3pKRVctX1lnNHdOVlN6aXpPU1lXc0x5d1FSQTB2OG9HZ3lWQ3VqbDJqMVZnWnFxMTM3VkJmdzdFVDkwRnl2aWltaDU5VlZrRVgxUm1VRWp3SjF6ZXBzZg?oc=5",
+    "summary": "FTA announces corporate tax, VAT, excise tax, tax compliance rate statistics www.wam.ae",
+    "source": "News — UAE Corporate Tax",
+    "authority": "news",
+    "categories": [
+      "Corporate Tax",
+      "VAT"
+    ],
+    "published": "2026-11-11T12:06:13+00:00",
+    "first_seen": "2026-11-16T14:54:24.634337+00:00",
+    "last_seen": "2026-11-16T14:54:24.634338+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "2e2840e610dc0403": {
+    "id": "2e2840e610dc0403",
+    "title_key": "2c8f3715b4d4ec1a",
+    "title": "Hong Kong Economic and Trade Office in Dubai marks five years of strengthening Hong Kong-Middle East partnerships - Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZkZZbUI3WmhOcUJ6d056TDMzOHRZS2lZeVVJQ1N0bzRucGRtX2tFaUxGYzFaemRxTXdjdmRVWDF2TlpyekN4QmlfSXgzVTAxYlVmMVR1S00tUEN2LVh1c1JfZ0FlZV9kaWtqUVFwQXA2N1JzOC1JRk9Yc1lNSFJKTkJ0NC1NNnpKd281b2NJeFFEMnRmUWNVd01oZGFYNWxWa1BrMzFvVFo5eHlodWZGb3pxWkJDaEpkWk9scFlDUFYwa1Nsak9kUzUxdGtxY2RRX3Z3aVRQZ3laY0gtdmNZZ3JFUENEMXgwWGJxQzlmb0RHclRGUVVUR2s0ZUNMX1XSAZICQVVfeXFMT1B0NTVJZmMzTW9HVlNvc0Y3bC1HaHpUUjVlZ1BQdDZhU0pfelBTRmJ6V1doODZiMlF5dzRHaXR0NXVIajRqQWJpbncwZ1hTaHJDbVkzWW9EcXd6dkFZaFhha05URWhXRk41Y0E5ckdmblFJUWhrUWRocVVUazVTLURYX2luc3JJVU5XaktQa2FXQ0hFdTIxcWhjSzJJd0lxNmRTdGpzWFlBZ29Yb3FNRXZYWUQ3OC1JZ2hSZldTNGhqVUpiSld5MThvRFFyUGVmTGMtOXYxdWk0d0hwN1VzMUZhckxpVTd1VVJ2ak5yMHFpOEU4YWNVQXhTN2YxdEhlSWRZSHAtaS1YVlZqTm04ODE0QQ?oc=5",
+    "summary": "Hong Kong Economic and Trade Office in Dubai marks five years of strengthening Hong Kong-Middle East partnerships Gulf News",
+    "source": "News — UAE Corporate Tax",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-11-16T10:57:00+00:00",
+    "first_seen": "2026-11-16T14:54:24.634368+00:00",
+    "last_seen": "2026-11-16T14:54:24.634369+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "3d6afe9e748af679": {
+    "id": "3d6afe9e748af679",
+    "title_key": "8d77a7c1fbaa8965",
+    "title": "Cabinet approves VAT return deadline amendment bill - Daily Observer",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1FczhTU3E1OTE4ZTJsYXNEU3ZILWw5SnVPMXNST0k2Z085eEZncVhrb0Y0QlRJTC00Wm5sSTZiQzJJOEpsRkw3YXR3?oc=5",
+    "summary": "Cabinet approves VAT return deadline amendment bill Daily Observer",
+    "source": "News — UAE VAT",
+    "authority": "news",
+    "categories": [
+      "VAT"
+    ],
+    "published": "2026-11-15T10:49:51+00:00",
+    "first_seen": "2026-11-16T14:54:26.501343+00:00",
+    "last_seen": "2026-11-16T14:54:26.501344+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "6e3f947faf3638d4": {
+    "id": "6e3f947faf3638d4",
+    "title_key": "4529ca3c66797a33",
+    "title": "How Transfer Pricing Adjustments Can Affect Customs Valuation and Withholding Tax in Saudi Arabia - Alvarez & Marsal",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRUg0aVB0NUdLYUthYUhGUUhMUFhQSG5BNEdMOFZObDJmVTNVOE5RYm56VnhjdWF4WXNyWXNyQnBWUHlTbGJJN0tJYk9jVWlVNExJQ2RQTEhkb19vUXM1ZVNwUlNGd1FLVzdON1dhZ1V5OEEyV1U1WU1RRFE1c2FFOURRSThFeUR0RXdTVmpCUFc2aS1SeEw0RGVaM1NpOEozQ3pGRnpkUDRaNW9jcFl0eXhtbzRrVS1Sdk9EdTVfMUlkZDBUWkZyWkhHanFFMUlEUVZwUE9RQ21ydXdYVlF2cjRtOA?oc=5",
+    "summary": "How Transfer Pricing Adjustments Can Affect Customs Valuation and Withholding Tax in Saudi Arabia Alvarez & Marsal",
+    "source": "News — UAE Transfer Pricing",
+    "authority": "news",
+    "categories": [
+      "Transfer Pricing"
+    ],
+    "published": "2026-11-16T10:41:15+00:00",
+    "first_seen": "2026-11-16T14:54:28.317143+00:00",
+    "last_seen": "2026-11-16T14:54:28.317149+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "76c73df7372482b4": {
+    "id": "76c73df7372482b4",
+    "title_key": "7131f0448f00a79d",
+    "title": "2027 global VAT changes - vatcalc.com",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kNXJGSWE0QndhQ1NHdVkzTXB2Z1hlT3dFTTRQd1BkekpyYUFVNmZTa0NEWk9wa1J5bmRUcUl6cmZ4Tk5zUzlsRDlWaHhyRGtjVDFHVTdmR3RqT3ctNnF0UFBTXzktNUxDTFE0?oc=5",
+    "summary": "2027 global VAT changes vatcalc.com",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "VAT"
+    ],
+    "published": "2026-11-11T10:02:57+00:00",
+    "first_seen": "2026-11-16T14:54:30.171905+00:00",
+    "last_seen": "2026-11-16T14:54:30.171910+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "44872ca0d026c70e": {
+    "id": "44872ca0d026c70e",
+    "title_key": "be66d85d33c7bba0",
+    "title": "Are You Budgeting for ESOS in 2027? - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaXdkMS1tLW5wam5lanhLNnVYMURwS3F6czNCQUNUYTFZaVVxZUVEeXZUUmo3TjU3ZURad3FXcnRlblNzU0FKQjNDYm9Sb3ZGT1hySF9DWVNrWDNfRW1zZGI5Sjk0WXZsTF84R3FsdDBBb1dZOHV0akxObjlDWVZDTHd3?oc=5",
+    "summary": "Are You Budgeting for ESOS in 2027? Yahoo Finance",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-11-10T13:53:00+00:00",
+    "first_seen": "2026-11-16T14:54:30.171934+00:00",
+    "last_seen": "2026-11-16T14:54:30.171935+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "9da7a32473a443f3": {
+    "id": "9da7a32473a443f3",
+    "title_key": "514f421962a22f10",
+    "title": "Banqup Group provides update on strategic process and announces the intended divestment in its Balkan activities - GlobeNewswire",
+    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPVHJDdW1yTW9xSHhrNmhaZERVM1c4QktYNjdJTy1lQTZCZEUtUXREc0VEN1JFa19uZm9zVHJzbVZiQkpMT3JWdUMzV2g2ZUdUUDdkNmRKTl8tZEtKcXlpMjNxamNBaXVPOWg5eml6b3RnWVpOQk5jaHJaaDdaVkJIcGJ3OVZKcDgxWThxQ3VDUEl4Wnh0c2NIRnZPbmRoam1CM3lyYWoxUmh5VDlkWmJGR3VzQUhVOWV3amdKNkNlbnBwNHcwWXQ0NDF6RnZsbjFIMjR4anpMdHN6Nm5KWjhZNi1uNURGTGd2Mm1wei1ScV9yMWVpOHV6RXA4MWdobjNRWl9HVk55NUNGMGREcWpqNm9B?oc=5",
+    "summary": "Banqup Group provides update on strategic process and announces the intended divestment in its Balkan activities GlobeNewswire",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-11-12T06:00:00+00:00",
+    "first_seen": "2026-11-16T14:54:30.171965+00:00",
+    "last_seen": "2026-11-16T14:54:30.171966+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "19670ffa5974ad68": {
+    "id": "19670ffa5974ad68",
+    "title_key": "d293eb6b57e4e2e7",
+    "title": "Banqup Group SA (BANQ.BR) stock price, news, quote and history - Yahoo Finance UK",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zczZFczNLcWF1aG56MjBGa3E4Z0hoMHJlbjNGVzNSVjlWeUZYUC12RWotTWR5dUlyZEZCMDhHOFl0M0JOX09KSEdSdnVTSVQ2TlhHSkZ3?oc=5",
+    "summary": "Banqup Group SA (BANQ.BR) stock price, news, quote and history Yahoo Finance UK",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-11-12T14:59:13+00:00",
+    "first_seen": "2026-11-16T14:54:30.171985+00:00",
+    "last_seen": "2026-11-16T14:54:30.171986+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "e8355bb41d1010ed": {
+    "id": "e8355bb41d1010ed",
+    "title_key": "13413ff0ddccdd66",
+    "title": "Ministry Of Finance Honours Partners For Advancing Institutional Collaboration And UAE Financial Competitiveness - Menafn",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVEVlcE5oMEctLUl5aE5EbzNWRmVsZ09Nc0Y0Z0c1SmkzaUxPTWNHNHN6c1BYbVQyZkt6Q0ctSUJuT1NJZnotOTZLM1BPZm1OVW5SNW1lZkprUXJ1X00tTldyWjZRcEdfNmxfTlZMMlhGQ3J4S01tbklGdkFzZWZVODBYLUhiR21oTG1yYUxLczRzQ0VTU1owWG1wYU1yVWZ5cEI1bkhpTUxReks1aVJBYXNldjhDbEJ6dVRsaUlQeHlQT1AzUXFUOVQzLUpXX2p1NjlqR1dXTm9IUQ?oc=5",
+    "summary": "Ministry Of Finance Honours Partners For Advancing Institutional Collaboration And UAE Financial Competitiveness Menafn",
+    "source": "News — FTA Announcements",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-11-13T08:30:51+00:00",
+    "first_seen": "2026-11-16T14:54:33.833657+00:00",
+    "last_seen": "2026-11-16T14:54:33.833658+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "d7267628d48d6c2d": {
+    "id": "d7267628d48d6c2d",
+    "title_key": "dc1f7a0511bab657",
+    "title": "BorderCrossings with EY TP and tax professionals – Nov 2026 | EY - US - EY",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObWxRS2dBX1ZCM25IQ3l1TGJvWE1YaWtacUp4SHVqZ0VwX0xldGZMZGI4Rld1NW9tVmlCX3l3MlpNLU1YTXdTM3dKaEtZVHRpekl3V1oxTjk1NWtwY0J0aGgtVl8xaGF5LW51SjR0bnFFdnlaRFZTU1h1SUM3emZjMzNuV1hqM2tXNEViNFVBOC1kcFlsc0pJZ2RWUUlWV2hfRUwwTU9nZnE?oc=5",
+    "summary": "BorderCrossings with EY TP and tax professionals – Nov 2026 | EY - US EY",
+    "source": "News — Big 4 UAE Tax Commentary",
+    "authority": "commentary",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-11-12T12:18:28+00:00",
+    "first_seen": "2026-11-16T14:54:35.626694+00:00",
+    "last_seen": "2026-11-16T14:54:35.626695+00:00",
+    "domain": "news.google.com",
     "read": false,
     "actioned": false
   }
