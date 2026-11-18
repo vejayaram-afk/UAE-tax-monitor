@@ -1,6 +1,101 @@
 {
-  "generated": "2026-11-17T15:33:11.251801+00:00",
+  "generated": "2026-11-18T15:11:21.798352+00:00",
   "items": [
+    {
+      "id": "3423d1327787b234",
+      "title_key": "01474232f3af5a5c",
+      "title": "Ministry of Finance showcases its portfolio of future digital projects and celebrates ‘Solution Makers’ at ‘MoF Innovates 2026’",
+      "url": "https://mof.gov.ae/en/news/ministry-of-finance-showcases-its-portfolio-of-future-digital-projects-and-celebrates-solution-makers-at-mof-innovates-2026/",
+      "summary": "",
+      "source": "Ministry of Finance — News",
+      "authority": "official",
+      "categories": [
+        "VAT"
+      ],
+      "published": null,
+      "first_seen": "2026-11-18T15:10:57.133086+00:00",
+      "last_seen": "2026-11-18T15:10:57.133111+00:00",
+      "domain": "mof.gov.ae",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "7e9fabec37e886b1",
+      "title_key": "81a6342cbdcf9dc8",
+      "title": "Ministry of Finance hosts Tax Information Exchange Forum - www.wam.ae",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTU5HdzdpTnhVbk5hSlRsTVktY1FRRnRpRUhaT1RyR0pNRHFycW1YNWlvVUNwMlBuY0czbExTcFlkX3dxSWlWNTFROEs0clp3V29ndks4SkVsdkhRbkFkNlFfR0FFdE1nc21YeUNENDZweVJaN0UweWozb2hkMWp4d2UtY0taYU1KQ0hxMWpZMA?oc=5",
+      "summary": "Ministry of Finance hosts Tax Information Exchange Forum www.wam.ae",
+      "source": "News — FTA Announcements",
+      "authority": "news",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-11-18T15:03:54+00:00",
+      "first_seen": "2026-11-18T15:11:18.490982+00:00",
+      "last_seen": "2026-11-18T15:11:18.490983+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "6947eb8e90cece94",
+      "title_key": "0ea6b50a66a17cae",
+      "title": "IPO Readiness Starts 18 Months Before the Bell - Crowe",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc09Xa014WTVPSDA0MHVZSmNOS2lzbXY2WGdKYUY2bXdOZzFMUXBna2g0Z2M5OGZnVlRMQ3l1SzNyQ0s2cm5KSmh5Z081SnoyMFJ3YnBBcEllcE9mMHVTNy13TXJSZ21HVEd4NlJ6SXEwYXJKOWZ5ZklFYktQNVZoNXFn?oc=5",
+      "summary": "IPO Readiness Starts 18 Months Before the Bell Crowe",
+      "source": "News — UAE Transfer Pricing",
+      "authority": "news",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-11-18T13:26:10+00:00",
+      "first_seen": "2026-11-18T15:11:13.152508+00:00",
+      "last_seen": "2026-11-18T15:11:13.152510+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "aff359ac33dba5e3",
+      "title_key": "b76d029aaba724ee",
+      "title": "ALVAREZ & MARSAL TAX LAUNCHES GLOBAL FINANCIAL SERVICES PRACTICE - Alvarez & Marsal",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORHJIX2l1bHFYVHpLY2wwajhIc2RSYVI1SWhWaWZCVDRJbXh1dnhwS2RCMnk3Z2xDcl9oQVJ6OVo3RFN0eDZ2dG40cEV2RHVydzRqVWRCcm5kdGhuZ2puWUJhcnJJLXVwWWtLZkljNUJ4eUIzZkVaaG8tUDlEUkEybFFjQTVOaUdZc0lEb280MzhnRXJNeS1MNkRmLWhBV2tXZHl1ckdWSWRmNmVIS2c?oc=5",
+      "summary": "ALVAREZ & MARSAL TAX LAUNCHES GLOBAL FINANCIAL SERVICES PRACTICE Alvarez & Marsal",
+      "source": "News — FTA Announcements",
+      "authority": "news",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-11-18T13:00:00+00:00",
+      "first_seen": "2026-11-18T15:11:18.490935+00:00",
+      "last_seen": "2026-11-18T15:11:18.490941+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "582c6b7109f1a65f",
+      "title_key": "2fdc7467451b212d",
+      "title": "Guinea is EGA’s top bauxite supplier again, but the smelter is spreading its bets - EnterpriseAM",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2VxVFNUWWUwaVRVYjU5clotS0VFRDEyV3c0RHh3aXhiMUVBaHlRYlhMUjFBYnprN0JUaTdyaEpoRldhMWc5aGx5QXluX2FpWmpkWmJibEhxUV9tVzM1ZU9wLUljSlJyVTAzMUE5NlItanktSU9CSXBWYXZtcnJpWW1ibzBSRmlBQThSbmY4UlZLRVhLeDJ4b2ZZbmt4MW1CbElfcEw0SU14S0VwRWNMWHZpUklyUjQ?oc=5",
+      "summary": "Guinea is EGA’s top bauxite supplier again, but the smelter is spreading its bets EnterpriseAM",
+      "source": "News — UAE E-Invoicing",
+      "authority": "news",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-11-18T04:13:25+00:00",
+      "first_seen": "2026-11-18T15:11:14.983162+00:00",
+      "last_seen": "2026-11-18T15:11:14.983163+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
     {
       "id": "1d2e9fc91529191a",
       "title_key": "e05c2282d8c92083",
@@ -14,7 +109,7 @@
       ],
       "published": "2026-11-17T13:15:00+00:00",
       "first_seen": "2026-11-17T15:32:58.935172+00:00",
-      "last_seen": "2026-11-17T15:33:04.395340+00:00",
+      "last_seen": "2026-11-18T15:11:14.983123+00:00",
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
@@ -33,7 +128,7 @@
       ],
       "published": "2026-11-17T10:59:00+00:00",
       "first_seen": "2026-11-17T15:33:02.544204+00:00",
-      "last_seen": "2026-11-17T15:33:02.544207+00:00",
+      "last_seen": "2026-11-18T15:11:13.152518+00:00",
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
@@ -52,7 +147,7 @@
       ],
       "published": "2026-11-17T10:55:57+00:00",
       "first_seen": "2026-11-17T15:33:00.762998+00:00",
-      "last_seen": "2026-11-17T15:33:07.980991+00:00",
+      "last_seen": "2026-11-18T15:11:18.490949+00:00",
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
@@ -71,7 +166,7 @@
       ],
       "published": "2026-11-16T21:24:30+00:00",
       "first_seen": "2026-11-17T15:33:04.395314+00:00",
-      "last_seen": "2026-11-17T15:33:04.395320+00:00",
+      "last_seen": "2026-11-18T15:11:14.983113+00:00",
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
@@ -90,7 +185,7 @@
       ],
       "published": null,
       "first_seen": "2026-11-16T14:54:12.820801+00:00",
-      "last_seen": "2026-11-16T14:54:12.820824+00:00",
+      "last_seen": "2026-11-18T15:10:57.133125+00:00",
       "domain": "mof.gov.ae",
       "read": false,
       "actioned": false,
@@ -128,7 +223,26 @@
       ],
       "published": "2026-11-16T10:41:15+00:00",
       "first_seen": "2026-11-16T14:54:28.317143+00:00",
-      "last_seen": "2026-11-17T15:33:02.544160+00:00",
+      "last_seen": "2026-11-18T15:11:13.152472+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "205ccde0f1a643ea",
+      "title_key": "60d55bd339293df8",
+      "title": "UAE events are filling halls again, but the war has made showing up pricier - EnterpriseAM",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOXlyWlpzbHZzckJwMlVRWm1NY2lrT1RJY055QjM1MTVvX21UTFBtLTkzX2ZqczVqc3BUczV0TnlpZFVRMTlXSlVBUl9ud2kxcG9mM3hLaWYyVlR6dERod1V5TlltSDV5bVp1NjZpVHJ0R053aG0yeUdFaEpqTFFoaXF1YjdnSVljcnF2dUQtczhZSHY5RWI5R3BGaDFkZUJyazlybDhZY2luOWxFZXFwTw?oc=5",
+      "summary": "UAE events are filling halls again, but the war has made showing up pricier EnterpriseAM",
+      "source": "News — UAE E-Invoicing",
+      "authority": "news",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-11-16T03:52:10+00:00",
+      "first_seen": "2026-11-18T15:11:14.983204+00:00",
+      "last_seen": "2026-11-18T15:11:14.983205+00:00",
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
@@ -166,7 +280,7 @@
       ],
       "published": null,
       "first_seen": "2026-11-13T13:59:11.799738+00:00",
-      "last_seen": "2026-11-16T14:54:12.820839+00:00",
+      "last_seen": "2026-11-18T15:10:57.133129+00:00",
       "domain": "mof.gov.ae",
       "read": false,
       "actioned": false,
@@ -185,7 +299,7 @@
       ],
       "published": "2026-11-13T08:30:51+00:00",
       "first_seen": "2026-11-16T14:54:33.833657+00:00",
-      "last_seen": "2026-11-17T15:33:07.981018+00:00",
+      "last_seen": "2026-11-18T15:11:18.490988+00:00",
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
@@ -249,6 +363,25 @@
       "is_new": true
     },
     {
+      "id": "4d410a3f40cd702b",
+      "title_key": "213807d9c6e0c2f9",
+      "title": "Comarch Brings Its Gulf E-Invoicing Experience To Enterprises Preparing For Qatar's New Framework - Menafn",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdGkyblRjR19OeHQxWjE4UlFRT1daWnlxbXBFaXhMN1JuekJRTmdYX3lNQU13bGFqd25hMEh6Ykw1bklHNzk4WUlvZ2RaaGJ2VnNGT3Y5XzFuTkFXaDBpRlpJV01MVjZtblI1bHZQS3hlanRMcFFCQTQ5bG1Fc1dHX29nWl9Ia0NkeS1uMFZobXhMT2JXd1ZwcnNOeDFzVnNyVUYxWDgzekxvQTBnaFRkUzF2TEttU01RZ3dqZ3E4TGN6bXlP?oc=5",
+      "summary": "Comarch Brings Its Gulf E-Invoicing Experience To Enterprises Preparing For Qatar's New Framework Menafn",
+      "source": "News — UAE E-Invoicing",
+      "authority": "news",
+      "categories": [
+        "E-Invoicing"
+      ],
+      "published": "2026-11-12T08:15:47+00:00",
+      "first_seen": "2026-11-18T15:11:14.983223+00:00",
+      "last_seen": "2026-11-18T15:11:14.983224+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
       "id": "9da7a32473a443f3",
       "title_key": "514f421962a22f10",
       "title": "Banqup Group provides update on strategic process and announces the intended divestment in its Balkan activities - GlobeNewswire",
@@ -261,7 +394,26 @@
       ],
       "published": "2026-11-12T06:00:00+00:00",
       "first_seen": "2026-11-16T14:54:30.171965+00:00",
-      "last_seen": "2026-11-17T15:33:04.395344+00:00",
+      "last_seen": "2026-11-18T15:11:14.983127+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "9edaebbbfff5a015",
+      "title_key": "30a10566e9c5e1cf",
+      "title": "Banqup Group reports 43,0% YoY subscription revenue growth in 9M 2026 - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRjJJbmhUVS1HTFlfbFFFZTBQNjg0ekw1cDVOTkVhRGJQLWpTWEFjeV9pT3dOcXNkSFNvWG5ya25sNUliM0ZyU096eXZlVnI5R3p1ejExdGdBaFFiZ2o5a1BnMTQyMXFsdnpRQkR4LTFuREF1ZXdORWF0UDN1S2U3YjRtNi1tTjdBWUxEQWgzaTZzZG9XSDJ4R0duSk56SkFrTmx3eldBZmxtX0t5VGp6WW9BakdIdW01N3hscGNESW1wWF81WFYzNVpybzFyRFYzeFdEZjc1Yw?oc=5",
+      "summary": "Banqup Group reports 43,0% YoY subscription revenue growth in 9M 2026 GlobeNewswire",
+      "source": "News — UAE E-Invoicing",
+      "authority": "news",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-11-12T06:00:00+00:00",
+      "first_seen": "2026-11-18T15:11:14.983185+00:00",
+      "last_seen": "2026-11-18T15:11:14.983186+00:00",
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
@@ -303,7 +455,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a2629b53b8ccc133",
@@ -323,7 +475,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "921b37b5322d8b7e",
@@ -342,7 +494,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8c8a6a88aaaa0db0",
@@ -381,7 +533,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "676dd1cf0e64bc5e",
@@ -400,7 +552,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "76c73df7372482b4",
@@ -438,7 +590,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "feda3534e1da8d08",
@@ -457,7 +609,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "6500ba29d59b390a",
@@ -476,7 +628,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "44872ca0d026c70e",
@@ -1118,7 +1270,7 @@
       ],
       "published": "2026-11-04T02:16:56+00:00",
       "first_seen": "2026-11-04T13:50:33.614211+00:00",
-      "last_seen": "2026-11-17T15:33:06.166343+00:00",
+      "last_seen": "2026-11-18T15:11:16.741549+00:00",
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
