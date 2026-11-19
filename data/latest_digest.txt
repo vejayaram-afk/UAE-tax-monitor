@@ -1,46 +1,54 @@
-UAE TAX & REPORTING UPDATES — 18 November 2026
+UAE TAX & REPORTING UPDATES — 19 November 2026
 ==============================================================
 
-8 new item(s) found.
+10 new item(s) found.
 
 VAT
 ---
-  [OFFICIAL] Ministry of Finance showcases its portfolio of future digital projects and celebrates ‘Solution Makers’ at ‘MoF Innovates 2026’
-     https://mof.gov.ae/en/news/ministry-of-finance-showcases-its-portfolio-of-future-digital-projects-and-celebrates-solution-makers-at-mof-innovates-2026/
+  [OFFICIAL] Maktoum bin Mohammed: Mohammed bin Rashid Innovation Fund brings leadership’s vision for a knowledge- and innovation-driven economy to life
+     https://mof.gov.ae/en/news/maktoum-bin-mohammed-mohammed-bin-rashid-innovation-fund-brings-leaderships-vision-for-a-knowledge-and-innovation-driven-economy-to-life/
      Source: Ministry of Finance — News
 
 
 E-INVOICING
 -----------
-  Comarch Brings Its Gulf E-Invoicing Experience To Enterprises Preparing For Qatar's New Framework - Menafn
-     https://news.google.com/rss/articles/CBMixAFBVV95cUxNdGkyblRjR19OeHQxWjE4UlFRT1daWnlxbXBFaXhMN1JuekJRTmdYX3lNQU13bGFqd25hMEh6Ykw1bklHNzk4WUlvZ2RaaGJ2VnNGT3Y5XzFuTkFXaDBpRlpJV01MVjZtblI1bHZQS3hlanRMcFFCQTQ5bG1Fc1dHX29nWl9Ia0NkeS1uMFZobXhMT2JXd1ZwcnNOeDFzVnNyVUYxWDgzekxvQTBnaFRkUzF2TEttU01RZ3dqZ3E4TGN6bXlP?oc=5
+  Third German Federal Ministry of Finance circular on e-invoicing: Further practical questions clarified - RSM Ebner Stolz
+     https://news.google.com/rss/articles/CBMivwFBVV95cUxOZlpnSnEzMGRLS0d4eFh6NnNNZWQ0SWhkRkp2UUdKdUJtNGlDYU1CQWMxZXk1MDg4T1EyWV9nd21NalFNQV9Tc0pjS3hxaC1sY2pmcFBKc0VDNk5IRHA0LWVIZUgyNkpKTjJqV0FTMXpLM0pKSTAzWmtqMjhZNkhTYWJmZTZUWHBVbDVCd1NYSVhRSzllb3pfZVFZVXVtWHUtUUtCdW5YMFFycmFBWWhwNlU4WThBVEpEUkE5NTFXRQ?oc=5
+     Source: News — UAE E-Invoicing
+
+  Netherlands Proposes Mandatory B2B E-Invoicing from July 2030 - sharedserviceslink
+     https://news.google.com/rss/articles/CBMingFBVV95cUxORVlvZHJpQmtUdEI2V3ZRVzVUelJ4cFZucFUzTUR0Y3RaQmNON25XcmtHcndHZFByTjBqRWpLTl9nTXBDT3RSdXJubmdqc0l3VnRacmdSbDJUb3F4aEdSdmMtbDlzRHF0cExSVHNhanBKcHdWSlVRcWhIUG9mQ01mSnIyQzdWdkJ4M0pjTjh5RGdyUS1XWm04NV9WTXdUZw?oc=5
+     Source: News — UAE E-Invoicing
+
+  Afri Invoice launches free masterclasses to bridge e-invoicing knowledge gaps - The Guardian Nigeria News
+     https://news.google.com/rss/articles/CBMipgFBVV95cUxQbGVIenJzLS1fSDVwSFpCc2V3M2tOeGFPc2xRR1Y5dXE0RC13UGEzVUw2ZXpCSmsyTW53eXItdC1yTEFFd21VUjVJdnp6UzlSZVZ3dmtMY25lUnlvbXctS2ZJdUxFVG5aU2RPck5KeTRtUmpsbFZkNHBYS2FnTnFvU0ExODhSTktvZEhnaWJ1bTREakhwTkc3SDFzNG9CU0FMb2hGLUR3?oc=5
      Source: News — UAE E-Invoicing
 
 
 OTHER
 -----
-  IPO Readiness Starts 18 Months Before the Bell - Crowe
-     https://news.google.com/rss/articles/CBMiggFBVV95cUxQc09Xa014WTVPSDA0MHVZSmNOS2lzbXY2WGdKYUY2bXdOZzFMUXBna2g0Z2M5OGZnVlRMQ3l1SzNyQ0s2cm5KSmh5Z081SnoyMFJ3YnBBcEllcE9mMHVTNy13TXJSZ21HVEd4NlJ6SXEwYXJKOWZ5ZklFYktQNVZoNXFn?oc=5
-     Source: News — UAE Transfer Pricing
+  [OFFICIAL] Ministry of Finance hosts Tax Information Exchange Forum to reinforce compliance with international standards and promote transparency
+     https://mof.gov.ae/en/news/ministry-of-finance-hosts-tax-information-exchange-forum-to-reinforce-compliance-with-international-standards-and-promote-transparency/
+     Source: Ministry of Finance — News
 
-  Guinea is EGA’s top bauxite supplier again, but the smelter is spreading its bets - EnterpriseAM
-     https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2VxVFNUWWUwaVRVYjU5clotS0VFRDEyV3c0RHh3aXhiMUVBaHlRYlhMUjFBYnprN0JUaTdyaEpoRldhMWc5aGx5QXluX2FpWmpkWmJibEhxUV9tVzM1ZU9wLUljSlJyVTAzMUE5NlItanktSU9CSXBWYXZtcnJpWW1ibzBSRmlBQThSbmY4UlZLRVhLeDJ4b2ZZbmt4MW1CbElfcEw0SU14S0VwRWNMWHZpUklyUjQ?oc=5
+  XYRA AI Accredited by the UAE Federal Tax Authority as Tax Accounting Software - EIN News
+     https://news.google.com/rss/articles/CBMivAFBVV95cUxOT2pnMDlHT2V2NzNDTkRobTEtbFBnTWl6XzZUQ0lncDl6LVNudno3WEZYbHB4dU16N1VfUFp5T0NySnNucFhDaG9tWFFfN0FYNFoxeWJ5YjNqazc3cTFEcDQ2dHZ5VHMxZElxMWhDM3NXUnVMcWJQeWVTc0JsU29rTDlPWUlsM0QxcmFTc1Y5b00wREMwREJoSW1zOWZzdWFZOXZKaWY3MV9BekVJVHhITXBnVkl2QmFDVWVibw?oc=5
+     Source: News — UAE Corporate Tax
+
+  Federal Tax Authority receives Global Certification for Institutional Readiness and Agility - Zawya
+     https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRTRBNnFTOWwxSjdjSC1SQ2dCYldqcjA3RWhWc1lJVnVlbGpFT0RERVRpNjlVWlVxOXdYUmdMbmcwY29MUWR2Y0tkdC1sMzNZanZRS0RtZmg1T3g2OGREUGdHRWdiYVpZdHBQc2J3RXVxeDRMeWwzNUZOaW5mMUNuRkc3bnVVU2R1bjhta05tQnlQWS03cjhMSVM1eG92M1FPYnRIYlV4bFlQLW1DQzN3QjRkWmtoZXFHam5fZFRWNnI4Vkp0bUJKRGZlOGZSUUN6NXBVZXpZSkJ4Ull5REE1S3lEckozX0NjZkE?oc=5
+     Source: News — UAE Corporate Tax
+
+  IMF sees the economy growing this year, upgrading its previous forecast of a contraction - EnterpriseAM
+     https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOFN1UjJsSmZuSVkyNDZjeUY1ZUYxcG0wekdVdnE4SWdCUHg2c1k5VFZSVjV4OXYwcER5M2tGUnJNWUplVlg5eE11UHFNbjhMdE1iMl9DUkMyaUJENm5rcEt1UkQ4bnVfMWFWQXVvRWFjYnNnSVFkWGxiZkliUFAtTWdZR1l3MGtJTDJqSGpPeDBaSjluNmpjNmxCUFlTOFRkRzk2SDdZTnhOQU9xbUZSNml1TmVGcmhsWlhlTWFYWFladw?oc=5
      Source: News — UAE E-Invoicing
 
-  Banqup Group reports 43,0% YoY subscription revenue growth in 9M 2026 - GlobeNewswire
-     https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRjJJbmhUVS1HTFlfbFFFZTBQNjg0ekw1cDVOTkVhRGJQLWpTWEFjeV9pT3dOcXNkSFNvWG5ya25sNUliM0ZyU096eXZlVnI5R3p1ejExdGdBaFFiZ2o5a1BnMTQyMXFsdnpRQkR4LTFuREF1ZXdORWF0UDN1S2U3YjRtNi1tTjdBWUxEQWgzaTZzZG9XSDJ4R0duSk56SkFrTmx3eldBZmxtX0t5VGp6WW9BakdIdW01N3hscGNESW1wWF81WFYzNVpybzFyRFYzeFdEZjc1Yw?oc=5
+  Buybacks, buyouts, and an IPO drought are shrinking the UAE’s freefloat - EnterpriseAM
+     https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa05sbUp3ZmVuR290Qk52cmVyMVh0TE1PdEt1cmM4ZWR5OTZLa05pa3JId2UzeWROcGJtZVpSZ19GN2l0N3B1QmI2ZXZlRml2UF85a09NVTUweUU0Z2cxOUFXdHhlallINnp5OHlXWmxTQUJKVjB5YzNjMUp6MEsyUUdoWWVISGdHNUlFWEl5WWMzU2JjZnE4dUpXTXhsUVEwMWlhSnRxSkU?oc=5
      Source: News — UAE E-Invoicing
 
-  UAE events are filling halls again, but the war has made showing up pricier - EnterpriseAM
-     https://news.google.com/rss/articles/CBMisAFBVV95cUxQOXlyWlpzbHZzckJwMlVRWm1NY2lrT1RJY055QjM1MTVvX21UTFBtLTkzX2ZqczVqc3BUczV0TnlpZFVRMTlXSlVBUl9ud2kxcG9mM3hLaWYyVlR6dERod1V5TlltSDV5bVp1NjZpVHJ0R053aG0yeUdFaEpqTFFoaXF1YjdnSVljcnF2dUQtczhZSHY5RWI5R3BGaDFkZUJyazlybDhZY2luOWxFZXFwTw?oc=5
-     Source: News — UAE E-Invoicing
-
-  ALVAREZ & MARSAL TAX LAUNCHES GLOBAL FINANCIAL SERVICES PRACTICE - Alvarez & Marsal
-     https://news.google.com/rss/articles/CBMirgFBVV95cUxORHJIX2l1bHFYVHpLY2wwajhIc2RSYVI1SWhWaWZCVDRJbXh1dnhwS2RCMnk3Z2xDcl9oQVJ6OVo3RFN0eDZ2dG40cEV2RHVydzRqVWRCcm5kdGhuZ2puWUJhcnJJLXVwWWtLZkljNUJ4eUIzZkVaaG8tUDlEUkEybFFjQTVOaUdZc0lEb280MzhnRXJNeS1MNkRmLWhBV2tXZHl1ckdWSWRmNmVIS2c?oc=5
-     Source: News — FTA Announcements
-
-  Ministry of Finance hosts Tax Information Exchange Forum - www.wam.ae
-     https://news.google.com/rss/articles/CBMijwFBVV95cUxPTU5HdzdpTnhVbk5hSlRsTVktY1FRRnRpRUhaT1RyR0pNRHFycW1YNWlvVUNwMlBuY0czbExTcFlkX3dxSWlWNTFROEs0clp3V29ndks4SkVsdkhRbkFkNlFfR0FFdE1nc21YeUNENDZweVJaN0UweWozb2hkMWp4d2UtY0taYU1KQ0hxMWpZMA?oc=5
+  MS advises investors to settle ADGM SPV structures ahead of 2026 tax year-end - Khaleej Times
+     https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUl9wMWFmWTJZVHJGSENlVGJCZHJMRVAtMndQdmNla0xLaUFERl9UaDJsR2tQcTVoLVhIRnFRMVJjN1RBV0FHaGpndkhXR1EtTHcwLXFrSEVmZ041dDJLa2xzMGNsbi1jX2JTQ1BQMG1YN1hacllHWEdBX0pvcHFGQ29GMUhLYTNVVUVpQUZYcWNrQ1d3S0ZaTWJmb2pQLXI4VEwtbk9QVVNwUDNYZWJ3Q2R3Wm9yejd2dVJGZE1pNlfSAcABQVVfeXFMT1JfcDFhZlkyWVRyRkhDZVRiQmRyTEVQLTJ3UHZjZWtMS2lBREZfVGgybEdrUHE1aC1YSEZxUTFSYzdUQVdBR2hqZ3ZIV0dRLUx3MC1xa0hFZmdONXQyS2tsczBjbG4tY19iU0NQUDBtWDdYWnJZR1hHQV9Kb3BxRkNvRjFIS2EzVVVFaUFGWHFja0NXd0tGWk1iZm9qUC1yOFRMLW5PUFVTcFAzWGVid0Nkd1pvcno3dnVSRmRNaTZX?oc=5
      Source: News — FTA Announcements
 
 
