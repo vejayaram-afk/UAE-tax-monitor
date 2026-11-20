@@ -1,55 +1,58 @@
-UAE TAX & REPORTING UPDATES — 19 November 2026
+UAE TAX & REPORTING UPDATES — 20 November 2026
 ==============================================================
 
 10 new item(s) found.
 
 VAT
 ---
-  [OFFICIAL] Maktoum bin Mohammed: Mohammed bin Rashid Innovation Fund brings leadership’s vision for a knowledge- and innovation-driven economy to life
-     https://mof.gov.ae/en/news/maktoum-bin-mohammed-mohammed-bin-rashid-innovation-fund-brings-leaderships-vision-for-a-knowledge-and-innovation-driven-economy-to-life/
-     Source: Ministry of Finance — News
+  The 2026 VAT Changes Will Decide Next Year's Tax Disputes - Legal 500
+     https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbnBzd0IyYi1pelY2dk03Q2RfZnB0bnlYNzlLeEp6ODEyT3JMc24zUUU5b3BiVFpXaFV5T0phSG5TS0hMcUpSSmgzNUlBWDhFNklmTXkyaWktaExHZmpidWZTVjlwT3dkUXlraWk3RlNMWE96X2czZ3o0SkJxQmpUNlU3emEta0dXU3hYMkJwWF9iRTlDWTd6M3hCNE0tUjROVUdkajAtb3ZkUnR0dXRCbjdsLTZhMms0N1pJ?oc=5
+     Source: News — UAE Corporate Tax
+
+  No VAT on written-off vehicles transferred to insurers, FTA clarifies - Gulf News
+     https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSlZMR216WG5tSDl6WlN6Z25PWVY1RkxNVmlxVXJLOTVmV3BIbFhqdzlPU1d2Z1ZvdjNNWFlra21yMjI4VFhOa0MydWFoUnZYSl96c0hvMDNiZFh3MFRZbEp5cC1MUzNOZVEybDJ5STd0R0Yyelk2MVV4dnNRR1ZLTzB1RUR0dm9BaGdKLXhvOWJrOVVxVjVySW9lejNqUmtMcXV6eEU2eXhJRmM1U2g1NWMxRUcwakhSRngw0gHOAUFVX3lxTE5qaVVub1FFOE1kQkhmZ2VwRDdaeG9DNWZNYVQzclNVMGJWZnF6VmpOVmg1T0VtenNHZ2RMbXIwY2NqVXgtWFgyalduYnNPanlvN3YtSzhCY25Cc1k4Z2ZpVlh3cmEtYUhZZTlSRFpqV1cyZDVBVWt4RTBjTDV0N21MYlhOSmlFa1BCR3Q4Qmxic0N2NHNaanJlelZ0eHpXZ3hLcDd4WEs2dENWTnhKS1Q1bmZneVdKam0tRHViMy1Ndlh0eUFCbEVFem41X3lR?oc=5
+     Source: News — UAE Corporate Tax
+
+  No VAT when your insurer takes ownership of a written-off car, UAE Federal Tax Authority clarifies - Emirates 24|7
+     https://news.google.com/rss/articles/CBMizwFBVV95cUxQOEl6bFB5d1Jqc3RTck03RHpRUWc2QlA0c1hyUGpkZ0FOb3Z6UmgxV1RHcjQxWDdDZUxiSW5BOVRGMGdVRERIZzlfYVdrMnRfNFBtSGQ2Z0VtMzMyaFByaWoyRHdOS0dNUnUyMmN3b05EcTcyYzlxS1BHMFQya2otdVFiRUVZWWkyVVR3bTFtVThuSlRTd05ucUhBU09PQklPVzRwbG1BeUJCcTd5QkpTRjhHRHhaMGt3cnNvNG1zOXdTVnFQQW5pMW1BYXMyQVnSAeoBQVVfeXFMTllZRlRLQ1dJNGpBMzAxOXV1aThzVWlmU3JyLTgwOE0yRWJwQUZFbExDRks2OXRYOHh5SGNabjBFODIxS0c1YjhlN21VaVk4TVh0X2VKLXZHcWhMWS1yajJKUzAxOUpKaGIzY2l2Yl9RLVdhV0tXRGFOZzZDN1BiV3BoOUt5Vk9ZbzdBd1lTakhVOERuNFVaYllIdUtwckpLdU13RUZ0SjU2bTlEdUZsSzAtU1JCMlRXQk1vTmw3NzZ4eDFGd182azQyZnVkOVhvTmtCc2ZySkw1RWt5UmJiRkwwUDMtQTFCaktn?oc=5
+     Source: News — UAE VAT
 
 
 E-INVOICING
 -----------
-  Third German Federal Ministry of Finance circular on e-invoicing: Further practical questions clarified - RSM Ebner Stolz
-     https://news.google.com/rss/articles/CBMivwFBVV95cUxOZlpnSnEzMGRLS0d4eFh6NnNNZWQ0SWhkRkp2UUdKdUJtNGlDYU1CQWMxZXk1MDg4T1EyWV9nd21NalFNQV9Tc0pjS3hxaC1sY2pmcFBKc0VDNk5IRHA0LWVIZUgyNkpKTjJqV0FTMXpLM0pKSTAzWmtqMjhZNkhTYWJmZTZUWHBVbDVCd1NYSVhRSzllb3pfZVFZVXVtWHUtUUtCdW5YMFFycmFBWWhwNlU4WThBVEpEUkE5NTFXRQ?oc=5
+  Oman enterprises score just 54% on e-invoicing readiness, ClearTax survey reveals - Khaleej Times
+     https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWXByOVBDVUdKcldkM0pVTDJBM3NHX1V6WkVsOXRBUjRIUHVMNUFQc3RfbzVRUlR4QnphRENPMDlSbzQwWEV5dEdsSHI1bVVhS0ZtSTdkbFFRN0xuUUhxc2kyQUVlRno3cC1sZl9OcDZXN3RCOHhLbm9LSmp5M2VXUTIwbXZOTkNUbGRhRHZncDBUNGNwY1BJQU9Wc3J5N3N0aUJoZEJjX05aWlE2TXNiMGoyMG1TOEVfU0doY3N1SVRQZWPSAcMBQVVfeXFMUFlwcjlQQ1VHSnJXZDNKVUwyQTNzR19VelpFbDl0QVI0SFB1TDVBUHN0X281UVJUeEJ6YURDTzA5Um80MFhFeXRHbEhyNW1VYUtGbUk3ZGxRUTdMblFIcXNpMkFFZUZ6N3AtbGZfTnA2Vzd0Qjh4S25vS0pqeTNlV1EyMG12Tk5DVGxkYUR2Z3AwVDRjcGNQSUFPVnNyeTdzdGlCaGRCY19OWlpRNk1zYjBqMjBtUzhFX1NHaGNzdUlUUGVj?oc=5
      Source: News — UAE E-Invoicing
 
-  Netherlands Proposes Mandatory B2B E-Invoicing from July 2030 - sharedserviceslink
-     https://news.google.com/rss/articles/CBMingFBVV95cUxORVlvZHJpQmtUdEI2V3ZRVzVUelJ4cFZucFUzTUR0Y3RaQmNON25XcmtHcndHZFByTjBqRWpLTl9nTXBDT3RSdXJubmdqc0l3VnRacmdSbDJUb3F4aEdSdmMtbDlzRHF0cExSVHNhanBKcHdWSlVRcWhIUG9mQ01mSnIyQzdWdkJ4M0pjTjh5RGdyUS1XWm04NV9WTXdUZw?oc=5
-     Source: News — UAE E-Invoicing
 
-  Afri Invoice launches free masterclasses to bridge e-invoicing knowledge gaps - The Guardian Nigeria News
-     https://news.google.com/rss/articles/CBMipgFBVV95cUxQbGVIenJzLS1fSDVwSFpCc2V3M2tOeGFPc2xRR1Y5dXE0RC13UGEzVUw2ZXpCSmsyTW53eXItdC1yTEFFd21VUjVJdnp6UzlSZVZ3dmtMY25lUnlvbXctS2ZJdUxFVG5aU2RPck5KeTRtUmpsbFZkNHBYS2FnTnFvU0ExODhSTktvZEhnaWJ1bTREakhwTkc3SDFzNG9CU0FMb2hGLUR3?oc=5
-     Source: News — UAE E-Invoicing
+IFRS / REPORTING
+----------------
+  IFRS 18 moves from introduction to implementation: what businesses should prepare for in 2027 - Banks.am
+     https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSLUV2b1pZSHBlVGRzdXBaZWI2VEQxekhmTVdINjZyRW5lV0lCeEE3UHduYnlSLTB0bE9DZFNmVjliYTQ2WDZvd3NGQzdYbXVX?oc=5
+     Source: News — IFRS Standards
 
 
 OTHER
 -----
-  [OFFICIAL] Ministry of Finance hosts Tax Information Exchange Forum to reinforce compliance with international standards and promote transparency
-     https://mof.gov.ae/en/news/ministry-of-finance-hosts-tax-information-exchange-forum-to-reinforce-compliance-with-international-standards-and-promote-transparency/
+  [OFFICIAL] Mohamed bin Hadi Al Hussaini meets French Ambassador to discuss closer financial cooperation
+     https://mof.gov.ae/en/news/mohamed-bin-hadi-al-hussaini-meets-french-ambassador-to-discuss-closer-financial-cooperation/
      Source: Ministry of Finance — News
 
-  XYRA AI Accredited by the UAE Federal Tax Authority as Tax Accounting Software - EIN News
-     https://news.google.com/rss/articles/CBMivAFBVV95cUxOT2pnMDlHT2V2NzNDTkRobTEtbFBnTWl6XzZUQ0lncDl6LVNudno3WEZYbHB4dU16N1VfUFp5T0NySnNucFhDaG9tWFFfN0FYNFoxeWJ5YjNqazc3cTFEcDQ2dHZ5VHMxZElxMWhDM3NXUnVMcWJQeWVTc0JsU29rTDlPWUlsM0QxcmFTc1Y5b00wREMwREJoSW1zOWZzdWFZOXZKaWY3MV9BekVJVHhITXBnVkl2QmFDVWVibw?oc=5
+  Global Biz UAE Named Rising Partner at RAKEZ Circle Awards - openPR.com
+     https://news.google.com/rss/articles/CBMimgFBVV95cUxQcEtjTWRnSmI5dGlEMHdFeXRlOFNBNFpSV1JnTmVWMXI3T1RmOXlMMlVDVnd1TjJaWE41NGI2MVUtRzBuY3ZDazFYMFQtY1QzRTlacWZmOTJ5eGV4Y09tdDZKcUNKd25aQW1Wa1ZGakVkMDVVZ0JUaE55dWk5cE0yVkN2V1RYMWNrd3M1VDJ3dWYydkltNTh0OEZR?oc=5
      Source: News — UAE Corporate Tax
 
-  Federal Tax Authority receives Global Certification for Institutional Readiness and Agility - Zawya
-     https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRTRBNnFTOWwxSjdjSC1SQ2dCYldqcjA3RWhWc1lJVnVlbGpFT0RERVRpNjlVWlVxOXdYUmdMbmcwY29MUWR2Y0tkdC1sMzNZanZRS0RtZmg1T3g2OGREUGdHRWdiYVpZdHBQc2J3RXVxeDRMeWwzNUZOaW5mMUNuRkc3bnVVU2R1bjhta05tQnlQWS03cjhMSVM1eG92M1FPYnRIYlV4bFlQLW1DQzN3QjRkWmtoZXFHam5fZFRWNnI4Vkp0bUJKRGZlOGZSUUN6NXBVZXpZSkJ4Ull5REE1S3lEckozX0NjZkE?oc=5
-     Source: News — UAE Corporate Tax
+  Round-Tripping Risks in India–UAE Business Structures: FEMA, Tax and Substance Issues - TaxGuru
+     https://news.google.com/rss/articles/CBMinwFBVV95cUxQb3RONENiM2o2Rm1qRlpfOU15M21ENmpqSTVtcnNtVVlYRVpyN0laTUYwUkhEZmI1eGk2b0ZJRjAwNXF2QV9KRjQ1WE5SVzk4aUVtTlBsRXRpLUxFNU84dFpzTnJiTkN6bnBMWWYxU0Z4bDIxbGZjRy1ySUpRWUFtVWFscnY0ejBGR0Jsa3hsYXl4enoyNnp2dUxld3BIUk0?oc=5
+     Source: News — UAE Transfer Pricing
 
-  IMF sees the economy growing this year, upgrading its previous forecast of a contraction - EnterpriseAM
-     https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOFN1UjJsSmZuSVkyNDZjeUY1ZUYxcG0wekdVdnE4SWdCUHg2c1k5VFZSVjV4OXYwcER5M2tGUnJNWUplVlg5eE11UHFNbjhMdE1iMl9DUkMyaUJENm5rcEt1UkQ4bnVfMWFWQXVvRWFjYnNnSVFkWGxiZkliUFAtTWdZR1l3MGtJTDJqSGpPeDBaSjluNmpjNmxCUFlTOFRkRzk2SDdZTnhOQU9xbUZSNml1TmVGcmhsWlhlTWFYWFladw?oc=5
+  Gulf bankers expect bonds in January and IPOs from spring 2027, if the region stays calm - EnterpriseAM
+     https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM2tHaWZ3enltSU9VanQzbXdLbGYtRkxPRUh0djUxREpqYnphaWppTXdRVXppanlSZ2c5RFVqVEN5OEpJeG15NDhJTlpRXy1IXzRqaFVmdDQ1eDU2c1FEZE42SS1KZkxaVVVKN1lSTlFJTlRTSF94U0p1VFV4aVRCQ0JPbHdzQVNWS0pWTzRSSVpPTjNPbHU1Nl83TFdtSjFmZU1GUWxGaVlnNEJydWlvRWZXcTFnWjRvN2czbmx3T3ljdw?oc=5
      Source: News — UAE E-Invoicing
 
-  Buybacks, buyouts, and an IPO drought are shrinking the UAE’s freefloat - EnterpriseAM
-     https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa05sbUp3ZmVuR290Qk52cmVyMVh0TE1PdEt1cmM4ZWR5OTZLa05pa3JId2UzeWROcGJtZVpSZ19GN2l0N3B1QmI2ZXZlRml2UF85a09NVTUweUU0Z2cxOUFXdHhlallINnp5OHlXWmxTQUJKVjB5YzNjMUp6MEsyUUdoWWVISGdHNUlFWEl5WWMzU2JjZnE4dUpXTXhsUVEwMWlhSnRxSkU?oc=5
-     Source: News — UAE E-Invoicing
-
-  MS advises investors to settle ADGM SPV structures ahead of 2026 tax year-end - Khaleej Times
-     https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUl9wMWFmWTJZVHJGSENlVGJCZHJMRVAtMndQdmNla0xLaUFERl9UaDJsR2tQcTVoLVhIRnFRMVJjN1RBV0FHaGpndkhXR1EtTHcwLXFrSEVmZ041dDJLa2xzMGNsbi1jX2JTQ1BQMG1YN1hacllHWEdBX0pvcHFGQ29GMUhLYTNVVUVpQUZYcWNrQ1d3S0ZaTWJmb2pQLXI4VEwtbk9QVVNwUDNYZWJ3Q2R3Wm9yejd2dVJGZE1pNlfSAcABQVVfeXFMT1JfcDFhZlkyWVRyRkhDZVRiQmRyTEVQLTJ3UHZjZWtMS2lBREZfVGgybEdrUHE1aC1YSEZxUTFSYzdUQVdBR2hqZ3ZIV0dRLUx3MC1xa0hFZmdONXQyS2tsczBjbG4tY19iU0NQUDBtWDdYWnJZR1hHQV9Kb3BxRkNvRjFIS2EzVVVFaUFGWHFja0NXd0tGWk1iZm9qUC1yOFRMLW5PUFVTcFAzWGVid0Nkd1pvcno3dnVSRmRNaTZX?oc=5
-     Source: News — FTA Announcements
+  KPMG strengthens Middle East partner team with four appointments - Consultancy-me.com
+     https://news.google.com/rss/articles/CBMirwFBVV95cUxQQzV5MTE3cExybEdtS3Y1blFxb1h3RlZOTUxhY0lrNG1YdDNTYVVnWkJlb3dxMGJTVzl2bkJxZDB0MEhsUXNVRmg2UHR6R0syN1NVZkpualkyeDYzZkJaMnVfTFAxUmJWdlhTZ2tER3ZOMGNpRnR1NEtrNmhiWThvOXBFTVpBWUVSd0puVWdxWUNyMkZmZ0w4Qzh1cnA0WXFiMmI3Um5Ob05jdHZ6QUhn0gGvAUFVX3lxTFBDNXkxMTdwTHJsR21LdjVuUXFvWHdGVk5NTGFjSWs0bVh0M1NhVWdaQmVvd3EwYlNXOXZuQnFkMHQwSGxRc1VGaDZQdHpHSzI3U1VmSm5qWTJ4NjNmQloydV9MUDFSYlZ2WFNna0RHdk4wY2lGdHU0S2s2aGJZOG85cEVNWkFZRVJ3Sm5VZ3FZQ3IyRmZnTDhDOHVycDRZcWIyYjdSbk5vTmN0dnpBSGc?oc=5
+     Source: News — Big 4 UAE Tax Commentary
 
 
 --------------------------------------------------------------
