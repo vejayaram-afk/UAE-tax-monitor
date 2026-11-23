@@ -1,6 +1,329 @@
 {
-  "generated": "2026-11-20T14:57:39.257580+00:00",
+  "generated": "2026-11-23T17:29:27.768647+00:00",
   "items": [
+    {
+      "id": "781f758afe2f833c",
+      "title_key": "dc44a4a61f0b155b",
+      "title": "Running a Dubai company from London: IFZA setup, visas and the 183-day question - London Business News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM1ZTWW93elhqejlyYXlubTFLLWZHYWx4NFBqd3RZdUtZdVVNNlh0blpkTGxmcUZFdl9PNEtWdzNKb0NVb3JUNl9JaVduU3owSGZDRWFSRmtnMllZRHJrbWQyRkpfS0xfcTVkdWdDa1RsSFBsVXlkVS1vTUZQS1pIdTBfb2JYMEdzVFF6TzBRaVBYRTEweUF5MHBCZDZzUU1aaFNjWUpQV2hoRmNESks0?oc=5",
+      "summary": "Running a Dubai company from London: IFZA setup, visas and the 183-day question London Business News",
+      "source": "News — FTA Announcements",
+      "authority": "news",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-11-23T13:12:07+00:00",
+      "first_seen": "2026-11-23T17:29:24.404381+00:00",
+      "last_seen": "2026-11-23T17:29:24.404383+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "b48427d244742b00",
+      "title_key": "f41c59c52f92bd72",
+      "title": "UAE eases tax invoice rules for vending machine sales - Vending Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX1BxTnUyV2lDRExOMFhRVGR0bnZELXN0TURFMnl2c0ZzdDZ6TDdVSElsX2o4RFRscGhwQmhtWUVVZUdGRW8yaWM3QUhCXzZmQnA1OUNlQm5lLUM4WS1TZDF0NHFRRE9RVnpuS082dkJneWN6bVg2ZG9adkJZaUJVNExyZjJKYlVydGdVcDJ0LVB1UQ?oc=5",
+      "summary": "UAE eases tax invoice rules for vending machine sales Vending Times",
+      "source": "News — UAE VAT",
+      "authority": "news",
+      "categories": [
+        "VAT"
+      ],
+      "published": "2026-11-23T11:00:00+00:00",
+      "first_seen": "2026-11-23T17:29:16.803001+00:00",
+      "last_seen": "2026-11-23T17:29:16.803008+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "825423a22c230dd7",
+      "title_key": "6ed3249d22533d9f",
+      "title": "What global businesses need to get right in the UAE in 2027 - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYWJvbXJrYnNtWnZTSjNnSDFMY20zXy03eVh6cmVac19fTXhCQ2JBelBOQ2tBejFRMkxGcmExN0lKT21XbzV4QWl4WW85S29PMy1MN3QzYzl0Q25GN0Y2TW1LNzRxa21kRXROZWdJUmdoZTNyVzRKbF9NTE9QQUhpUmNCYWQtVFg0LWs1ODBmTW9nY2VmWWlGR1U3ekJabUhQanJSWUdoeVVOblQ0bGRoZEVGVkRKZkVQaEE3eWJmc3Q2Z9IBwgFBVV95cUxNYWJvbXJrYnNtWnZTSjNnSDFMY20zXy03eVh6cmVac19fTXhCQ2JBelBOQ2tBejFRMkxGcmExN0lKT21XbzV4QWl4WW85S29PMy1MN3QzYzl0Q25GN0Y2TW1LNzRxa21kRXROZWdJUmdoZTNyVzRKbF9NTE9QQUhpUmNCYWQtVFg0LWs1ODBmTW9nY2VmWWlGR1U3ekJabUhQanJSWUdoeVVOblQ0bGRoZEVGVkRKZkVQaEE3eWJmc3Q2Zw?oc=5",
+      "summary": "What global businesses need to get right in the UAE in 2027 Gulf News",
+      "source": "News — UAE E-Invoicing",
+      "authority": "news",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-11-23T09:53:28+00:00",
+      "first_seen": "2026-11-23T17:29:20.630772+00:00",
+      "last_seen": "2026-11-23T17:29:20.630774+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "fdc5d4fc0532172f",
+      "title_key": "f090d9886526da56",
+      "title": "UK E-Invoicing: What the Budget 2026 Roadmap Means for Your Business - Alvarez & Marsal",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSEVBMHZrUnBBUDl1bE1RRC1nVnNUTTdNTU9BRUV2UEg1MW90UjVGTXBiOGdzajZoNXZ2Y0UxdHlOcVVDcGZTZ3JUdEs1X3JfLUNOai1Va2pXWWZ0Umdia3kwc3JpdFpGenY5bjR2LWw5RlFGUEF6OU9Zc2VmNmNZdWw0dEVWYzI4a1B5MnJwV1pBNmd4cXQzMW9xb3h6SEZLaVNBVHV0Vlp0eE5kSURRZVU1QXU3UllYTU1r?oc=5",
+      "summary": "UK E-Invoicing: What the Budget 2026 Roadmap Means for Your Business Alvarez & Marsal",
+      "source": "News — UAE E-Invoicing",
+      "authority": "news",
+      "categories": [
+        "E-Invoicing"
+      ],
+      "published": "2026-11-23T09:00:00+00:00",
+      "first_seen": "2026-11-23T17:29:20.630640+00:00",
+      "last_seen": "2026-11-23T17:29:24.404305+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "ddab45b5431c438e",
+      "title_key": "7744dfb41732c515",
+      "title": "Set Up a Foreign Subsidiary in the UAE in 2026: Entity, Licence and Control Guide - Global Advisory Experts",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObjJjUlRIY0d2ZWgyRk9pTGEwanp5Y25LcFVLTnZzRmhacm1RS3NTektxeG44Y05fUlBqWXFkSlY3Ql9lUDk1QUxxczJ4ZnE3eFlJM05KV25KNlNXVHpOOXFsNTh6em9xanFtM0Q0aUdGWDcxQUM3WUxYbGZuSGt4bjJLMXdvUQ?oc=5",
+      "summary": "Set Up a Foreign Subsidiary in the UAE in 2026: Entity, Licence and Control Guide Global Advisory Experts",
+      "source": "News — FTA Announcements",
+      "authority": "news",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-11-23T08:57:44+00:00",
+      "first_seen": "2026-11-23T17:29:24.404347+00:00",
+      "last_seen": "2026-11-23T17:29:24.404348+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "353da310d9b2ccb5",
+      "title_key": "04cb02226ddfdef3",
+      "title": "Setting Up Sports Company UAE: 2026 Guide - Global Advisory Experts",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PeVdQcVlSN05PYWlOdmgzUEtrM0RFTExZaEk1d3o4UDFKVFZPbF9RdlBlMDd1ZUR0TWhYanZEVlBUa1JvY1Z3QzJRTGF6SF9WY1dKS3NMT0Y0b0lBdzZlQkhjbjBWUU56LWk2bkJCSXh6bnhVaUFUSm02eTJVR0U?oc=5",
+      "summary": "Setting Up Sports Company UAE: 2026 Guide Global Advisory Experts",
+      "source": "News — FTA Announcements",
+      "authority": "news",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-11-23T08:37:44+00:00",
+      "first_seen": "2026-11-23T17:29:24.404440+00:00",
+      "last_seen": "2026-11-23T17:29:24.404442+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "5ee2d66dc8d2e69b",
+      "title_key": "7cbbca88f81ea8e5",
+      "title": "How to Comply with UAE Tax Procedures 2026 - Global Advisory Experts",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTmdoc3RUMmNvd19yN19DZkhXRHNvdUZydzBiR01qdDNWV0hPM1VJa21nYlJyZ0JaMDFoTEQ1bmo1VEpUcEdMcU4xRzFDeG81RklOSTRqS2tQV0xMZEtiM2dQalN1Q1dxQThIZGViWmZBYjVaYlRqdzNDZ04ySkJpWnpxNXdma05WclNoSVFMbkJGQ09acS0xX3IzVQ?oc=5",
+      "summary": "How to Comply with UAE Tax Procedures 2026 Global Advisory Experts",
+      "source": "News — UAE Corporate Tax",
+      "authority": "news",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-11-23T06:17:41+00:00",
+      "first_seen": "2026-11-23T17:29:14.912219+00:00",
+      "last_seen": "2026-11-23T17:29:26.261473+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "1f9173687a2a8573",
+      "title_key": "b43e2e250f02d8dc",
+      "title": "Accounting Records UAE: What FTA Decision No.4 (2026) Means for Your Business - Global Advisory Experts",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcnFWVGhhbzZjTlhCLWFjTXlWRVJtTzJfYVRweEVSZnE5RW1oRmlwN0JDQ0hXM3psa19aVFNlZU53OTZKY25WTDlMUTBmV1p2UFB0cVNlSkc0OWplUUo4Mkl5RDNDZjhxaVVnWUNwQUNLOTBtaEVnbVFNVm83UVlyQmR4OEhVU3dHSW9oNA?oc=5",
+      "summary": "Accounting Records UAE: What FTA Decision No.4 (2026) Means for Your Business Global Advisory Experts",
+      "source": "News — UAE Corporate Tax",
+      "authority": "news",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-11-23T01:27:39+00:00",
+      "first_seen": "2026-11-23T17:29:14.912262+00:00",
+      "last_seen": "2026-11-23T17:29:24.404280+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "37d16d62202137a0",
+      "title_key": "e9b9fbc1ea2c5afb",
+      "title": "Choosing a digital nomad visa uae route in 2026 - Global Advisory Experts",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVGNGd3BFVDl3bWExdnBqRzZzSFp0QW1VdzU1S09uckt0MkdVdzhoU2lhOVZsS3RJbnZnZTEzSk9zcjlyVUxrN3F5TFo4SkNiRWxGSjBZUC02WU9ENE9Ob3FMUEF2N21XWVBYVzdBQTFicGVwY0piaVBqcXBDaGdwTTVwd2dDaHY2WG5vMg?oc=5",
+      "summary": "Choosing a digital nomad visa uae route in 2026 Global Advisory Experts",
+      "source": "News — FTA Announcements",
+      "authority": "news",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-11-23T00:22:39+00:00",
+      "first_seen": "2026-11-23T17:29:24.404416+00:00",
+      "last_seen": "2026-11-23T17:29:24.404418+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "22b768de6ad1ea39",
+      "title_key": "6c67b79c5fb75b9c",
+      "title": "Jordan's InvoiceQ raises $5M to grow e-invoicing across 8 Arab markets - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWXQxMko0TGFZdWNXMzNzdE83ODBHZmVucnlpOHM1X0xhSWhaMVg1MUpDSDZVa01CYmxESXNPdUpkZjZ0Y3NVOFBqSnp3LUI5VnppRG5RTlJsMjd6VFJtR0V2TU95TmNOWkhvSWgzc2Mtc0hBUUY1WFFGQ1JXQUFaTC16UloxSnZYakRwSHpXSzRhczNmTVR4WjZjV0s4VENoMnlScDFB?oc=5",
+      "summary": "Jordan's InvoiceQ raises $5M to grow e-invoicing across 8 Arab markets Dealroom",
+      "source": "News — UAE E-Invoicing",
+      "authority": "news",
+      "categories": [
+        "E-Invoicing"
+      ],
+      "published": "2026-11-22T17:30:11+00:00",
+      "first_seen": "2026-11-23T17:29:20.630713+00:00",
+      "last_seen": "2026-11-23T17:29:20.630715+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "9be567d3f9b1f26a",
+      "title_key": "6e40f3744be56a87",
+      "title": "Bonus and LTIP Target Setting Toolkit for 2027 - Alvarez & Marsal",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzhnRjRfbkpDeHVZbXdHR0xuODA2aGhRdC1PUUpWdnRvang2YnJZbWRLb1lOcEZZUzBKeUpQdFhna1dOQlNUSmwyeDhqdzVsVjk5dHROYkdvelU2VTZBYjFiVjhkNlRTOXJoYkNVRmUwX2s1R2JReTAzUjZtclV3UWd1V3YwZ21ZQlFlMVV2TVlBc19kWk81QkRfbF94d0k?oc=5",
+      "summary": "Bonus and LTIP Target Setting Toolkit for 2027 Alvarez & Marsal",
+      "source": "News — UAE VAT",
+      "authority": "news",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-11-22T10:58:46+00:00",
+      "first_seen": "2026-11-23T17:29:16.803056+00:00",
+      "last_seen": "2026-11-23T17:29:24.404272+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "85f42a38dbb04f3c",
+      "title_key": "6f01a3aca488153d",
+      "title": "Where to Base a UAE Holding or Finance Vehicle in 2026: DIFC, ADGM or Onshore - Global Advisory Experts",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQlZPTEo2MlVNQW1sMnNUWlVfeng2TmpLcmxsRWUxeVJQUExWcnVoRktKeVJmOTl5VWFXYnJQMkUyeVJKZmhXV2l4TTJ5Rk04aEJKOTAyYUdoVk9Ld2pqTFVlX3NMcmp6MnhjbGIxOGsxMk1Zd052ekkzclI5TWFYU1B4RkdqMTdTc3c?oc=5",
+      "summary": "Where to Base a UAE Holding or Finance Vehicle in 2026: DIFC, ADGM or Onshore Global Advisory Experts",
+      "source": "News — UAE Corporate Tax",
+      "authority": "news",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-11-22T08:47:35+00:00",
+      "first_seen": "2026-11-23T17:29:14.912297+00:00",
+      "last_seen": "2026-11-23T17:29:24.404395+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "b2b8b63196fc0e4d",
+      "title_key": "5262a158373efd48",
+      "title": "UAE waives tax invoice requirement for vending machine sales under new directive - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUU1SWUNkbkRRcDQ3Q3h5QWg0c05GTExhWktpSWtVTF9rN05fdk9YYUp0V2pHVlZHNHZEb3JNN0FpVEYyVW9DVjFYS0dQZ2wyNWltbERDTjhTM1RYWnVOcklRT1FBNGRKdThFVTd0M2paTElWbkVMM3otZ0pfS1ozYnBXakpvOTBLTHFRTUFsai1TYmlYZ292TDJFVVdYMTZiMzZ5RzV6Rnl0azlmeWt6M045bUh6ZW14Tk1PVzdka9IBzwFBVV95cUxQRVAzdmdoRk1UUHR5UkRISEo2TF9veU5PV1dRWWhRQmZYR052RlliX0FsSVBIOVE5ME5XQUQwSVdoemd4eGg3TEZTZ3JwcFFYdW5icnI0SndXLUJrZTRiUjdVY18zR25zSm5tc2FoYVpyU1lyaGpFZDhpSWZ5M25feDd0dUlRNlZsWFRsQjI1MFB6Rlc5Qk8tWUJOWktvMzhweTZFTFU2emV0ZTlaSnZsZGg5UVFYb1dUNU1aX2E1ay04d0RGOFhEY183YU5wODA?oc=5",
+      "summary": "UAE waives tax invoice requirement for vending machine sales under new directive Gulf News",
+      "source": "News — UAE Corporate Tax",
+      "authority": "news",
+      "categories": [
+        "VAT"
+      ],
+      "published": "2026-11-21T07:00:19+00:00",
+      "first_seen": "2026-11-23T17:29:14.912351+00:00",
+      "last_seen": "2026-11-23T17:29:16.803080+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "780247b22fe711e1",
+      "title_key": "56e72b3f11cbafe6",
+      "title": "Thinking About Dubai? What American Founders Need to Know - South Florida Reporter",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVjVGNHM1V29va1UtVS1DOFJqdkJfQWdzbEQzd1JtS0FoUmFlZ3lLR3V4QzlRVEduU0FETmw1NWdDZDdRSTYzdVlYOEV3TXl6S0djeHltTzNSNm9WOHUtVkhwZURBY0FidFMxY0ZHcWowaHpwazl0blpKSE1IOFA4WDE3cy0zR0V4alBxNmtRMHg2eFMy?oc=5",
+      "summary": "Thinking About Dubai? What American Founders Need to Know South Florida Reporter",
+      "source": "News — FTA Announcements",
+      "authority": "news",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-11-21T06:05:34+00:00",
+      "first_seen": "2026-11-23T17:29:24.404465+00:00",
+      "last_seen": "2026-11-23T17:29:24.404467+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "0d3f2a0fb2b1c739",
+      "title_key": "95b4bf67235bc2e8",
+      "title": "Saudi Arabia to introduce 15% minimum tax on multinational companies from 2027 - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUS1wbjFtQjdNeXRybWJiTFZod05aSVY2QWd6c0VVcHBlU3JVUmxhMFdheW1KNUlITnN0LS1HSy1UQ0k2a0FNLV9CLVRwTTdhT1ZaODdvWTlhY2dEOWdWSVVoUjhzS1BGQUN5WWw1ZmtsY3VWbGQzdnVzRE0wMUpqRzdXTm9IdTd6c1dCV2w0Z3F4WUhWMFBFYTdXUzloXzdVdFhrYlZ3RHFSOGtkV0pPdjJEMVhiUkhNckFzY3A0cmwyTTB4STFj0gHaAUFVX3lxTE1XRm94NmI0ZHdQNlhuNVpiUk9xLWdPUFZHdllndXoweC1lWHB2RU02Q1lLRV9tdnhHSkg1ekFlajczX1NXR0dELUg0WGhUREE5YTZsM0FJZTUySkZJQVgxVzAwWGNiSUVBN3B4cU5iX3pIN2h0TGxlbFF0MHpQUDFUcGxXTU85NHRtVDc1UmcyQjYzQWRkVHBIUkdzVGFhSEM1S0g5LUVJNjFOeWRNc0MtMjRPb0hlbUFWQmFSakU3WGdoOUhlSTlXR1Z3aGVGOU1jLXdvb2lKUHZn?oc=5",
+      "summary": "Saudi Arabia to introduce 15% minimum tax on multinational companies from 2027 Gulf News",
+      "source": "News — UAE Corporate Tax",
+      "authority": "news",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-11-21T01:30:00+00:00",
+      "first_seen": "2026-11-23T17:29:14.912324+00:00",
+      "last_seen": "2026-11-23T17:29:24.404301+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "fc28bfc9af3f951e",
+      "title_key": "a48e5260d46c920f",
+      "title": "Spain Publishes Draft Rules for B2B E-Invoices and Payment Reporting - sharedserviceslink",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcjRnVlB3UnIzaWlRLW4tVzRTOXFGRGNfSDF1Y2huSVhuWXNNZXBGM0gtTm10NjgyaHIydW0xZExrYUdQVUdScV9FajdGT3lhcVlFMVBNX3QySUN2RWtSbjBtcnZzN2lySUh5RDZtVjUtamdoWlZpQTNLRmxFSHVCQ01aTWJCbjd2TFlRckpQa3czS1JlS3NVdFE0U0gxWUpXQUVUaERvWQ?oc=5",
+      "summary": "Spain Publishes Draft Rules for B2B E-Invoices and Payment Reporting sharedserviceslink",
+      "source": "News — UAE E-Invoicing",
+      "authority": "news",
+      "categories": [
+        "E-Invoicing"
+      ],
+      "published": "2026-11-20T15:26:53+00:00",
+      "first_seen": "2026-11-23T17:29:20.630741+00:00",
+      "last_seen": "2026-11-23T17:29:20.630742+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "dcec460b30f9e674",
+      "title_key": "c63b254f0df8f291",
+      "title": "UAE FDI Story 2027: Incentive Design to Implementation Discipline - ICLG",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSXZzQkJGUm5oYm5rUmJrb3AyV0lRWF9zVjVyclRVeTNwVGdRQ0Z4eDd5ZHV2TC0zWk9qeTdGcE1SM3ZTeGQzZDlVN0I4ZzBfZWlWRWJUSGZVNk9wRGgyWTI0dkI4c3Y4dmk0UGpLakd4SWFtTVBxejZiZjZPcFZxSS1wa1lxWWROcGVpTVRibUQ0QzM0Y3JkUk5hc1Fwano5SUhQYnlmVGl2cThDTjdtZTA1bnRIeVFrZ195RU9kYnY1eXctVDRoZWI3MUR0OHY0ZENReFd6RWRub1BvblpRZFE3QmpVQUJLa1p0SXo4c1A2ZnNPMUs2TDZLNlI?oc=5",
+      "summary": "UAE FDI Story 2027: Incentive Design to Implementation Discipline ICLG",
+      "source": "News — UAE Corporate Tax",
+      "authority": "news",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-11-20T15:21:17+00:00",
+      "first_seen": "2026-11-23T17:29:14.912176+00:00",
+      "last_seen": "2026-11-23T17:29:26.261468+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
     {
       "id": "d859b903b4a7652c",
       "title_key": "9ddeaf99a47e0553",
@@ -14,7 +337,7 @@
       ],
       "published": null,
       "first_seen": "2026-11-20T14:57:15.035443+00:00",
-      "last_seen": "2026-11-20T14:57:15.035466+00:00",
+      "last_seen": "2026-11-23T17:29:02.925673+00:00",
       "domain": "mof.gov.ae",
       "read": false,
       "actioned": false,
@@ -33,7 +356,7 @@
       ],
       "published": "2026-11-20T11:32:48+00:00",
       "first_seen": "2026-11-20T14:57:27.177890+00:00",
-      "last_seen": "2026-11-20T14:57:36.009791+00:00",
+      "last_seen": "2026-11-23T17:29:24.404391+00:00",
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
@@ -71,7 +394,7 @@
       ],
       "published": "2026-11-20T09:24:10+00:00",
       "first_seen": "2026-11-20T14:57:37.749517+00:00",
-      "last_seen": "2026-11-20T14:57:37.749524+00:00",
+      "last_seen": "2026-11-23T17:29:26.261477+00:00",
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
@@ -90,7 +413,7 @@
       ],
       "published": "2026-11-20T08:06:52+00:00",
       "first_seen": "2026-11-20T14:57:32.526875+00:00",
-      "last_seen": "2026-11-20T14:57:32.526877+00:00",
+      "last_seen": "2026-11-23T17:29:20.630785+00:00",
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
@@ -109,7 +432,26 @@
       ],
       "published": "2026-11-20T06:05:14+00:00",
       "first_seen": "2026-11-20T14:57:34.284938+00:00",
-      "last_seen": "2026-11-20T14:57:34.284941+00:00",
+      "last_seen": "2026-11-23T17:29:22.520842+00:00",
+      "domain": "news.google.com",
+      "read": false,
+      "actioned": false,
+      "is_new": true
+    },
+    {
+      "id": "fe6d8569d7d5e50a",
+      "title_key": "739d1ca9d4f011e6",
+      "title": "Foodlink F&B Holdings IPO RHP Analysis: Business, Financials, Valuation, Risks and Offer Details - Multibagg AI",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUWUtYUktNTAtOTRROTVGLVF3cngzS0h0bTY2b2xhZW1DN285UHp6TUdXdTI4MTI0Qmo0NnFwZDlXYXpWN0JTTE1jamtYRExPQ3hWTG1GLTk5ZXhpaVlvLWJNMHp1ME5VTHh5Qm9wREdUMnNwVEk2SVB1eVpPX0RKejV4a3U1SDU3SGNUekh6UzM0aGFtMU00TzBNbjkzWVNFQU0zUlUyUmtBV3JFR3IxM0laMDAxVnNjV3R2SQ?oc=5",
+      "summary": "Foodlink F&B Holdings IPO RHP Analysis: Business, Financials, Valuation, Risks and Offer Details Multibagg AI",
+      "source": "News — UAE Transfer Pricing",
+      "authority": "news",
+      "categories": [
+        "Other"
+      ],
+      "published": "2026-11-20T05:15:18+00:00",
+      "first_seen": "2026-11-23T17:29:18.690572+00:00",
+      "last_seen": "2026-11-23T17:29:18.690574+00:00",
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
@@ -147,7 +489,7 @@
       ],
       "published": "2026-11-20T00:48:00+00:00",
       "first_seen": "2026-11-20T14:57:28.962480+00:00",
-      "last_seen": "2026-11-20T14:57:28.962482+00:00",
+      "last_seen": "2026-11-23T17:29:16.803075+00:00",
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
@@ -166,7 +508,7 @@
       ],
       "published": null,
       "first_seen": "2026-11-19T15:19:30.739389+00:00",
-      "last_seen": "2026-11-20T14:57:15.035490+00:00",
+      "last_seen": "2026-11-23T17:29:02.925702+00:00",
       "domain": "mof.gov.ae",
       "read": false,
       "actioned": false,
@@ -185,7 +527,7 @@
       ],
       "published": null,
       "first_seen": "2026-11-19T15:19:30.739335+00:00",
-      "last_seen": "2026-11-20T14:57:15.035484+00:00",
+      "last_seen": "2026-11-23T17:29:02.925698+00:00",
       "domain": "mof.gov.ae",
       "read": false,
       "actioned": false,
@@ -242,7 +584,7 @@
       ],
       "published": "2026-11-19T04:19:34+00:00",
       "first_seen": "2026-11-20T14:57:30.706668+00:00",
-      "last_seen": "2026-11-20T14:57:30.706670+00:00",
+      "last_seen": "2026-11-23T17:29:18.690533+00:00",
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
@@ -280,7 +622,7 @@
       ],
       "published": "2026-11-18T21:29:16+00:00",
       "first_seen": "2026-11-19T15:19:46.015782+00:00",
-      "last_seen": "2026-11-20T14:57:32.526784+00:00",
+      "last_seen": "2026-11-23T17:29:20.630780+00:00",
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
@@ -318,7 +660,7 @@
       ],
       "published": "2026-11-18T15:03:54+00:00",
       "first_seen": "2026-11-18T15:11:18.490982+00:00",
-      "last_seen": "2026-11-20T14:57:36.009786+00:00",
+      "last_seen": "2026-11-23T17:29:24.404309+00:00",
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
@@ -356,7 +698,7 @@
       ],
       "published": "2026-11-18T13:26:10+00:00",
       "first_seen": "2026-11-18T15:11:13.152508+00:00",
-      "last_seen": "2026-11-19T15:19:44.220014+00:00",
+      "last_seen": "2026-11-23T17:29:18.690525+00:00",
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
@@ -413,7 +755,7 @@
       ],
       "published": "2026-11-17T13:15:00+00:00",
       "first_seen": "2026-11-17T15:32:58.935172+00:00",
-      "last_seen": "2026-11-20T14:57:32.526779+00:00",
+      "last_seen": "2026-11-23T17:29:20.630749+00:00",
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
@@ -451,7 +793,7 @@
       ],
       "published": "2026-11-17T10:59:00+00:00",
       "first_seen": "2026-11-17T15:33:02.544204+00:00",
-      "last_seen": "2026-11-20T14:57:30.706681+00:00",
+      "last_seen": "2026-11-23T17:29:18.690591+00:00",
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
@@ -470,7 +812,7 @@
       ],
       "published": "2026-11-17T10:55:57+00:00",
       "first_seen": "2026-11-17T15:33:00.762998+00:00",
-      "last_seen": "2026-11-20T14:57:36.009781+00:00",
+      "last_seen": "2026-11-23T17:29:24.404293+00:00",
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
@@ -489,7 +831,7 @@
       ],
       "published": "2026-11-17T08:31:25+00:00",
       "first_seen": "2026-11-20T14:57:27.177838+00:00",
-      "last_seen": "2026-11-20T14:57:36.009777+00:00",
+      "last_seen": "2026-11-23T17:29:24.404284+00:00",
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
@@ -550,7 +892,7 @@
       "domain": "mof.gov.ae",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "2e2840e610dc0403",
@@ -569,7 +911,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "6e3f947faf3638d4",
@@ -588,7 +930,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "205ccde0f1a643ea",
@@ -626,7 +968,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3d67bea3b0485b67",
@@ -683,7 +1025,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "19670ffa5974ad68",
@@ -702,7 +1044,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "d7267628d48d6c2d",
@@ -721,7 +1063,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "75ae9336334d714c",
@@ -778,7 +1120,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "9edaebbbfff5a015",
@@ -894,7 +1236,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "4e6c9f752b936dea",
@@ -951,7 +1293,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "319d2765ddb7cb8d",
@@ -1004,7 +1346,7 @@
       ],
       "published": "2026-11-11T05:51:55+00:00",
       "first_seen": "2026-11-11T13:38:26.071323+00:00",
-      "last_seen": "2026-11-17T15:33:09.744252+00:00",
+      "last_seen": "2026-11-23T17:29:26.261457+00:00",
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
@@ -1027,7 +1369,7 @@
       "domain": "news.google.com",
       "read": false,
       "actioned": false,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "62d617647d3a981e",
