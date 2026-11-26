@@ -2753,7 +2753,7 @@
     ],
     "published": "2026-11-03T08:00:00+00:00",
     "first_seen": "2026-11-06T13:48:29.946194+00:00",
-    "last_seen": "2026-11-09T15:18:40.655064+00:00",
+    "last_seen": "2026-11-26T16:28:37.159637+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -3168,7 +3168,7 @@
     ],
     "published": "2026-11-11T05:51:55+00:00",
     "first_seen": "2026-11-11T13:38:26.071323+00:00",
-    "last_seen": "2026-11-25T16:51:50.700531+00:00",
+    "last_seen": "2026-11-26T16:28:37.159643+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -3421,7 +3421,7 @@
     ],
     "published": "2026-11-12T14:59:13+00:00",
     "first_seen": "2026-11-16T14:54:30.171985+00:00",
-    "last_seen": "2026-11-16T14:54:30.171986+00:00",
+    "last_seen": "2026-11-26T16:28:31.830869+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -3691,7 +3691,7 @@
     ],
     "published": null,
     "first_seen": "2026-11-19T15:19:30.739335+00:00",
-    "last_seen": "2026-11-25T16:51:28.617367+00:00",
+    "last_seen": "2026-11-26T16:28:15.145194+00:00",
     "domain": "mof.gov.ae",
     "read": false,
     "actioned": false
@@ -3709,7 +3709,7 @@
     ],
     "published": null,
     "first_seen": "2026-11-19T15:19:30.739389+00:00",
-    "last_seen": "2026-11-25T16:51:28.617372+00:00",
+    "last_seen": "2026-11-26T16:28:15.145197+00:00",
     "domain": "mof.gov.ae",
     "read": false,
     "actioned": false
@@ -3871,7 +3871,7 @@
     ],
     "published": null,
     "first_seen": "2026-11-20T14:57:15.035443+00:00",
-    "last_seen": "2026-11-25T16:51:28.617344+00:00",
+    "last_seen": "2026-11-26T16:28:15.145174+00:00",
     "domain": "mof.gov.ae",
     "read": false,
     "actioned": false
@@ -3907,7 +3907,7 @@
     ],
     "published": "2026-11-20T11:32:48+00:00",
     "first_seen": "2026-11-20T14:57:27.177890+00:00",
-    "last_seen": "2026-11-25T16:51:41.771664+00:00",
+    "last_seen": "2026-11-26T16:28:28.250057+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -3943,7 +3943,7 @@
     ],
     "published": "2026-11-20T00:48:00+00:00",
     "first_seen": "2026-11-20T14:57:28.962480+00:00",
-    "last_seen": "2026-11-25T16:51:41.771604+00:00",
+    "last_seen": "2026-11-26T16:28:28.250047+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4015,7 +4015,7 @@
     ],
     "published": "2026-11-20T06:05:14+00:00",
     "first_seen": "2026-11-20T14:57:34.284938+00:00",
-    "last_seen": "2026-11-25T16:51:47.203722+00:00",
+    "last_seen": "2026-11-26T16:28:33.585289+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4051,7 +4051,7 @@
     ],
     "published": "2026-11-20T15:21:17+00:00",
     "first_seen": "2026-11-23T17:29:14.912176+00:00",
-    "last_seen": "2026-11-25T16:51:50.700541+00:00",
+    "last_seen": "2026-11-26T16:28:37.159647+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4123,7 +4123,7 @@
     ],
     "published": "2026-11-21T01:30:00+00:00",
     "first_seen": "2026-11-23T17:29:14.912324+00:00",
-    "last_seen": "2026-11-25T16:51:48.957415+00:00",
+    "last_seen": "2026-11-26T16:28:35.370197+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4141,7 +4141,7 @@
     ],
     "published": "2026-11-21T07:00:19+00:00",
     "first_seen": "2026-11-23T17:29:14.912351+00:00",
-    "last_seen": "2026-11-25T16:51:41.771609+00:00",
+    "last_seen": "2026-11-26T16:28:28.250049+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4159,7 +4159,7 @@
     ],
     "published": "2026-11-23T11:00:00+00:00",
     "first_seen": "2026-11-23T17:29:16.803001+00:00",
-    "last_seen": "2026-11-25T16:51:41.771584+00:00",
+    "last_seen": "2026-11-26T16:28:28.250038+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4213,7 +4213,7 @@
     ],
     "published": "2026-11-23T09:00:00+00:00",
     "first_seen": "2026-11-23T17:29:20.630640+00:00",
-    "last_seen": "2026-11-25T16:51:45.478625+00:00",
+    "last_seen": "2026-11-26T16:28:31.830856+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4231,7 +4231,7 @@
     ],
     "published": "2026-11-22T17:30:11+00:00",
     "first_seen": "2026-11-23T17:29:20.630713+00:00",
-    "last_seen": "2026-11-25T16:51:45.478634+00:00",
+    "last_seen": "2026-11-26T16:28:31.830862+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4249,7 +4249,7 @@
     ],
     "published": "2026-11-20T15:26:53+00:00",
     "first_seen": "2026-11-23T17:29:20.630741+00:00",
-    "last_seen": "2026-11-25T16:51:45.478639+00:00",
+    "last_seen": "2026-11-26T16:28:31.830865+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4267,7 +4267,7 @@
     ],
     "published": "2026-11-23T09:53:28+00:00",
     "first_seen": "2026-11-23T17:29:20.630772+00:00",
-    "last_seen": "2026-11-25T16:51:45.478738+00:00",
+    "last_seen": "2026-11-26T16:28:31.830872+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4429,7 +4429,7 @@
     ],
     "published": "2026-11-22T01:12:32+00:00",
     "first_seen": "2026-11-24T17:00:47.307927+00:00",
-    "last_seen": "2026-11-25T16:51:48.957423+00:00",
+    "last_seen": "2026-11-26T16:28:35.370191+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4466,7 +4466,7 @@
     ],
     "published": "2026-11-24T04:20:21+00:00",
     "first_seen": "2026-11-24T17:00:49.114744+00:00",
-    "last_seen": "2026-11-25T16:51:41.771594+00:00",
+    "last_seen": "2026-11-26T16:28:35.370189+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4520,7 +4520,7 @@
     ],
     "published": "2026-11-23T11:55:43+00:00",
     "first_seen": "2026-11-24T17:00:49.114822+00:00",
-    "last_seen": "2026-11-25T16:51:41.771672+00:00",
+    "last_seen": "2026-11-26T16:28:28.250059+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4646,7 +4646,7 @@
     ],
     "published": "2026-11-24T01:35:00+00:00",
     "first_seen": "2026-11-24T17:00:54.479166+00:00",
-    "last_seen": "2026-11-25T16:51:47.203705+00:00",
+    "last_seen": "2026-11-26T16:28:33.585279+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4664,7 +4664,7 @@
     ],
     "published": "2026-11-24T00:00:00+00:00",
     "first_seen": "2026-11-24T17:00:54.479200+00:00",
-    "last_seen": "2026-11-25T16:51:47.203718+00:00",
+    "last_seen": "2026-11-26T16:28:33.585284+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4682,7 +4682,7 @@
     ],
     "published": "2026-11-24T14:19:31+00:00",
     "first_seen": "2026-11-24T17:00:54.479218+00:00",
-    "last_seen": "2026-11-25T16:51:47.203714+00:00",
+    "last_seen": "2026-11-26T16:28:33.585287+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4755,7 +4755,7 @@
     ],
     "published": "2026-11-25T10:54:49+00:00",
     "first_seen": "2026-11-25T16:51:40.017943+00:00",
-    "last_seen": "2026-11-25T16:51:48.957345+00:00",
+    "last_seen": "2026-11-26T16:28:35.370183+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4773,7 +4773,7 @@
     ],
     "published": "2026-11-22T03:47:33+00:00",
     "first_seen": "2026-11-25T16:51:40.018009+00:00",
-    "last_seen": "2026-11-25T16:51:40.018011+00:00",
+    "last_seen": "2026-11-26T16:28:26.433796+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4791,7 +4791,7 @@
     ],
     "published": "2026-11-25T10:25:44+00:00",
     "first_seen": "2026-11-25T16:51:41.771650+00:00",
-    "last_seen": "2026-11-25T16:51:48.957419+00:00",
+    "last_seen": "2026-11-26T16:28:35.370200+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4918,7 +4918,7 @@
     ],
     "published": "2026-11-21T14:08:17+00:00",
     "first_seen": "2026-11-25T16:51:48.957401+00:00",
-    "last_seen": "2026-11-25T16:51:48.957404+00:00",
+    "last_seen": "2026-11-26T16:28:35.370194+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4936,7 +4936,116 @@
     ],
     "published": "2026-11-25T01:05:00+00:00",
     "first_seen": "2026-11-25T16:51:50.700589+00:00",
-    "last_seen": "2026-11-25T16:51:50.700591+00:00",
+    "last_seen": "2026-11-26T16:28:37.159650+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "ba9730d22f976a9c": {
+    "id": "ba9730d22f976a9c",
+    "title_key": "5a2f4c2c30adeb25",
+    "title": "MIDDLE EAST TAX ALERT | UAE Corporate Tax | What the FTA’s Revised Tax Groups Guide Means for Your Group - Alvarez & Marsal",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcWtHckRldlRtVHZycjVBVG54Y3lqWHp0cE9oSGxvV3BVZElxWkg1WUZVdHFBdzJXOFN4M1dncnNrM3BKV0hJdlMxZzZFLUV2YTNWcnVjSUl4d1U4eGdGb2UyVTFDcDh5QlNLYk9fUkxDTDNtR2x5MkRVQmVueHNrTHRQbTFIbU1fSGJUOVhGb0VHTmFXM2V0bzUtQzJKMHJFWEY0RE9zWTdxQlhKc1lWLURiZXFWMnotM1VTaTNjZmFmQWs5aEROTjRNcDN5NmZkV2ZzeTlvZTJ1cFgwdTA1UlhseHB3VzA?oc=5",
+    "summary": "MIDDLE EAST TAX ALERT | UAE Corporate Tax | What the FTA’s Revised Tax Groups Guide Means for Your Group Alvarez & Marsal",
+    "source": "News — UAE Corporate Tax",
+    "authority": "news",
+    "categories": [
+      "Corporate Tax"
+    ],
+    "published": "2026-11-26T10:17:28+00:00",
+    "first_seen": "2026-11-26T16:28:26.433728+00:00",
+    "last_seen": "2026-11-26T16:28:28.250032+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "d01e4d82f1afad51": {
+    "id": "d01e4d82f1afad51",
+    "title_key": "3512e124198895e1",
+    "title": "Corporate Compliance UAE: Costs, Owners and Calendar - Global Advisory Experts",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbjZZUWQzQUNRRVNHckRZQ0FZcE5VRVNYQWExMmhqZVNyWDZmWGtrZnQxS1FxLWRMTzdiNmg3MUFhRmVSakpPOWx2emtVajFqOHVsLXB2YmF3VnIwRk1vZF9HOEk1ZWdSYVE0TDZWbnBGbmpqVGFKWU5DSDVFd2xPa1hsNG9iTHFBRHh5bm92dHozd2RwN2VwM01LUQ?oc=5",
+    "summary": "Corporate Compliance UAE: Costs, Owners and Calendar Global Advisory Experts",
+    "source": "News — UAE Corporate Tax",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-11-26T11:19:12+00:00",
+    "first_seen": "2026-11-26T16:28:26.433784+00:00",
+    "last_seen": "2026-11-26T16:28:35.370203+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "6a69ceddf918f21d": {
+    "id": "6a69ceddf918f21d",
+    "title_key": "624f508347ac4182",
+    "title": "These leading business consultancies and tax advisory firms help businesses thrive in the UAE - Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMkJYYnVMMXd0WXNDcUxqbTk3dnNxTDNOOURtM0hCLVpXZkpmdnFIaVYxcVM0VkluWG0yWDlFTlhEU1VhUjUwTzktckNUelZJa2FCWGdLQXZnUUM3STVPcFlZQnZDaWhoSk4zRHpsOU43TlAyT1JWMm9GVzdqaDdLRGh2OUc1cVFnUUV5Mkx6aXhMLVpROEhSZ0tValJDeWpnYlltbzZsT3QwemR3MGxUUWs2VERNb3JtLW1DXzFtTmo5Mk9IY1kzTnBfSldOVTFtaFptMlo3cjJXLUNBNE9LbdIB4AFBVV95cUxPMkJYYnVMMXd0WXNDcUxqbTk3dnNxTDNOOURtM0hCLVpXZkpmdnFIaVYxcVM0VkluWG0yWDlFTlhEU1VhUjUwTzktckNUelZJa2FCWGdLQXZnUUM3STVPcFlZQnZDaWhoSk4zRHpsOU43TlAyT1JWMm9GVzdqaDdLRGh2OUc1cVFnUUV5Mkx6aXhMLVpROEhSZ0tValJDeWpnYlltbzZsT3QwemR3MGxUUWs2VERNb3JtLW1DXzFtTmo5Mk9IY1kzTnBfSldOVTFtaFptMlo3cjJXLUNBNE9LbQ?oc=5",
+    "summary": "These leading business consultancies and tax advisory firms help businesses thrive in the UAE Gulf News",
+    "source": "News — UAE Corporate Tax",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-11-26T13:38:01+00:00",
+    "first_seen": "2026-11-26T16:28:26.433819+00:00",
+    "last_seen": "2026-11-26T16:28:31.830930+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "938b98b1af380e92": {
+    "id": "938b98b1af380e92",
+    "title_key": "faadf64d5445b10d",
+    "title": "UAE Free Zones: Transfer pricing compliance key to retaining 0% corporate tax rate - Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZXZkWkF0VU1GeHhqS1ViclVDM0VJMkp1WFNjYzdfcVBQWVpxVGl1X21XZkNfdGYtUWZUWW9lV2p1NU8zSVBIVDVyQ3B6MG9mNE9HZ0RzbjFhZGFMa3o2bmR4OFVubTRCQmtXRUphTllZRmJlS252T29USHhuSVphaU8zbFQ5dWxtb005UHRZRWd3T0lXYUtucVRHQ2FwT2ZPSnI0d20xcjM0aWFiQ0J6TUcybmFrNUtDeGVhY2pFTdIBzwFBVV95cUxOVlVUMy1RUXY1ODBWR2FZaXUybTBRcTk4UlJaVDMxd0tEQTRfSzZRcmNXX2UxN0dWSF9hOW9IaXJpbDdRYWs5MGtyTTlxX0V6WVZvblBmdlZXbGJnTzdzRV95MXNBU1dWWnA0VS1nc2xCZTBtbHdyTkl0bmN2eEZCWE1oYW5YSU1iSmRPWmlzTDlfNDdHY3BuNi0wWm9UQ2FaMTNJT1hoVGpHa0oySkpKaWY3dktNTXdTMHZyYm9aeThxaVI4Sk0tdWM0MzIzSmc?oc=5",
+    "summary": "UAE Free Zones: Transfer pricing compliance key to retaining 0% corporate tax rate Gulf News",
+    "source": "News — UAE Transfer Pricing",
+    "authority": "news",
+    "categories": [
+      "Corporate Tax",
+      "Transfer Pricing"
+    ],
+    "published": "2026-11-26T07:13:48+00:00",
+    "first_seen": "2026-11-26T16:28:30.018450+00:00",
+    "last_seen": "2026-11-26T16:28:30.018452+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "9f941142edd109a4": {
+    "id": "9f941142edd109a4",
+    "title_key": "57f94d024d6cde0b",
+    "title": "From Setup to Success: How Smart Zone redefines business growth in the UAE - Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMTQ1N25HVXlFVTNfZjRIVkFwUUxyVmR4WHBPN0cwS05ndmJjNVFEY1UxVjIxOEdXTmY0ZWQ4UFhOQVJwbHhDSXRxd1NrY3hBWkpoQ0thdkFqRnFYVmdqQWpWSDN1dURVY0kwdXM4cFl6YkM0X1N0SklpdW16dVJGSm0xWHl6UHQ2N1VhUklhS1pPWUI3Y01yX3NqZUgxbWo4RUtueWxiUksxV0lXMFpsQkI3NDNhZ9IBxgFBVV95cUxOcDVqbWtSenpmdEF4aW9JUThvQlVCSTVONGFWQjBXbWc2TTRkLXpUZEd0MGc5bmtOSjlqek1SVWRVSVNpWmtnbERteDNVT0RpTDNQalREdUlhUkJEWXVDSnF1aVJIZHBLNU41elNsUWpHbnZxbENWTkpPSnB5VjFUM1NzLXdMbFE5MXJXelVmWnVaUUJjamgzeWNpczhhOGplNzN6dmFhYWFJTS1HSzVjU1loOGFKWlF1aWtFOVNQV3pNcmdNNFE?oc=5",
+    "summary": "From Setup to Success: How Smart Zone redefines business growth in the UAE Gulf News",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-11-26T08:13:07+00:00",
+    "first_seen": "2026-11-26T16:28:31.830901+00:00",
+    "last_seen": "2026-11-26T16:28:31.830902+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "1e33cd2fdb305442": {
+    "id": "1e33cd2fdb305442",
+    "title_key": "bb560041303dde03",
+    "title": "How KGRN supports UAE enterprises with expertise and innovation - Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZkR2cllpTjZXamtZdVNmU19GQUgxajRVZ2ZCUlJLeDNiN3FQT3lmNEw0cm43MVBxenRHTHRETjRwZ0I1NGdfZElla0pqUVRMY0pNVm5GUThsT21LaU5kclhNVjF1TVRrLWRDYld3NWxpVnlwSk9VaEQ2WG93ajRBWWVsVDVtaTlJYVdudHlVYUhVNldhQjV4ZXJoTkJZak5wNFVfdVdnSTbSAbgBQVVfeXFMUElMbGczR2t1enVmVy13aEt6ZHJFblQ2UjV2X1lYZkM5RGVDcVB3NjhQM0tld3I0eUFlbVZldEp0cXl0Vi1WZHBnVTBuNlhHWGV2OGZJS1MtaDhQTTRvWXpOQ1BHaVhweUFWYmluZ3Q5LUNpT2hGaVh1M3VzbmJoeV9yeGhkREFaQXJ3ZmVaR2IyRGpLa1M2dHZDZzM0anlISEhQbDFwYWUtOG9FMDhMdEptekR0WVNiUQ?oc=5",
+    "summary": "How KGRN supports UAE enterprises with expertise and innovation Gulf News",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "VAT"
+    ],
+    "published": "2026-11-26T07:52:10+00:00",
+    "first_seen": "2026-11-26T16:28:31.830924+00:00",
+    "last_seen": "2026-11-26T16:28:31.830925+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
