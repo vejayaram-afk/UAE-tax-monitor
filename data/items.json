@@ -2699,7 +2699,7 @@
     ],
     "published": "2026-11-02T08:02:24+00:00",
     "first_seen": "2026-11-06T13:48:24.512950+00:00",
-    "last_seen": "2026-11-06T13:48:24.512952+00:00",
+    "last_seen": "2026-11-27T16:13:51.103707+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -2753,7 +2753,7 @@
     ],
     "published": "2026-11-03T08:00:00+00:00",
     "first_seen": "2026-11-06T13:48:29.946194+00:00",
-    "last_seen": "2026-11-26T16:28:37.159637+00:00",
+    "last_seen": "2026-11-27T16:13:56.959068+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -3168,7 +3168,7 @@
     ],
     "published": "2026-11-11T05:51:55+00:00",
     "first_seen": "2026-11-11T13:38:26.071323+00:00",
-    "last_seen": "2026-11-26T16:28:37.159643+00:00",
+    "last_seen": "2026-11-27T16:13:56.959077+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -3691,7 +3691,7 @@
     ],
     "published": null,
     "first_seen": "2026-11-19T15:19:30.739335+00:00",
-    "last_seen": "2026-11-26T16:28:15.145194+00:00",
+    "last_seen": "2026-11-27T16:13:32.539317+00:00",
     "domain": "mof.gov.ae",
     "read": false,
     "actioned": false
@@ -3871,7 +3871,7 @@
     ],
     "published": null,
     "first_seen": "2026-11-20T14:57:15.035443+00:00",
-    "last_seen": "2026-11-26T16:28:15.145174+00:00",
+    "last_seen": "2026-11-27T16:13:32.539311+00:00",
     "domain": "mof.gov.ae",
     "read": false,
     "actioned": false
@@ -4123,7 +4123,7 @@
     ],
     "published": "2026-11-21T01:30:00+00:00",
     "first_seen": "2026-11-23T17:29:14.912324+00:00",
-    "last_seen": "2026-11-26T16:28:35.370197+00:00",
+    "last_seen": "2026-11-27T16:13:55.003786+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4141,7 +4141,7 @@
     ],
     "published": "2026-11-21T07:00:19+00:00",
     "first_seen": "2026-11-23T17:29:14.912351+00:00",
-    "last_seen": "2026-11-26T16:28:28.250049+00:00",
+    "last_seen": "2026-11-27T16:13:47.330098+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4213,7 +4213,7 @@
     ],
     "published": "2026-11-23T09:00:00+00:00",
     "first_seen": "2026-11-23T17:29:20.630640+00:00",
-    "last_seen": "2026-11-26T16:28:31.830856+00:00",
+    "last_seen": "2026-11-27T16:13:51.103712+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4429,7 +4429,7 @@
     ],
     "published": "2026-11-22T01:12:32+00:00",
     "first_seen": "2026-11-24T17:00:47.307927+00:00",
-    "last_seen": "2026-11-26T16:28:35.370191+00:00",
+    "last_seen": "2026-11-27T16:13:55.003776+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4466,7 +4466,7 @@
     ],
     "published": "2026-11-24T04:20:21+00:00",
     "first_seen": "2026-11-24T17:00:49.114744+00:00",
-    "last_seen": "2026-11-26T16:28:35.370189+00:00",
+    "last_seen": "2026-11-27T16:13:47.330027+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4538,7 +4538,7 @@
     ],
     "published": "2026-11-24T10:44:15+00:00",
     "first_seen": "2026-11-24T17:00:50.881125+00:00",
-    "last_seen": "2026-11-25T16:51:48.957452+00:00",
+    "last_seen": "2026-11-27T16:13:55.003799+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4646,7 +4646,7 @@
     ],
     "published": "2026-11-24T01:35:00+00:00",
     "first_seen": "2026-11-24T17:00:54.479166+00:00",
-    "last_seen": "2026-11-26T16:28:33.585279+00:00",
+    "last_seen": "2026-11-27T16:13:52.974909+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4664,7 +4664,7 @@
     ],
     "published": "2026-11-24T00:00:00+00:00",
     "first_seen": "2026-11-24T17:00:54.479200+00:00",
-    "last_seen": "2026-11-26T16:28:33.585284+00:00",
+    "last_seen": "2026-11-27T16:13:52.974923+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4682,7 +4682,7 @@
     ],
     "published": "2026-11-24T14:19:31+00:00",
     "first_seen": "2026-11-24T17:00:54.479218+00:00",
-    "last_seen": "2026-11-26T16:28:33.585287+00:00",
+    "last_seen": "2026-11-27T16:13:52.974918+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4755,7 +4755,7 @@
     ],
     "published": "2026-11-25T10:54:49+00:00",
     "first_seen": "2026-11-25T16:51:40.017943+00:00",
-    "last_seen": "2026-11-26T16:28:35.370183+00:00",
+    "last_seen": "2026-11-27T16:13:55.003767+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4791,7 +4791,7 @@
     ],
     "published": "2026-11-25T10:25:44+00:00",
     "first_seen": "2026-11-25T16:51:41.771650+00:00",
-    "last_seen": "2026-11-26T16:28:35.370200+00:00",
+    "last_seen": "2026-11-27T16:13:55.003791+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4918,7 +4918,7 @@
     ],
     "published": "2026-11-21T14:08:17+00:00",
     "first_seen": "2026-11-25T16:51:48.957401+00:00",
-    "last_seen": "2026-11-26T16:28:35.370194+00:00",
+    "last_seen": "2026-11-27T16:13:55.003781+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4936,7 +4936,7 @@
     ],
     "published": "2026-11-25T01:05:00+00:00",
     "first_seen": "2026-11-25T16:51:50.700589+00:00",
-    "last_seen": "2026-11-26T16:28:37.159650+00:00",
+    "last_seen": "2026-11-27T16:13:56.959098+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4954,7 +4954,7 @@
     ],
     "published": "2026-11-26T10:17:28+00:00",
     "first_seen": "2026-11-26T16:28:26.433728+00:00",
-    "last_seen": "2026-11-26T16:28:28.250032+00:00",
+    "last_seen": "2026-11-27T16:13:47.330022+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4972,7 +4972,7 @@
     ],
     "published": "2026-11-26T11:19:12+00:00",
     "first_seen": "2026-11-26T16:28:26.433784+00:00",
-    "last_seen": "2026-11-26T16:28:35.370203+00:00",
+    "last_seen": "2026-11-27T16:13:55.003794+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -4990,7 +4990,7 @@
     ],
     "published": "2026-11-26T13:38:01+00:00",
     "first_seen": "2026-11-26T16:28:26.433819+00:00",
-    "last_seen": "2026-11-26T16:28:31.830930+00:00",
+    "last_seen": "2026-11-27T16:13:45.451841+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -5009,7 +5009,7 @@
     ],
     "published": "2026-11-26T07:13:48+00:00",
     "first_seen": "2026-11-26T16:28:30.018450+00:00",
-    "last_seen": "2026-11-26T16:28:30.018452+00:00",
+    "last_seen": "2026-11-27T16:13:49.210194+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -5027,7 +5027,7 @@
     ],
     "published": "2026-11-26T08:13:07+00:00",
     "first_seen": "2026-11-26T16:28:31.830901+00:00",
-    "last_seen": "2026-11-26T16:28:31.830902+00:00",
+    "last_seen": "2026-11-27T16:13:51.103810+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
@@ -5045,7 +5045,188 @@
     ],
     "published": "2026-11-26T07:52:10+00:00",
     "first_seen": "2026-11-26T16:28:31.830924+00:00",
-    "last_seen": "2026-11-26T16:28:31.830925+00:00",
+    "last_seen": "2026-11-27T16:13:51.103814+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "7944d48a7ce0eee0": {
+    "id": "7944d48a7ce0eee0",
+    "title_key": "a3a42c6346626d9d",
+    "title": "Ministry of Finance Issues First AED-denominated Digital Sovereign Treasury Bonds",
+    "url": "https://mof.gov.ae/en/news/ministry-of-finance-issues-first-aed-denominated-digital-sovereign-treasury-bonds/",
+    "summary": "",
+    "source": "Ministry of Finance — News",
+    "authority": "official",
+    "categories": [
+      "Other"
+    ],
+    "published": null,
+    "first_seen": "2026-11-27T16:13:32.539271+00:00",
+    "last_seen": "2026-11-27T16:13:32.539290+00:00",
+    "domain": "mof.gov.ae",
+    "read": false,
+    "actioned": false
+  },
+  "d36ef2294435b540": {
+    "id": "d36ef2294435b540",
+    "title_key": "81d4f6f0ed168d45",
+    "title": "MIDDLE EAST TAX ALERT | UAE | FTA Issues Three VAT Directives on Total-Loss Assets, Musataha Agreements and Vending Machines - Alvarez & Marsal",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNmRKSlVhR0cxOVBVQTFKRGk2OW9FLXpUSF8xXy1pbzRKdlNyaTZJcmZCcnJnWXhLX2NhT2YwdERoZVo4bW1WQ0psM1FiYlF1RXVlUHNwaUpNaHc2UEI1Wk5NcHM1QjVUWnBqZHRZUGhTT1RvUnR1bGJlakVEcmxZS3lZRi1fTFd3Q012T2FrZmxmamRtRjBERDVoaktxZ1Y3QVhEaU9rVVU5SVdQc0pLZGtjQkdHbFJlRXdtaGkwRzhCVVFreHhrNUo3VF9NcnhVdm1CQjhRSzNDNlVMSXZnaFROV2UzRkpva0M5bHBwR2dhWEZRbzJwU3l3Z0xRUlk0?oc=5",
+    "summary": "MIDDLE EAST TAX ALERT | UAE | FTA Issues Three VAT Directives on Total-Loss Assets, Musataha Agreements and Vending Machines Alvarez & Marsal",
+    "source": "News — UAE Corporate Tax",
+    "authority": "news",
+    "categories": [
+      "VAT"
+    ],
+    "published": "2026-11-26T06:59:45+00:00",
+    "first_seen": "2026-11-27T16:13:45.451703+00:00",
+    "last_seen": "2026-11-27T16:13:47.330014+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "baf0254423f9bc82": {
+    "id": "baf0254423f9bc82",
+    "title_key": "066992f9efcdec85",
+    "title": "MIDDLE EAST TAX ALERT | UAE | e-Invoicing Guidelines V2.1: The Changes That Matter for Business - Alvarez & Marsal",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTEhOdnQwUXl4eHJZVWNvZ3ZuYzc2R0hPcGRkQXpxUDc0Y1VGeTJwYUN4NkNPWFJLNU80T3BySlc5NEx0WWxITGtPRndseHNuQllTeFRsV3VrOGoyelc5d1FRUkx5NHZxajI4bnNnVndZSzBnbjUxUzBKT2hIaFZNNWF5dWJCX0ItSEhHUlVnVEluUExGWXpIaE1US1N3RmpBQXZBZFhaWHdYbEN0SUhicHBpck5hcmM1OG9CakhzeHpuODQ2c0E0TXBWS2VNVVRlZkY4TEY3MjFJZw?oc=5",
+    "summary": "MIDDLE EAST TAX ALERT | UAE | e-Invoicing Guidelines V2.1: The Changes That Matter for Business Alvarez & Marsal",
+    "source": "News — UAE Corporate Tax",
+    "authority": "news",
+    "categories": [
+      "E-Invoicing"
+    ],
+    "published": "2026-11-27T08:02:06+00:00",
+    "first_seen": "2026-11-27T16:13:45.451751+00:00",
+    "last_seen": "2026-11-27T16:13:51.103698+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "7925852216d969dc": {
+    "id": "7925852216d969dc",
+    "title_key": "49ade066e0a228b1",
+    "title": "Mainland LLC vs Free Zone UAE 2026: Cost and Set-Up Plan - Global Advisory Experts",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbEpTd053VjAtMktGR1plY2tZVHV0am9fVFdTeFRvNWxKX0xtUmR6LW9FT19JZ2pzMWZJemJNczI2TnRXRTV0dHcxWmdaRDV6bEVDTk9sSDF3TUZGUENwM2JleHB3dHE4VDUzaEphdmp2MWtYUHZZNXdHNHJ0Sk93NUJWV1VmVk9DWEtQX3g2WWYtVXJfLS1hWU5OeUFrM28?oc=5",
+    "summary": "Mainland LLC vs Free Zone UAE 2026: Cost and Set-Up Plan Global Advisory Experts",
+    "source": "News — UAE Corporate Tax",
+    "authority": "news",
+    "categories": [
+      "Corporate Tax"
+    ],
+    "published": "2026-11-27T13:29:04+00:00",
+    "first_seen": "2026-11-27T16:13:45.451784+00:00",
+    "last_seen": "2026-11-27T16:13:45.451786+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "c29b30aba4943433": {
+    "id": "c29b30aba4943433",
+    "title_key": "927eaada89a381c5",
+    "title": "UAE e-invoicing: Does a group TRN replace subsidiaries’ TINs? What rules reveal - Gulf News",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaTAtRXphYnZDSEhBMDh4c01ZcUw4cG11ZmdMWDJQanFLbXYwU0t5NXd0RGZwM3BLUWRzRm1Kblo1TWxxb0dHUXlGRnMxdlJFZkZ6Q0Zlby1NMkZ5SHpzcVAxc0F6Slg0TURNZ0tSZW44WXJJSXV2Wlk3bmJPQlVUbWs5QXVETUJsRDVoUlBKcmUtdHFxbW1EeXY3ZE1XWVZYOEdzdTVGd1ZLX3dfU1RXcFBpRzZKNnNGWnFFamxEalNicTl1UFHSAdgBQVVfeXFMTlFWNXZ6ZHNPU1JHdmJOX0J6VDZ4TFBxeGk4Uzgya0c2TmhFeEk0VmI5YnFtZkx5a0JwVDNzUmNncDNPRHBhZkJfc1MxSTJrUE03QThMTjJySFRKZXFmWDB0MUNIZkFQRUpxQjN1SlpvNmlCODBnSTFTR3BLaEhsUlZodE9iYk4wbkxDSFFneUVTbDRZUGRpNVZiWTNFb2ZRMU5oZkJfVWN5N2NBWlBabWZ1dFVDbGZzQWVmSG1RV1lCcExJS19ENWVCTDVDRGFnRWdXNGw5OUVG?oc=5",
+    "summary": "UAE e-invoicing: Does a group TRN replace subsidiaries’ TINs? What rules reveal Gulf News",
+    "source": "News — UAE Corporate Tax",
+    "authority": "news",
+    "categories": [
+      "E-Invoicing"
+    ],
+    "published": "2026-11-27T03:07:00+00:00",
+    "first_seen": "2026-11-27T16:13:45.451822+00:00",
+    "last_seen": "2026-11-27T16:13:51.103771+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "e585b750aff2457a": {
+    "id": "e585b750aff2457a",
+    "title_key": "d19da69b9befe95e",
+    "title": "UAE e-invoicing explained: What companies in a tax group need to know - Arabian Business",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUFEzZkZpSFpYcjJfdk9pOTQzSmQtTk0zWG9aS1U4b092aHhfYklJOWxVNEN6cUFsdUFKMEJqNEd3SG9RNkxMdTQ3bWt4TEU0aHB6dzBIaHh0UWpHSHFzbV9LN0RUbHhLc0FLVVpsUjludlA3bkx3MFNraUxReXZtVHhGSkkwd2tJVF9EOElrNWlCOWI1RG0zOUhHSXFwbzhSZzg5SWJ3Um5SSFM0?oc=5",
+    "summary": "UAE e-invoicing explained: What companies in a tax group need to know Arabian Business",
+    "source": "News — UAE VAT",
+    "authority": "news",
+    "categories": [
+      "Corporate Tax",
+      "E-Invoicing"
+    ],
+    "published": "2026-11-27T10:08:52+00:00",
+    "first_seen": "2026-11-27T16:13:47.330070+00:00",
+    "last_seen": "2026-11-27T16:13:51.103716+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "10f99c181b2c0e82": {
+    "id": "10f99c181b2c0e82",
+    "title_key": "d752f6344e88fc2b",
+    "title": "UAE Einvoicing Pilot Goes Live Starting 1 July 2026: A Budget and Rollout Plan - Global Advisory Experts",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcENDdXJrTENrdWNXWEIxcWZmaVpCMW81TnpTSHROQVVvbUZ0MVZqR3U3aW1ucFV3YTRYQkVuTTlydnNXWkw5eG0ybUdBZUdJYTZzSjkxTXBrRENySl94b1dmRUZKRHNjUGNjaGd4bFpVQzFUTXFlX3ZNSVpjVFhiTWRLdWJtRE1KaXVqbnRRZFJyMU5IMFNjSlZPQWJVcHc?oc=5",
+    "summary": "UAE Einvoicing Pilot Goes Live Starting 1 July 2026: A Budget and Rollout Plan Global Advisory Experts",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "E-Invoicing"
+    ],
+    "published": "2026-11-27T09:38:59+00:00",
+    "first_seen": "2026-11-27T16:13:51.103758+00:00",
+    "last_seen": "2026-11-27T16:13:51.103760+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "c72f86dee80b60b3": {
+    "id": "c72f86dee80b60b3",
+    "title_key": "3ec6ccb81f4903e9",
+    "title": "UAE issues first digital treasury bonds worth AED180 million - Sharjah24",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aTDZkV0NWMF9BTVppbjhXYzQxbVRsSzlXbWh0XzYyWVZTb0xMZW82Zk9RRnpIVWY2bGhfQ1BONFl3YU0yN2RmRXVxN0IxQjdlVXI1R0t3UzhPeXNURGc?oc=5",
+    "summary": "UAE issues first digital treasury bonds worth AED180 million Sharjah24",
+    "source": "News — UAE E-Invoicing",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-11-27T08:53:11+00:00",
+    "first_seen": "2026-11-27T16:13:51.103799+00:00",
+    "last_seen": "2026-11-27T16:13:51.103801+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "00a845d047c5eceb": {
+    "id": "00a845d047c5eceb",
+    "title_key": "25c1bc12581f8d17",
+    "title": "IFRS 18 changes the income statement: what finance teams should prepare before 2027 - TechBullion",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUHBZU3RacUxJT2FBdUVwNTJuSGlGU3pyTC11SlZxU25QV2JrMkNqaG9CeDhBSG1aWXJOUXF0ZHJSSGNtamlCT3NhM01RMW9wblh1dDRmRHJydUN6OTY4WVhKNkxRZFRtUkZrTU5JRl9YZnJyWGlleHlTbXFJMUFFdGI2Q0phdTJweGxaalZBaHJoR21EeEYtNU5VUVJEZG1uX1c4RGtwaDVDMzA?oc=5",
+    "summary": "IFRS 18 changes the income statement: what finance teams should prepare before 2027 TechBullion",
+    "source": "News — IFRS Standards",
+    "authority": "news",
+    "categories": [
+      "IFRS / Reporting"
+    ],
+    "published": "2026-11-27T11:10:44+00:00",
+    "first_seen": "2026-11-27T16:13:52.974957+00:00",
+    "last_seen": "2026-11-27T16:13:52.974959+00:00",
+    "domain": "news.google.com",
+    "read": false,
+    "actioned": false
+  },
+  "67f5992303abe03b": {
+    "id": "67f5992303abe03b",
+    "title_key": "6363d4b22d67a928",
+    "title": "UAE Golden Visa 2026: Route Planner for Founders - Global Advisory Experts",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd1RmLWZZWTZFUk1yNm1NZE13TEFQb0lEdDUtN1pMZWN5WkFlbjhES3A3UWdJZ1pUTy01M0MtcGxqcTZIWmRDUjlpWXg4SHJmcTBXbk50dnhMUFlpbnNqNFBnbUtJZmpUTzR4bEgxNl9DRWNsWl9ibGFxS3BSTGpLcDEzeDU4Q0VXaGtEcWVrUWZCQWM?oc=5",
+    "summary": "UAE Golden Visa 2026: Route Planner for Founders Global Advisory Experts",
+    "source": "News — FTA Announcements",
+    "authority": "news",
+    "categories": [
+      "Other"
+    ],
+    "published": "2026-11-27T02:18:50+00:00",
+    "first_seen": "2026-11-27T16:13:55.003836+00:00",
+    "last_seen": "2026-11-27T16:13:55.003838+00:00",
     "domain": "news.google.com",
     "read": false,
     "actioned": false
